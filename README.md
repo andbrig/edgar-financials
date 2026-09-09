@@ -1,13 +1,17 @@
 # EDGAR Financials
 
-Financial statements for every SEC filer with a ticker (~10,400 companies),
-parsed from the SEC EDGAR database into clean balance sheets, income
-statements, and cash flows.
+Financial statements for every SEC filer with a ticker, parsed from the SEC
+EDGAR database into clean balance sheets, income statements, and cash flows.
+
+The universe is the SEC's published ticker file (`company_tickers.json`):
+~10,400 ticker records covering ~8,000 unique companies (some CIKs carry more
+than one ticker). This is "every SEC filer with a ticker" — not every US
+company; private companies don't file with the SEC.
 
 ## What it does
 
 - **Downloads** the full filing index + all XBRL financial facts for every SEC
-  filer with a ticker (~10,400 companies) via `data.sec.gov`.
+  filer with a ticker (~10,400 ticker records / ~8,000 unique companies) via `data.sec.gov`.
 - **Parses** XBRL into normalized annual & quarterly statements: income
   statement, balance sheet, cash flow, plus computed ratios
   (margins, ROE/ROA, debt/equity, current ratio).
@@ -27,6 +31,16 @@ The SEC's XBRL mandate phased in from 2009, so machine-readable financials
 before ~2009 are the systematic gap. Pre-2009 numbers in the database are
 marked `source='research'` with the origin recorded — everything else is
 `source='xbrl'`, straight from the filings.
+
+### Known data quirks
+
+- **XOM / ExxonMobil.** The SEC ticker file maps ticker `XOM` to CIK 2115436
+  ("ExxonMobil Holdings Corp"), which carries almost no XBRL facts. The
+  long-standing Exxon Mobil Corporation CIK 34088 does not appear in the
+  current ticker universe, so XOM financials are effectively absent. The
+  database faithfully reflects the SEC's published mapping.
+- **Duplicate tickers.** Some CIKs appear under more than one ticker, so the
+  ~10,400 ticker records resolve to ~8,000 unique companies.
 
 ## Quick start
 

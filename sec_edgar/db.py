@@ -47,6 +47,11 @@ CREATE TABLE IF NOT EXISTS research_overrides (
 );
 CREATE INDEX IF NOT EXISTS idx_facts_metric_frame ON facts(metric, frame);
 CREATE INDEX IF NOT EXISTS idx_filings_cik_filed ON filings(cik, filed);
+CREATE TABLE IF NOT EXISTS dashboard_stats (
+    key     TEXT PRIMARY KEY,
+    value   TEXT NOT NULL,   -- JSON payload
+    built   TEXT             -- ISO timestamp of computation
+);
 """
 
 
