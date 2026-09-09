@@ -1,0 +1,293 @@
+SOURCE: PG_2003_10-K.htm
+
+Found 14 HTML tables.
+
+===== TABLE 2 (year-hits=36) =====
+                                                     0                                                                                              1                                                                                              2                                                                                              3                                                                                              4                                                                                              5                                                                                              6                                                                                              7                                                                                              8
+0                                                  NaN                                                                                            NaN                                                                                            NaN                                                                                            NaN                                                                                            NaN                                                                                            NaN                                                                                            NaN                                                                                            NaN                                                                                            NaN
+1                                               PART I                                                                                         PART I                                                                                         PART I                                                                                         PART I                                                                                         PART I                                                                                         PART I                                                                                         PART I                                                                                         PART I                                                                                         PART I
+2                                                  NaN                                                                               Item 1. Business                                                                               Item 1. Business                                                                               Item 1. Business                                                                               Item 1. Business                                                                               Item 1. Business                                                                               Item 1. Business                                                                               Item 1. Business                                                                               Item 1. Business
+3                                                  NaN                                                                             Item 2. Properties                                                                             Item 2. Properties                                                                             Item 2. Properties                                                                             Item 2. Properties                                                                             Item 2. Properties                                                                             Item 2. Properties                                                                             Item 2. Properties                                                                             Item 2. Properties
+4                                                  NaN                                                                      Item 3. Legal Proceedings                                                                      Item 3. Legal Proceedings                                                                      Item 3. Legal Proceedings                                                                      Item 3. Legal Proceedings                                                                      Item 3. Legal Proceedings                                                                      Item 3. Legal Proceedings                                                                      Item 3. Legal Proceedings                                                                      Item 3. Legal Proceedings
+5                                                  NaN                                    Item 4. Submission of Matters to a Vote of Security Holders                                    Item 4. Submission of Matters to a Vote of Security Holders                                    Item 4. Submission of Matters to a Vote of Security Holders                                    Item 4. Submission of Matters to a Vote of Security Holders                                    Item 4. Submission of Matters to a Vote of Security Holders                                    Item 4. Submission of Matters to a Vote of Security Holders                                    Item 4. Submission of Matters to a Vote of Security Holders                                    Item 4. Submission of Matters to a Vote of Security Holders
+6                                              PART II                                                                                        PART II                                                                                        PART II                                                   
+
+===== TABLE 3 (year-hits=20) =====
+              0   1                                       2                                       3                                       4                                       5                                       6                                       7                                       8                                       9                                       10                                      11                                      12  13                      14                      15                      16                      17                      18                      19                      20                      21                      22                      23                      24
+0            NaN NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN
+1            NaN NaN  Net Sales (for the year ended June 30)  Net Sales (for the year ended June 30)  Net Sales (for the year ended June 30)  Net Sales (for the year ended June 30)  Net Sales (for the year ended June 30)  Net Sales (for the year ended June 30)  Net Sales (for the year ended June 30)  Net Sales (for the year ended June 30)  Net Sales (for the year ended June 30)  Net Sales (for the year ended June 30)  Net Sales (for the year ended June 30) NaN  Assets (as of June 30)  Assets (as of June 30)  Assets (as of June 30)  Assets (as of June 30)  Assets (as of June 30)  Assets (as of June 30)  Assets (as of June 30)  Assets (as of June 30)  Assets (as of June 30)  Assets (as of June 30)  Assets (as of June 30)
+2            NaN NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN
+3            NaN NaN                                    2003                                    2003                                    2003                                     NaN                                    2002                                    2002                                    2002                                     NaN                                    2001                                    2001                                    2001 NaN                    2003                    2003                    2003                     NaN                    2002                    2002                    2002                     NaN                    2001                    2001                    2001
+4            NaN NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN                                     NaN NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN                     NaN
+5  United States NaN                                       $                                   21853                                     NaN                                     NaN                                       $                                   21198                                     NaN                                     NaN                                       $                                   20334                                     NaN NaN                       $                   23424                     NaN                     NaN                       $                   23434                     NaN                     NaN                       $                   18318                     NaN
+6  International NaN                                     NaN                                   21524                                     NaN                                     NaN                                     NaN                                   19040                                     NaN                                     NaN                                     NaN                                   18910                                     NaN NaN                     NaN                   20282                     NaN                     NaN                     NaN                   17342                     NaN                     NaN                     NaN                   16069                     NaN
+
+===== TABLE 4 (year-hits=18) =====
+      0                       1   2                                                                                                                               3   4    5    6    7   8                 9                 10                11
+0    NaN                     NaN NaN                                                                                                                             NaN NaN  NaN  NaN  NaN NaN               NaN               NaN               NaN
+1    NaN                     NaN NaN                                                                                                                             NaN NaN  NaN  NaN  NaN NaN        Elected to        Elected to        Elected to
+2   Name                    Name NaN                                                                                                                        Position NaN  Age  Age  Age NaN  Officer Position  Officer Position  Officer Position
+3    NaN                     NaN NaN                                                                                                                             NaN NaN  NaN  NaN  NaN NaN               NaN               NaN               NaN
+4    NaN          Alan G. Lafley NaN                                                Chairman of the Board, President and Chief Executive Director since June 8, 2000 NaN  NaN   56  NaN NaN               NaN              1992               NaN
+5    NaN                     NaN NaN                                                                                                                             NaN NaN  NaN  NaN  NaN NaN               NaN               NaN               NaN
+6    NaN         Bruce L. Byrnes NaN  Vice Chairman of the Board and President - Global Beauty and Feminine Care and Global Health Care Director since April 8, 2002 NaN  NaN   55  NaN NaN               NaN              1991               NaN
+7    NaN                     NaN NaN                                                                                                                             NaN NaN  NaN  NaN  NaN NaN               NaN               NaN               NaN
+8    NaN          R. Kerry Clark NaN       Vice Chairman of the Board and President - Global Market Development and Business Operations Director since April 8, 2002 NaN  NaN   51  NaN NaN               NaN              1995               NaN
+9    NaN                     NaN NaN                                                                                                                             NaN NaN  NaN  NaN  NaN NaN               NaN               NaN               NaN
+10   NaN      Richard L. Antoine NaN                                                                                                  Global Human Resources Officer NaN  NaN   57  NaN NaN               NaN              1998               NaN
+11   NaN                     NaN NaN                                                                                                                             NaN NaN  NaN  NaN  NaN NaN               NaN               NaN               NaN
+12   NaN        G. Gilbert Cloyd NaN                                                                                                        Chief Technology Officer NaN  NaN   57  NaN NaN               NaN              2000               NaN
+13   NaN                     NaN NaN                                                                                                                             NaN NaN  NaN  NaN  NaN NaN               NaN               NaN               NaN
+14   NaN   Clayton C. Daley, Jr. NaN                                                                                                         Chief Financial Officer NaN  NaN   51  NaN NaN               NaN              1998               NaN
+15   NaN                     NaN NaN                                                                                                                             NaN NaN  NaN  NaN  NaN NaN               NaN               NaN               NaN
+16   NaN        Stephen N. David NaN                                                                      Chief Information Officer and Business-to-Business Officer NaN  NaN   54  NaN NaN               NaN              1998               NaN
+17   NaN                     NaN NaN                                                                                                                             NaN NaN  NaN  NaN  NaN NaN               NaN               NaN               NaN
+18   NaN  R. Keith Harrison, Jr. NaN                                                                                                   Global Product Supply Officer NaN  NaN   55  NaN NaN               NaN              2001               NaN
+19   NaN                     NaN NaN                                                                                                                             NaN NaN  NaN  NaN  NaN NaN               NaN               NaN               NaN
+20   NaN        James J. Johnson NaN                                                                                                             Chief Legal Officer NaN  NaN   56  NaN NaN               NaN              1991               NaN
+21   NaN                     NaN NaN                                                                                                                             NaN NaN  NaN  NaN  NaN NaN               NaN               NaN               NaN
+22   NaN         Mark D. Ketchum NaN                                                                                         President - Global Baby and Family Care NaN  NaN   53  NaN NaN               NaN              1996               NaN
+23   NaN                     NaN NaN                                                                                                                             NaN NaN  NaN  NaN  NaN NaN     
+
+===== TABLE 5 (year-hits=65) =====
+     0   1   2    3   4   5                                                                                                                                                                                         6                                                                                                                                                                                         7                                                                                                                                                                                         8                                                                                                                                                                                         9                                                                                                                                                                                         10                                                                                                                                                                                        11                                                                                                                                                                                                                                                  12
+0   NaN NaN NaN  NaN NaN NaN                                                                                                                                                                                       NaN                                                                                                                                                                                       NaN                                                                                                                                                                                       NaN                                                                                                                                                                                       NaN                                                                                                                                                                                       NaN                                                                                                                                                                                       NaN                                                                                                                                                                                                                                                 NaN
+1    A. NaN NaN  1.0 NaN NaN                                                                                                                                                                     Financial Statements:                                                                                                                                                                     Financial Statements:                                                                                                                                                                     Financial Statements:                                                                                                                                                                     Financial Statements:                                                                                                                                                                     Financial Statements:                                                                                                                                                                     Financial Statements:                                                                                                                                                                                                                               Financial Statements:
+2   NaN NaN NaN  NaN NaN NaN                                                                                                                                                                                       NaN                                                                                                                                                                                       NaN                                                                                                                                                                                       NaN                                                                                                                                                                                       NaN                                                                                                                                                                                       NaN                                                                                                                                                                                       NaN                                                                                                                                                                                                                                                 NaN
+3   NaN NaN NaN  NaN NaN NaN   The following consolidated financial statements of The Procter & Gamble Company and subsidiaries and the independent auditors’ report are incorporated by reference in Part II, Item 8.   The following consolidated financial statements of The Procter & Gamble Company and subsidiaries and the independent auditors’ report are incorporated by reference in Part II, Item 8.   The following consolidated financial stat
+
+----- context @ 6432 -----
+PART II 
+ Item 5. Market for the Common Stock and Related Stockholder Matters 
+ Item 6. Selected Financial Data 
+ Item 7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations 
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ Item 8. Financial Statements and Supplemental Data 
+ Item 9. Disagreements on Accounting and Financial Disclosure 
+ Item 9A. Controls and Procedures 
+ PART III 
+ Item 10. Directors and Executive Officers 
+ Item 11. Executive Compensation 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management 
+ Item 13. Certain Relationships and Related Transactions 
+ PART IV 
+ Item 14. Exhibits, Financial Statements, Schedules and Reports on Form 8-K 
+ SIGNATURES 
+ EXHIBIT INDEX 
+ EX-3.1 Amended Articles 
+ EX-3.2 Regulation 
+ EX-10.1 2001 Stock and Incentive Compensation Plan 
+ EX-10.2 1992 Stock Plan 
+ EX-10.3 Executive Life Insurance Policy 
+ EX-10.5 Deferred Comp 
+ EX-10.6 1993 Non-Employee Directors' Stock Plan 
+ EX-10.7 1992 Stock Option Plan 
+ EX-10.8 Future Shares Plan 
+ EX-11 Computation of EPS 
+ EX-12 Computation of Ratio 
+ EX-13 Annual Report 
+ EX-21 Subsidiaries of Reg 
+ EX-23 Independent Auditors' Consent 
+ EX-31 Certs 
+ EX-32 Certs 
+ EX-99.2 
+ EX-99.3 
+ EX-99.4 
+ EX-99.5 
+ EX-99.6 
+ EX-99.7 
+ EX-99.8 
+ EX-99.9 
+ EX-99.10 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ PART I 
+ 
+
+ 
+ 
+ Item&nbsp;1. Business .
+ 
+
+ General Development of Business 
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Procter &#038; Gamble Company was incorporated in Ohio in 1905, having been
+built from a business founded in 1837 by William Procter and James Gamble.
+Today, the Company manufactures and markets a broad range of consumer products
+in many countries throughout the world.
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unless the context indicates otherwise, the term the &#147;Company&#148; as used
+herein refers to The Procter &#038; Gamble Company (the registrant) and its
+subsidiaries.
+ 
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In March, 2003, the Company entered into an agreement to acquire a
+controlling interest in Wella AG from the majority shareholders and, in June,
+2003, the Company completed a tender offer for the remaining outstanding voting
+class shares and preference shares. On September&nbsp;2, 2003, the Company
+completed the previously announced purchase of the shares of Wella AG held by
+the majority shareholders for 3.16&nbsp;billion Euros (approximately
+$3.42&nbsp;billion
+based on spot exchange rates on that date). On September&nbsp;10,
+2003, the Company purchased the shares secured through the tender offer for
+1.49&nbsp;billion Euros (approximately $1.67 billion based on spot exchange rates on
+that date). As a result of these purchases, the Company
+acquired approximately 81% of the outstanding Wella shares (99% of the voting
+class shares and 45% of the preference shares). The acquisition was financed
+by a mixture of available cash balances and debt. Wella AG is a leading beauty care company selling its
+products in more than 150 countries, focused on professional hair care, retail
+hair care and cosmetics and fragrances.
+ 
+
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+November&nbsp;16, 2001, the Company completed the acquisition of the Clairol
+business from Bristol-Myers Squibb Company and, on May&n
+
+----- context @ 52969 -----
+h appears on page 56 of the Annual Report to
+Shareholders for the fiscal year ended June&nbsp;30, 2003, and Part III, Item&nbsp;12 of
+this Annual Report on Form&nbsp;10-K.
+ 
+ 
+ 
+ Item&nbsp;6. Selected Financial Data .
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this item is incorporated by reference to Note
+1, Summary of Significant Accounting Policies, which appears on pages 40-42;
+Note 12, Segment Information, which appears on pages 53-54; and Financial
+Summary, which appears on page 55 of the Annual Report to Shareholders for the
+fiscal year ended June&nbsp;30, 2003.
+ 
+ 
+ 
+ Item&nbsp;7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations .
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this item is incorporated by reference to
+Financial Review, which appears on pages 23-33; Note 1, Summary of Significant
+Accounting Policies, which appears on pages 40-42; Note 2, Restructuring
+Program, which appears on pages 42-43; Note 3, Acquisitions and Spin-Off, which
+appears on pages 43-44 excluding the first paragraph, which is updated by the
+information on Wella in the third paragraph of Item&nbsp;I of this report; Note 11,
+Commitments and Contingencies, which appears on page 53; and Note 12, Segment
+Information, which appears on pages 53-54 of the Annual Report to Shareholders
+for the fiscal year ended June&nbsp;30, 2003.
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company has made certain forward-looking statements in the Annual
+Report to Shareholders for the fiscal year ended June&nbsp;30, 2003 and in other
+contexts relating to volume and net sales growth, increases in market shares,
+financial goals and cost reduction, among others.
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These forward-looking statements are based on assumptions and estimates
+regarding competitive activity, pricing, product introductions, economic
+conditions, customer and consumer trends, technological innovation, currency
+movements, governmental action and the development of certain markets available
+at the time the statements are made. Among the key factors necessary to achieve
+the Company&#146;s goals are: (1)&nbsp;the ability to achieve business plans, including
+growing existing sales and volume profitably and successfully managing and
+integrating key acquisitions (including Wella) and completing planned
+divestitures (including a potential sale of the Company&#146;s juice business),
+despite high levels of competitive activity, especially with respect to the
+product categories and geographical markets (including developing markets) on
+which the Company has chosen to focus; (2)&nbsp;the ability to manage and maintain
+key customer relationships; (3)&nbsp;the ability to maintain key manufacturing and
+supply sources (including sole supplier and plant manufacturing sources); (4)
+the ability to successfully manage regulatory, tax and legal matters (including
+product liability matters), and to resolve pending matters within current
+estimates; (5)&nbsp;the ability to successfully implement, achieve and sustain cost
+improvement plans in manufacturing and overhead areas, including successful
+completion of the Company&#146;s outsourcing projects; (6)&nbsp;the ability to
+successfully manage currency (including currency issues in volatile countries),
+interest rate and certain commodity cost exposures; (7)&nbsp;the ability to manage
+the continued global political and/or economic uncertainty, especially in the
+Company&#146;s significant geographical markets, as well as any political and/or
+economic uncertainty due to terrorist activities; and (8)&nbsp;the ability to
+successfully manage increases in the prices of raw materials used to make the
+Company&#146;s products. If the Company&#146;s assumptions and estimates are incorrect or
+do not come to fruition, or if the Company does not achieve all of these key
+factors, then the Company&#146;s actual performance could vary materially from the
+forward-looking statements made 
+
+----- context @ 53088 -----
+tem&nbsp;12 of
+this Annual Report on Form&nbsp;10-K.
+ 
+ 
+ 
+ Item&nbsp;6. Selected Financial Data .
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this item is incorporated by reference to Note
+1, Summary of Significant Accounting Policies, which appears on pages 40-42;
+Note 12, Segment Information, which appears on pages 53-54; and Financial
+Summary, which appears on page 55 of the Annual Report to Shareholders for the
+fiscal year ended June&nbsp;30, 2003.
+ 
+ 
+ 
+ Item&nbsp;7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations .
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this item is incorporated by reference to
+Financial Review, which appears on pages 23-33; Note 1, Summary of Significant
+Accounting Policies, which appears on pages 40-42; Note 2, Restructuring
+Program, which appears on pages 42-43; Note 3, Acquisitions and Spin-Off, which
+appears on pages 43-44 excluding the first paragraph, which is updated by the
+information on Wella in the third paragraph of Item&nbsp;I of this report; Note 11,
+Commitments and Contingencies, which appears on page 53; and Note 12, Segment
+Information, which appears on pages 53-54 of the Annual Report to Shareholders
+for the fiscal year ended June&nbsp;30, 2003.
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company has made certain forward-looking statements in the Annual
+Report to Shareholders for the fiscal year ended June&nbsp;30, 2003 and in other
+contexts relating to volume and net sales growth, increases in market shares,
+financial goals and cost reduction, among others.
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These forward-looking statements are based on assumptions and estimates
+regarding competitive activity, pricing, product introductions, economic
+conditions, customer and consumer trends, technological innovation, currency
+movements, governmental action and the development of certain markets available
+at the time the statements are made. Among the key factors necessary to achieve
+the Company&#146;s goals are: (1)&nbsp;the ability to achieve business plans, including
+growing existing sales and volume profitably and successfully managing and
+integrating key acquisitions (including Wella) and completing planned
+divestitures (including a potential sale of the Company&#146;s juice business),
+despite high levels of competitive activity, especially with respect to the
+product categories and geographical markets (including developing markets) on
+which the Company has chosen to focus; (2)&nbsp;the ability to manage and maintain
+key customer relationships; (3)&nbsp;the ability to maintain key manufacturing and
+supply sources (including sole supplier and plant manufacturing sources); (4)
+the ability to successfully manage regulatory, tax and legal matters (including
+product liability matters), and to resolve pending matters within current
+estimates; (5)&nbsp;the ability to successfully implement, achieve and sustain cost
+improvement plans in manufacturing and overhead areas, including successful
+completion of the Company&#146;s outsourcing projects; (6)&nbsp;the ability to
+successfully manage currency (including currency issues in volatile countries),
+interest rate and certain commodity cost exposures; (7)&nbsp;the ability to manage
+the continued global political and/or economic uncertainty, especially in the
+Company&#146;s significant geographical markets, as well as any political and/or
+economic uncertainty due to terrorist activities; and (8)&nbsp;the ability to
+successfully manage increases in the prices of raw materials used to make the
+Company&#146;s products. If the Company&#146;s assumptions and estimates are incorrect or
+do not come to fruition, or if the Company does not achieve all of these key
+factors, then the Company&#146;s actual performance could vary materially from the
+forward-looking statements made herein.
+ 
+ 7 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Item&nbsp;7A. Quantitative and Qualitative Disclosures About Market Risk .
+ 

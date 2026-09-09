@@ -1,0 +1,246 @@
+SOURCE: HD_2007_10-K.htm
+
+Found 50 HTML tables.
+
+===== TABLE 0 (year-hits=4) =====
+                                            0                                                                                         1
+0                                           ý      ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+1  For the fiscal year ended January 28, 2007                                                For the fiscal year ended January 28, 2007
+2                                          OR                                                                                        OR
+3                                           o  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+----- context @ 10570 -----
+OM"> 
+17 
+ 
+ 
+ 
+Item 6. 
+ &nbsp; 
+ 
+Selected Financial Data 
+ &nbsp; 
+ 
+19 
+ 
+ 
+ 
+Item 7. 
+ &nbsp; 
+ 
+Management's Discussion and Analysis of Financial Condition and Results of 
+&nbsp;&nbsp;&nbsp;&nbsp;Operations 
+ &nbsp; 
+ 
+20 
+ 
+ 
+ 
+Item 7A. 
+ &nbsp; 
+ 
+Quantitative and Qualitative Disclosures About Market Risk 
+ &nbsp; 
+ 
+30 
+ 
+ 
+ 
+Item 8. 
+ &nbsp; 
+ 
+Financial Statements and Supplementary Data 
+ &nbsp; 
+ 
+31 
+ 
+ 
+ 
+Item 9. 
+ &nbsp; 
+ 
+Changes in and Disagreements With Accountants on Accounting and Financial 
+&nbsp;&nbsp;&nbsp;&nbsp;Disclosure 
+ &nbsp; 
+ 
+60 
+ 
+ 
+ 
+Item&nbsp;9A. 
+ &nbsp; 
+ 
+Controls and Procedures 
+ &nbsp; 
+ 
+60 
+ 
+ 
+ 
+Item&nbsp;9B. 
+ &nbsp; 
+ 
+Other Information 
+ &nbsp; 
+ 
+60 
+ 
+ 
+ 
+PART III 
+ &nbsp; 
+ 
+&nbsp; 
+ 
+ 
+ 
+Item 10. 
+ &nbsp; 
+ 
+Directors, Executive Officers and Corporate Governance 
+ &nbsp; 
+ 
+61 
+ 
+ 
+ 
+Item 11. 
+ &nbsp; 
+ 
+Executive Compensation 
+ &nbsp; 
+ 
+61 
+ 
+ 
+ 
+Item 12. 
+ &nbsp; 
+ 
+Security Ownership of Certain Beneficial Owners and Management and Related 
+&nbsp;&nbsp;&nbsp;&nbsp;Stockholder Matters 
+ &nbsp; 
+ 
+61 
+ 
+ 
+ 
+Item 13. 
+ &nbsp; 
+ 
+Certain Relationships and Related Transactions, and Director Independence 
+ &nbsp; 
+ 
+61 
+ 
+ 
+ 
+Item 14. 
+ &nbsp; 
+ 
+Principal Accounting Fees and Services 
+ &nbsp; 
+ 
+61 
+ 
+ 
+ 
+PART IV 
+ &nbsp; 
+ 
+&nbsp; 
+ 
+ 
+ 
+Item 15. 
+ &nbsp; 
+ 
+Exhibits, Financial Statement Schedules 
+ &nbsp; 
+ 
+62 
+ 
+ 
+ 
+&nbsp; 
+ &nbsp; 
+ 
+Signatures 
+ &nbsp; 
+ 
+68 
+ 
+ 
+ 
+&nbsp; 
+ &nbsp; 
+ 
+Index of Exhibits 
+ &nbsp; 
+ 
+69 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+----- context @ 145646 -----
+utory plans. The deferred stock units convert to shares of common stock on a
+one-for-one basis following the termination of services as described in this plan. 
+
+ Item 6. Selected Financial Data. 
+
+ The information required by this item is incorporated by reference to pages&nbsp;F-1 and F-2 of this report. 
+
+ 19 
+
+ 
+ 
+ 
+ 
+
+ Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+
+
+ Executive Summary and Selected Consolidated Statements of Earnings Data 
+
+ For fiscal year ended January&nbsp;28, 2007 ("fiscal 2006"), we reported Net Earnings of $5.8&nbsp;billion and Diluted Earnings per Share of $2.79 compared to Net Earnings
+of $5.8&nbsp;billion and Diluted Earnings per Share of $2.72 for fiscal year ended January&nbsp;29, 2006 ("fiscal 2005"). Net Sales increased 11.4% to $90.8&nbsp;billion for fiscal 2006 from
+$81.5&nbsp;billion for fiscal 2005. Our gross profit margin was 32.8% and our operating margin was 10.7% for fiscal 2006. 
+
+ In
+the face of a slowdown in the housing market, our retail comparable store sales declined 2.8% in fiscal 2006 driven by a decline in comparable store customer transactions. This was partially offset
+by an increase in our average ticket of 1.6% in fiscal 2006 to $58.90, including increases in 8 of 10 selling departments. 
+
+ We
+grew our numerous installation and home maintenance programs serving our do-it-for-me customers through our stores. Our retail services revenue increased 8.3% to
+$3.8&nbsp;billion for fiscal 2006. We experienced sustained growth in categories such as countertops, exterior patios, solar, windows and HVAC. 
+
+ We
+continued to introduce innovative and distinctive merchandise that reflects emerging consumer trends, supported by continued investments in store modernization and technology. We invested
+$3.5&nbsp;billion in capital expenditures during fiscal 2006 primarily for new store construction, store modernization and technology. We began an accelerated store reinvestment program whereby we
+increased our investment in existing stores by $350&nbsp;million more than our plan in the second half of fiscal 2006 to enhance the customer experience. This investment included capital and expense
+dollars to reset 100 merchandise bays in 540 stores, incorporate a richer staffing model and support our "Orange Juiced" program, a customer service incentive program for our store associates. 
+
+ We
+added 125 new stores in fiscal 2006, including 12 stores through our acquisition of The Home Way, a Chinese home improvement retailer, and 10 relocations, bringing our total store count at the end
+of fiscal 2006 to 2,147. As of the end of fiscal 2006, 228, or approximately 11%, of our stores were located in Canada, Mexico or China compared to 191, or approximately 9%, at the end of fiscal 2005. 
+
+
+ We
+have expanded our business by capturing a growing share of the professional residential, commercial and heavy construction markets through the growth of HD Supply. HD Supply experienced 162% Net
+Sales growth in fiscal 2006 and accounted for approximately 13% of our total Net Sales in fiscal 2006. We completed 12 acquisitions in fiscal 2006 that were integrated into HD Supply, including Hughes
+Supply,&nbsp;Inc., a leading distributor of construction and repair products. Organic Net Sales growth for the HD Supply segment was 5.6% in fiscal 2006. 
+
+ In
+February&nbsp;2007, we announced our decision to evaluate strategic alternatives for HD Supply. In order to maximize the value of HD Supply, we would need to further integrate it with our Retail
+business. We are currently evaluating whether this integration or other strategic alternatives, such as a sale or initial public offering of the business, would create the most shareholder value. 
+
+ We
+generated $7.7&nbsp;billion of cash flow from operations in fiscal 2006. We used this cash flow, along with the net proceeds of additional borrowings of $7.6&nbsp;billion, to fund
+$8.1&nbsp;billion of share repurchases and divide

@@ -1,0 +1,227 @@
+SOURCE: MSFT_2007_10-K.htm
+
+Found 191 HTML tables.
+
+----- context @ 14658 -----
+ 
+ 
+ Item 6. 
+ &nbsp; 
+ 
+ Selected Financial Data 
+ &nbsp; 
+ 19 
+ 
+ Item 7. 
+ &nbsp; 
+ 
+ Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations 
+ &nbsp; 
+ 20 
+ 
+ Item 7A. 
+ &nbsp; 
+ 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ &nbsp; 
+ 39 
+ 
+ Item 8. 
+ &nbsp; 
+ 
+ Financial Statements and Supplementary Data 
+ &nbsp; 
+ 40 
+ 
+ Item 9. 
+ &nbsp; 
+ 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ &nbsp; 
+ 72 
+ 
+ Item 9A. 
+ &nbsp; 
+ 
+ Controls and Procedures 
+ &nbsp; 
+ 72 
+ 
+ 
+ &nbsp; 
+ 
+ Report of Management on Internal Control over Financial Reporting 
+ &nbsp; 
+ 72 
+ 
+ 
+ &nbsp; 
+ 
+ Report of Independent Registered Public Accounting Firm 
+ &nbsp; 
+ 73 
+ 
+ Item 9B. 
+ &nbsp; 
+ 
+ Other Information 
+ &nbsp; 
+ 74 
+ 
+ 
+ 
+ 
+ 
+ PART III 
+ &nbsp; 
+ 
+ &nbsp; 
+ 
+ 
+ Item 10. 
+ &nbsp; 
+ 
+ Directors, Executive Officers and Corporate Governance 
+ &nbsp; 
+ 74 
+ 
+ Item 11. 
+ &nbsp; 
+ 
+ Executive Compensation 
+ &nbsp; 
+ 74 
+ 
+ Item 12. 
+ &nbsp; 
+ 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ &nbsp; 
+ 74 
+ 
+ Item 13. 
+ &nbsp; 
+ 
+ Certain Relationships and Related Transactions, and Director Independence 
+ &nbsp; 
+ 74 
+ 
+ Item 14. 
+ &nbsp; 
+ 
+ Principal Accounting Fees and Services 
+ &nbsp; 
+ 74 
+ 
+ 
+ 
+ 
+ 
+ PART IV 
+ &nbsp; 
+ 
+ &nbsp; 
+ 
+
+----- context @ 155909 -----
+margin-bottom:0px"> &nbsp; 
+ ITEM&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;SELECTED FINANCIAL DATA FINANCIAL HIGHLIGHTS &nbsp; 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In millions, except per share data) 
+ &nbsp;&nbsp; 
+ &nbsp; &nbsp; 
+ &nbsp;&nbsp; 
+ &nbsp; &nbsp; 
+ &nbsp;&nbsp; 
+ &nbsp; &nbsp; 
+ &nbsp;&nbsp; 
+ &nbsp; &nbsp; 
+ &nbsp;&nbsp; 
+ &nbsp; &nbsp; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended June&nbsp;30 
+ &nbsp;&nbsp; 
+ 2007 
+ &nbsp;&nbsp; 
+ 2006 
+ &nbsp;&nbsp; 
+ 2005 
+ &nbsp;&nbsp; 
+ 2004 
+ &nbsp;&nbsp; 
+ 2003 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenue 
+ &nbsp;&nbsp; 
+ $ 
+ 51,122 
+ &nbsp;&nbsp; 
+ $ 
+ 44,282 
+ &nbsp;&nbsp; 
+ $ 
+ 39,788 
+ &nbsp;&nbsp; 
+ $ 
+ 36,835 
+ &nbsp;&nbsp; 
+ $ 
+ 32,187 
+ 
+ Operating income 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ 18,524 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ 16,472 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ 14,561 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ 9,034 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ 9,545 
+ 
+ Net income 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ 14,065 
+ &nbsp;&nbsp; 
+ &nbsp; 
+<T

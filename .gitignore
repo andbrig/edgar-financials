@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+data/
+edgar.db
+edgar.db-*
+*.log
+--db
+.DS_Store

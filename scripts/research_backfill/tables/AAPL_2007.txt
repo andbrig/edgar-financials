@@ -1,0 +1,251 @@
+SOURCE: AAPL_2007_10-K.htm
+
+Found 69 HTML tables.
+
+===== TABLE 5 (year-hits=14) =====
+   Five fiscal years ended September 29, 2007  (In millions, except share and per share amounts) Five fiscal years ended September 29, 2007  (In millions, except share and per share amounts).1  Unnamed: 2 2007  2007.1  Unnamed: 5 2006  2006.1  Unnamed: 8 2005  2005.1  Unnamed: 11 2004  2004.1  Unnamed: 14 2003  2003.1
+0                                                                                      Net sales                                                                                       Net sales         NaN    $   24006         NaN    $   19315         NaN    $   13931          NaN    $    8279          NaN    $    6207
+1                                                                                     Net income                                                                                      Net income         NaN    $    3496         NaN    $    1989         NaN    $    1328          NaN    $     266          NaN    $      57
+2                                                                     Earnings per common share:                                                                      Earnings per common share:         NaN  NaN     NaN         NaN  NaN     NaN         NaN  NaN     NaN          NaN  NaN     NaN          NaN  NaN     NaN
+3                                                                                            NaN                                                                                           Basic         NaN    $    4.04         NaN    $    2.36         NaN    $    1.64          NaN    $    0.36          NaN    $    0.08
+4                                                                                            NaN                                                                                         Diluted         NaN    $    3.93         NaN    $    2.27         NaN    $    1.55          NaN    $    0.34          NaN    $    0.08
+5                                                       Cash dividends declared per common share                                                        Cash dividends declared per common share         NaN    $       —         NaN    $       —         NaN    $       —          NaN    $       —          NaN    $       —
+6                                    Shares used in computing earnings per share (in thousands):                                     Shares used in computing earnings per share (in thousands):         NaN  NaN     NaN         NaN  NaN     NaN         NaN  NaN     NaN          NaN  NaN     NaN          NaN  NaN     NaN
+7                                                                                            NaN                                                                                           Basic         NaN  NaN  864595         NaN  NaN  844058         NaN  NaN  808439          NaN  NaN  743180          NaN  NaN  721262
+8                                                                                            NaN                                                                                         Diluted         NaN  NaN  889292         NaN  NaN  877526         NaN  NaN  856878          NaN  NaN  774776          NaN  NaN  723352
+9                                             Cash, cash equivalents, and short-term investments                                              Cash, cash equivalents, and short-term investments         NaN    $   15386         NaN    $   10110         NaN    $    8261          NaN    $    5464          NaN    $    4566
+10                                                                                  Total assets                                                                                    Total assets         NaN    $   25347         NaN    $   17205         NaN    $   11516          NaN    $    8039          NaN    $    6817
+11                                                 Long-term debt (including current maturities)                                                   Long-term debt (including current maturities)         NaN    $       —         NaN    $       —         NaN    $       —          NaN    $       —          NaN    $     304
+12                                                                             Total liabilities                                                                               Total liabilities         NaN    $   10815         NaN    $    7221         NaN    $    4088          NaN    $    2976          NaN    $    2594
+13                                                                          Shareholders' equity                                                                            Shareholders' equity         NaN    $   14532         NaN    $    9984         NaN    $    7428          NaN    $    5063          NaN    $    4223
+
+===== TABLE 6 (year-hits=9) =====
+                                       Unnamed: 0                                     Unnamed: 1                                     Unnamed: 2  Unnamed: 3 September 29, 2007  September 29, 2007.1  Unnamed: 6 Change Unnamed: 8 September 30, 2006 September 30, 2006.1  Unnamed: 11 Change.1 Unnamed: 13 September 24, 2005 September 24, 2005.1
+0             Net Sales by Operating Segment (a):            Net Sales by Operating Segment (a):            Net Sales by Operating Segment (a):         NaN                NaN                   NaN         NaN    NaN        NaN                NaN                  NaN          NaN      NaN         NaN                NaN                  NaN
+1                                             NaN                             Americas net sales                             Americas net sales         NaN                  $               11596.0         NaN     23          %                  $                 9415          NaN       41           %                  $                 6658
+2                                             NaN                               Europe net sales                               Europe net sales         NaN                NaN                5460.0         NaN     33          %                NaN                 4096          NaN       33           %                NaN                 3073
+3                                             NaN                                Japan net sales                                Japan net sales         NaN                NaN                1082.0         NaN    (11         )%                NaN                 1211          NaN       31           %                NaN                  924
+4                                             NaN                               Retail net sales                               Retail net sales         NaN                NaN                4115.0         NaN     27          %                NaN                 3246          NaN       42           %                NaN                 2278
+5                                             NaN                   Other Segments net sales (b)                   Other Segments net sales (b)         NaN                NaN                1753.0         NaN     30          %                NaN                 1347          NaN       35           %                NaN                  998
+6                                             NaN                                            NaN                                            NaN         NaN                NaN                   NaN         NaN    NaN        NaN                NaN                  NaN          NaN      NaN         NaN                NaN                  NaN
+7                                             NaN                                            NaN                                Total net sales         NaN                  $               24006.0         NaN     24          %                  $                19315          NaN       39           %                  $                13931
+8                                             NaN                                            NaN                                            NaN         NaN                NaN                   NaN         NaN    NaN        NaN                NaN                  NaN          NaN      NaN         NaN                NaN                  NaN
+9                Unit Sales by Operating Segment:               Unit Sales by Operating Segment:               Unit Sales by Operating Segment:         NaN                NaN                   NaN         NaN    NaN        NaN                NaN                  NaN          NaN      NaN         NaN                NaN                  NaN
+10                                            NaN                        Americas Mac unit sales                        Americas Mac unit sales         NaN                NaN                3019.0         NaN     24          %                NaN                 2432          NaN       11           %                NaN                 2184
+11                                            NaN                          Europe Mac unit sales                          Europe Mac unit sales         NaN                NaN                1816.0         NaN     35          %                NaN                 1346          NaN       18           %                NaN                 1138
+12                                            NaN                           Japan Mac unit sales                           Japan Mac unit sales         NaN                NaN                 302.0         NaN     (1         )%                NaN                  304          NaN       (3          )%                NaN                  313
+13                                            NaN                          Retail Mac unit sales                          Retail Mac unit sales         NaN                NaN                1386.0         NaN     56          %                NaN                  886          NaN       45           %                NaN                  609
+14                                            NaN              Other Segments Mac unit sales (b)              Other Segments Mac unit sales (b)         NaN                NaN                 528.0         NaN     58          %                NaN                  335          NaN       16           %                NaN                  290
+15                                            NaN                                            NaN                                            NaN         NaN                NaN                   NaN         NaN    NaN        NaN                NaN                  NaN          NaN      NaN         NaN                NaN                  NaN
+16                                            NaN                                            NaN                           Total Mac unit sales         NaN                NaN                7051.0       
+
+===== TABLE 7 (year-hits=7) =====
+                Unnamed: 0  Unnamed: 1 September 29, 2007  September 29, 2007.1 Unnamed: 4 September 30, 2006  September 30, 2006.1 Unnamed: 7 September 24, 2005  September 24, 2005.1 Unnamed: 10
+0                Net sales         NaN                  $               24006.0        NaN                  $               19315.0        NaN                  $               13931.0         NaN
+1            Cost of sales         NaN                NaN               15852.0        NaN                NaN               13717.0        NaN                NaN                9889.0         NaN
+2                      NaN         NaN                NaN                   NaN        NaN                NaN                   NaN        NaN                NaN                   NaN         NaN
+3             Gross margin         NaN                  $                8154.0        NaN                  $                5598.0        NaN                  $                4042.0         NaN
+4                      NaN         NaN                NaN                   NaN        NaN                NaN                   NaN        NaN                NaN                   NaN         NaN
+5  Gross margin percentage         NaN                NaN                  34.0          %                NaN                  29.0          %                NaN                  29.0           %
+
+===== TABLE 8 (year-hits=6) =====
+                                      Unnamed: 0                                     Unnamed: 1  Unnamed: 2 September 29, 2007  September 29, 2007.1 Unnamed: 5 September 30, 2006  September 30, 2006.1 Unnamed: 8 September 24, 2005  September 24, 2005.1 Unnamed: 11
+0                       Research and development                       Research and development         NaN                  $                   782        NaN                  $                   712        NaN                  $                   535         NaN
+1                                            NaN                        Percentage of net sales         NaN                NaN                     3          %                NaN                     4          %                NaN                     4           %
+2  Selling, general, and administrative expenses  Selling, general, and administrative expenses         NaN                  $                  2963        NaN                  $                  2433        NaN                  $                  1864         NaN
+3                                            NaN                        Percentage of net sales         NaN                NaN                    12          %                NaN                    13          %                NaN                    13           %
+
+===== TABLE 9 (year-hits=6) =====
+                       Unnamed: 0  Unnamed: 1 September 29, 2007 September 29, 2007.1 Unnamed: 4 September 30, 2006 September 30, 2006.1 Unnamed: 7 September 24, 2005 September 24, 2005.1 Unnamed: 10
+0                 Interest income         NaN                  $                  647        NaN                  $                  394        NaN                  $                  183         NaN
+1     Other income (expense), net         NaN                NaN                  (48          )                NaN                  (29          )                NaN                  (18           )
+2                             NaN         NaN                NaN                  NaN        NaN                NaN                  NaN        NaN                NaN                  NaN         NaN
+3  Total other income and expense         NaN                  $                  599        NaN                  $                  365        NaN                  $                  165         NaN
+4                             NaN         NaN                NaN                  NaN        NaN                NaN                  NaN        NaN                NaN                  NaN         NaN
+
+----- context @ 177630 -----
+.jpg" ALT="CHART" WIDTH="682" HEIGHT="322">
+ 
+
+ 
+ 
+ Item 6. Selected Financial Data 
+
+ The information set forth below is not necessarily indicative of results of future operations, and should be read in conjunction with Item 7, "Management's Discussion and
+Analysis of Financial Condition and Results of Operations" and the consolidated financial statements and related notes thereto included in Item 8 of this Form&nbsp;10-K to fully
+understand factors that may affect the comparability of the information presented below. 
+
+ 
+ 
+ 
+ Five fiscal years ended September 29, 2007 (In millions, except share and per share amounts) 
+ 
+ &nbsp; 
+ 2007 
+ &nbsp; 
+ 2006 
+ &nbsp; 
+ 2005 
+ &nbsp; 
+ 2004 
+ &nbsp; 
+ 2003 
+ 
+ 
+ Net sales 
+ &nbsp; 
+ $ 
+ 24,006 
+ &nbsp; 
+ $ 
+ 19,315 
+ &nbsp; 
+ $ 
+ 13,931 
+ &nbsp; 
+ $ 
+ 8,279 
+ &nbsp; 
+ $ 
+ 6,207 
+ 
+ 
+ Net income 
+ &nbsp; 
+ $ 
+ 3,496 
+ &nbsp; 
+ $ 
+ 1,989 
+ &nbsp; 
+ $ 
+ 1,328 
+ &nbsp; 
+ $ 
+ 266 
+ &nbsp; 
+ $ 
+ 57 
+ 
+ 
+ Earnings per common share: 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ 
+ 
+ &nbsp; 
+ Basic 
+ &nbsp; 
+ $ 
+ 4.04 
+ &nbsp; 
+ $ 
+ 2.36 
+ &nbsp; 
+ $ 
+ 1.64 
+ &nbsp; 
+ $ 
+ 0.36 
+ &nbsp; 
+ $ 
+ 0.08 
+ 
+ 
+ &nbsp; 
+ Diluted 
+ &nbsp; 
+ $ 
+ 3.93 
+ &nbsp; 
+ $ 
+ 2.27 
+ &nbsp; 
+ $ 
+ 1.55 
+ &nbsp; 
+ $ 
+ 0.34 
+ &nbsp; 
+ $ 
+ 0.08 
+ 
+ 
+ Cash dividends declared per common share 
+ &nbsp; 
+ $ 
+ &#151; 
+ &nbsp;
+
+----- context @ 958364 -----
+HREF="#toc_dk19701_2">Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ Item 6. Selected Financial Data 
+ Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 
+ 
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ 
+ 
+ Item 8. Financial Statements and Supplementary Data 
+ 
+ 
+ CONSOLIDATED BALANCE SHEETS (In millions, except share amounts) 
+
+ 
+ CONSOLIDATED STATEMENTS OF OPERATIONS (In millions, except share and per share amounts) 
+
+ 
+ CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY (In millions, except share amounts which are in thousands) 
+ 
+ CONSOLIDATED STATEMENTS OF CASH FLOWS (In millions) 
+
+ 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ 
+ 
+ Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ Item 9A. Controls and Procedures 
+ Item 9B. Other Information 
+ 
+ 
+ PART III 
+ 
+ Item 10. Directors, Executive Officers and Corporate Governance 
+ Item 11. Executive Compensation 
+ 
+ COMPENSATION DISCUSSION AND ANALYSIS 
+ 
+ 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ Item 13. Certain Relationships and Related Transactions, and Director Independence 
+ Item 14. Principal Accountant Fees and Services 
+ 
+ Audit and Non-Audit Fees 
+ 
+ PART IV 
+ 
+ SIGNATURES 
+ Power of Attorney 
+ 
+ EXHIBIT INDEX 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+{% block head %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+{% endblock %}
+{% block body %}
+<div class="card">
+  <h2>{{ co.ticker }} — {{ co.name }}</h2>
+  <p class="mut">CIK {{ co.cik }} · Source: SEC EDGAR XBRL company facts, plus sourced research backfills for pre-XBRL years</p>
+  <canvas id="trend"></canvas>
+</div>
+
+{% for key, label in statements %}
+<div class="card">
+  <h2>{{ label }} — Annual</h2>
+  <div class="scrollx"><table>
+    <thead><tr><th>Line item</th>{% for a in annual %}<th>{{ a.year }}</th>{% endfor %}</tr></thead>
+    <tbody>
+    {% for m, mlabel in metrics_by_stmt[key] %}
+      <tr><td>{{ mlabel }}</td>
+      {% for a in annual %}
+        {% set v = a.metrics.get(m) %}
+        <td class="{{ 'neg' if v is not none and v < 0 }}">{{ v|money }}</td>
+      {% endfor %}</tr>
+    {% endfor %}
+    </tbody>
+  </table></div>
+</div>
+{% endfor %}
+
+<div class="card">
+  <h2>Key Ratios — Annual</h2>
+  <div class="scrollx"><table>
+    <thead><tr><th>Ratio</th>{% for a in annual %}<th>{{ a.year }}</th>{% endfor %}</tr></thead>
+    <tbody>
+    {% for r, rlabel in ratio_labels.items() %}
+      <tr><td>{{ rlabel }}</td>
+      {% for a in annual %}<td>{{ a.ratios.get(r)|ratio }}</td>{% endfor %}</tr>
+    {% endfor %}
+    </tbody>
+  </table></div>
+</div>
+
+{% if missing %}
+<div class="card">
+  <h2>Data gaps (XBRL range)</h2>
+  <p class="mut">Missing annual values within this company's XBRL history.
+     Pre-XBRL years are backfilled by research where available.</p>
+  <ul class="mut">
+  {% for m, years in missing.items() %}
+    <li><b>{{ m }}</b>: {{ years|join(', ') }}</li>
+  {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+<div class="card">
+  <h2>Recent filings</h2>
+  <ul class="filings">
+  {% for f in filings %}
+    <li><b>{{ f.form }}</b> · filed {{ f.filed }}{% if f.report_date %} · period {{ f.report_date }}{% endif %}
+        {% if f.doc_url %} · <a href="{{ f.doc_url }}" target="_blank" rel="noopener">document</a>{% endif %}</li>
+  {% endfor %}
+  </ul>
+</div>
+
+<script>
+const trend = {{ trend | tojson }};
+const B = v => v == null ? null : v / 1e9;
+new Chart(document.getElementById('trend'), {
+  type: 'line',
+  data: { labels: trend.years, datasets: [
+    { label: 'Revenue ($B)', data: trend.revenue.map(B), borderWidth: 2 },
+    { label: 'Net income ($B)', data: trend.net_income.map(B), borderWidth: 2 },
+    { label: 'Equity ($B)', data: trend.equity.map(B), borderWidth: 2 },
+  ]},
+  options: { responsive: true, plugins: { legend: { position: 'bottom' } },
+             scales: { y: { title: { display: true, text: '$B' } } } }
+});
+</script>
+{% endblock %}

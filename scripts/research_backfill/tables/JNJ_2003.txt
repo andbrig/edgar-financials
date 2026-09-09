@@ -1,0 +1,168 @@
+SOURCE: JNJ_2003_10-K.htm
+
+Found 0 HTML tables.
+
+----- context @ 5334 -----
+........... 5
+
+ PART II
+ 5. Market for the Registrant's Common Equity and Related
+ Stockholder Matters......................................... 7
+ 6. Selected Financial Data..................................... 7
+ 7. Management's Discussion and Analysis of Results of
+ Operations and Financial Condition.......................... 7
+ Subsequent Event.......................................... 7
+ 7A. Quantitative and Qualitative Disclosures About Market
+ Risk........................................................ 7
+ 8. Financial Statements and Supplementary Data................. 7
+ 9. Changes in and Disagreements on Accounting and Financial
+ Disclosure.................................................. 8
+ 9A. Controls and Procedures..................................... 8
+
+ PART III
+10. Directors and Executive Officers of the Registrant.......... 8
+11. Executive Compensation...................................... 8
+12. Security Ownership of Certain Beneficial Owners and
+ Management.................................................. 9
+13. Certain Relationships and Related Transactions.............. 9
+14. Principal Accountant Fees and Services...................... 9
+
+ PART IV
+15. Exhibits, Financial Statement Schedules, and Reports on Form
+ 8-K......................................................... 9
+ Signatures.................................................. 11
+ Report of Independent Auditors on Financial Statement
+ Schedule.................................................... 13
+ Exhibit Index............................................... 14
+ 
+ 
+
+ PART I
+
+ITEM 1. BUSINESS
+
+GENERAL
+
+ Johnson & Johnson, employing approximately 110,600 people worldwide, is
+engaged in the manufacture and sale of a broad range of products in the health
+care field. Through over 200 operating companies, it conducts business in
+virtually all countries of the world. Johnson & Johnson's primary interest, both
+historically and currently, has been in products related to human health and
+well-being. Johnson & Johnson was organized in the State of New Jersey in 1887.
+
+ Johnson & Johnson is organized on the principle of decentralized
+management. The Executive Committee of Johnson & Johnson is the principal
+management group responsible for the operations and allocation of the resources
+of the Company. This Committee oversees and coordinates the activities of the
+Consumer, Pharmaceutical and Medical Devices and Diagnostics business segments.
+Each subsidiary within the business segments is, with some exceptions, managed
+by citizens of the country in which it is located.
+
+SEGMENTS OF BUSINESS
+
+ Johnson & Johnson's worldwide business is divided into three segments:
+Consumer, Pharmaceutical and Medical Devices and Diagnostics. Additional
+information required by this item is incorporated herein by reference to the
+narrative and tabular (but not the graphic) descriptions of segments and
+operating results under "Management's Discussion and Analysis of Results of
+Operations and Financial Condition" on pages 28 through 37 and 61 of Johnson &
+Johnson's Annual Report to Shareholders for fiscal year 2003 (the "Annual
+Report"), which is filed as Exhibit 13 to this Report on Form 10-K.
+
+CONSUMER
+
+ The Consumer segment manufactures and markets a broad range of products
+used in the baby and child care, skin care, oral and wound care and women's
+health care fields, as well as nutritional and over-the-counter pharmaceutical
+products. Major brands include AVEENO skin care products; BAND-AID Brand
+Adhesive Bandages; CAREFREE Panty Shields; CLEAN & CLEAR teen skin care
+products; JOHNSON'S Baby line of products; MOTRIN IB ibuprofen products; PEPCID
+AC Acid Controller from Johnson & Johnson -- Merck Consumer Pharmaceuticals Co.;
+NEUTROGENA skin and hair care products; SPLENDA, a no calorie sweetener;
+STAYFREE sanitary protection products; and the broad family of TYLENOL
+acetaminophen products. These products are marketed principally to the general
+public and sold both to wholesalers an
+
+----- context @ 32761 -----
+mmon Stock Market
+Prices" on page 37, and to Note 10 under the "Notes to Consolidated Financial
+Statements" on page 48 of the Annual Report, filed as Exhibit 13 to this Report
+on Form 10-K.
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+ The information called for by this item is incorporated herein by reference
+to the material captioned "Summary of Operations and Statistical Data 1993-2003"
+on page 62 of the Annual Report, filed as Exhibit 13 to this Report on Form
+10-K.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF OPERATIONS AND
+ FINANCIAL CONDITION
+
+ The information called for by this item is incorporated herein by reference
+to the narrative and tabular (but not the graphic) material included in the
+material captioned "Management's Discussion and Analysis of Results of
+Operations and Financial Condition" on pages 28 through 37 of the Annual Report,
+filed as Exhibit 13 to this Report on Form 10-K.
+
+SUBSEQUENT EVENT
+
+ On February 24, 2004, the Company's Cordis operating company announced it
+had entered into a strategic alliance with Guidant Corporation for the
+co-promotion of drug-eluting stents and the advancement of new technology in
+coronary stent delivery systems. Sales and marketing resources of both companies
+will join forces to focus on promoting the CYPHER Sirolimus-eluting Coronary
+Stent in the United States, with an option to pursue a similar arrangement in
+Japan in the future. The companies will collaborate on marketing and sales
+strategies associated with the CYPHER Stent, but will bear most marketing and
+sales costs separately. Cordis will continue to report all CYPHER Stent sales as
+revenue.
+
+ Cordis will also obtain access to Guidant's current and next generation
+technologies for delivery of coronary stents. Guidant and Cordis will
+immediately initiate development and regulatory plans for a CYPHER Stent that
+utilizes a Guidant stent delivery system. In addition, all outstanding patent
+disputes between the companies were settled, as described under Note 18 "Legal
+Proceedings" in the "Notes to Consolidated Financial Statements," filed as
+Exhibit 13 to this Report on Form 10-K.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ The information called for by this item is incorporated herein by reference
+to the material captioned "Management's Discussion and Analysis of Results of
+Operations and Financial Condition -- Liquidity and Capital Resources" on pages
+34 through 35 of the Annual Report, filed as Exhibit 13 to this Report on Form
+10-K.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+ See the Consolidated Financial Statements and the Notes thereto and the
+material captioned "Report of Independent Auditors" incorporated by reference to
+pages 38 through 60 of the Annual Report, which are filed as Exhibit 13 to this
+Report on Form 10-K.
+
+ 7
+ 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+ FINANCIAL DISCLOSURE
+
+ Not applicable.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+ Disclosure Controls. At the end of the fiscal fourth quarter, the Company
+evaluated the effectiveness of the design and operation of its disclosure
+controls and procedures. The Company's disclosure controls and procedures are
+designed to ensure that the Company records, processes, summarizes and reports
+in a timely manner the information the Company must disclose in its reports
+filed under the Securities Exchange Act. William C. Weldon, Chairman and Chief
+Executive Officer, and Robert J. Darretta, Vice Chairman and Chief Financial
+Officer, reviewed and participated in this evaluation. Based on this evaluation,
+Messrs. Weldon and Darretta concluded that, as of the date of their evaluation,
+the Company's disclosure controls and procedures were effective.
+
+ Internal Control. During the fiscal quarter ended December 28, 2003, there
+were no significant changes in the Company's internal control over financial
+reporting that have materially affected, or are reasonably likely to materially
+affect, the Company

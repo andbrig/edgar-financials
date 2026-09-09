@@ -1,0 +1,2302 @@
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>15
+<FILENAME>g81844exv13.txt
+<DESCRIPTION>EX-13 ANNUAL REPORT
+<TEXT>
+<PAGE>
+                                                                               .
+                                                                               .
+                                                                               .
+2002 FINANCIAL REVIEW
+
+
+
+[HOME DEPOT LOGO]
+
+
+
+
+<TABLE>
+<S>                                                           <C>
+Management's Discussion and Analysis
+    of Results of Operations and Financial Condition          22
+Consolidated Statements of Earnings                           28
+Consolidated Balance Sheets                                   29
+Consolidated Statements of Stockholders' Equity
+    and Comprehensive Income                                  30
+Consolidated Statements of Cash Flows                         31
+Notes to Consolidated Financial Statements                    32
+Management's Responsibility for Financial Statements          41
+Independent Auditors' Report                                  41
+10-Year Summary of Financial and Operating Results            42
+Corporate and Stockholder Information                         44
+Board of Directors and Executive Officers                     45
+</TABLE>
+
+
+
+                                      THE HOME DEPOT, INC. 2002 ANNUAL REPORT 21
+<PAGE>
+
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+OF RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+
+THE HOME DEPOT, INC. AND SUBSIDIARIES
+
+
+SELECTED CONSOLIDATED STATEMENTS OF EARNINGS DATA
+
+The data below reflect selected sales data, the percentage relationship between
+sales and major categories in the Consolidated Statements of Earnings and the
+percentage change in the dollar amounts of each of the items.
+
+
+<TABLE>
+<CAPTION>
+                                                                                                         Percentage
+                                                                                                          Increase
+                                                                      Fiscal                           (Decrease) In
+                                                                      Year(1)                          Dollar Amounts
+--------------------------------------------------------------------------------------------------------------------------
+                                                                                                      2002         2001
+                                                     2002              2001             2000        vs. 2001     vs. 2000
+--------------------------------------------------------------------------------------------------------------------------
+<S>                                              <C>               <C>               <C>            <C>          <C>
+NET SALES                                             100.0%            100.0%          100.0%         8.8%        17.1%
+GROSS PROFIT                                           31.1              30.2            29.9         12.1         18.0
+Operating Expenses:
+  Selling and Store Operating                          19.2              19.0            18.6         10.0         19.4
+  Pre-Opening                                           0.2               0.2             0.3        (17.9)       (17.6)
+  General and Administrative                            1.7               1.7             1.8          7.2         12.0
+--------------------------------------------------------------------------------------------------------------------------
+    Total Operating Expenses                           21.1              20.9            20.7          9.5         18.2
+--------------------------------------------------------------------------------------------------------------------------
+    OPERATING INCOME                                   10.0               9.3             9.2         18.2         17.7
+Interest Income (Expense):
+  Interest and Investment Income                        0.1               0.1             0.1         49.1         12.8
+  Interest Expense                                     (0.0)             (0.1)           (0.1)        32.1         33.3
+--------------------------------------------------------------------------------------------------------------------------
+    Interest, net                                       0.1                --              --         68.0         (3.8)
+--------------------------------------------------------------------------------------------------------------------------
+    EARNINGS BEFORE PROVISION FOR
+     INCOME TAXES                                      10.1               9.3             9.2         18.5         17.5
+Provision for Income Taxes                              3.8               3.6             3.6         15.4         16.9
+--------------------------------------------------------------------------------------------------------------------------
+    NET EARNINGS                                        6.3%              5.7%            5.6%        20.4%        17.9%
+--------------------------------------------------------------------------------------------------------------------------
+SELECTED SALES DATA(2)
+Number of Transactions (000s)                     1,160,994         1,090,975         936,519          6.4%        16.5%
+Average Sale per Transaction                     $    49.43        $    48.64        $  48.65          1.6           --
+Weighted Average Weekly Sales per
+ Operating Store                                 $  772,000        $  812,000        $864,000         (4.9)        (6.0)
+Weighted Average Sales per Square Foot(3)        $   370.21        $   387.93        $ 414.68         (4.6)        (6.5)
+--------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+(1)      Fiscal years 2002, 2001 and 2000 refer to the fiscal years ended
+         February 2, 2003, February 3, 2002 and January 28, 2001, respectively.
+         Fiscal years 2002 and 2000 include 52 weeks, while fiscal year 2001
+         includes 53 weeks.
+
+(2)      Includes all retail locations in excess of 50,000 square feet and,
+         therefore, excludes Apex Supply Company, Georgia Lighting, Maintenance
+         Warehouse, Your "other" Warehouse, Designplace Direct (formerly
+         National Blinds and Wallpaper) and HD Builder Solutions Group
+         locations.
+
+(3)      Adjusted to reflect the first 52 weeks of the 53-week fiscal year in
+         2001.
+
+
+FORWARD-LOOKING STATEMENTS
+
+Certain statements made herein regarding implementation of store initiatives,
+store openings, capital expenditures and the effect of adopting certain
+accounting standards constitute "forward-looking statements" as defined in the
+Private Securities Litigation Reform Act of 1995. These statements are subject
+to various risks and uncertainties that could cause actual results to differ
+materially from our historical experience and our present expectations. These
+risks and uncertainties include, but are not limited to, fluctuations in and the
+overall condition of the U.S. economy, stability of costs and availability of
+sourcing channels, conditions affecting new store development, our ability to
+implement new technologies and processes, our ability to attract, train and
+retain highly-qualified associates, unanticipated weather conditions,
+the impact of competition and the effects of regulatory and litigation matters.
+You should not place undue reliance on such forward-looking statements as such
+statements speak only as of the date on which they are made. Additional
+information concerning these and other risks and uncertainties is contained in
+our periodic filings with the Securities and Exchange Commission.
+
+
+RESULTS OF OPERATIONS
+
+For an understanding of the significant factors that influenced our performance
+during the past three fiscal years, the following discussion should be read in
+conjunction with the consolidated financial statements and the notes to
+consolidated financial statements presented in this annual report.
+
+
+22 THE HOME DEPOT, INC. 2002 ANNUAL REPORT
+
+<PAGE>
+FISCAL YEAR ENDED FEBRUARY 2, 2003 ("FISCAL 2002") COMPARED TO FISCAL YEAR ENDED
+FEBRUARY 3, 2002 ("FISCAL 2001")
+
+Fiscal 2002 included 52 weeks as compared to 53 weeks in fiscal 2001. Net sales
+for fiscal 2002 increased 8.8% to $58.2 billion from $53.6 billion in fiscal
+2001. This increase was attributable to the 203 new stores opened during fiscal
+2002 and full year sales from the 204 new stores opened during fiscal 2001. The
+increase was partially offset by the net sales attributable to the additional
+week in fiscal 2001 of $880 million.
+
+         Comparable store-for-store sales were flat in fiscal 2002, reflecting a
+number of internal and external factors. In the spring and early summer, we
+experienced some inventory out-of-stock positions as we transitioned through our
+new in-store Service Performance Improvement ("SPI") initiative, in which our
+stores handle and receive inventory at night. In addition, comparable
+store-for-store sales were negatively impacted by the level of merchandise
+resets implemented throughout the year, which disrupted in-store service and had
+a negative impact on our customers' experience in our stores. Kitchen and bath,
+plumbing and paint categories experienced strong comparable store-for-store
+sales growth for the year, which offset price deflation and the resulting
+comparable store-for-store sales decline in commodity categories such as lumber.
+
+         In order to meet our customer service objectives, we strategically open
+stores near market areas served by existing strong performing stores
+("cannibalize") to enhance service levels, gain incremental sales and increase
+market penetration. As of the end of fiscal 2002, certain new stores
+cannibalized 21% of our existing stores and we estimate that store
+cannibalization reduced total comparable store-for-store sales by approximately
+4%, or about the same percentage as in the prior year. As we heavily
+cannibalized our most productive divisions, the weighted average weekly sales
+per store decreased during fiscal 2002 to $772,000 from $812,000 in the prior
+year. Additionally, we believe that our sales performance has been, and could
+continue to be, negatively impacted by the level of competition that we
+encounter in various markets. However, due to the highly-fragmented U.S. home
+improvement industry, in which we estimate our market share is approximately
+10%, measuring the impact on our sales by our competitors is extremely
+difficult.
+
+         During fiscal 2002, we continued the implementation or expansion of a
+number of in-store initiatives. We believe these initiatives will increase
+customer loyalty and operating efficiencies as they are fully implemented in the
+stores. The professional business customer ("Pro") initiative adds programs to
+our stores to enhance service levels to the Pro customer base. As of the end of
+fiscal 2002, the Pro initiative was in 1,135 stores or 74% of total stores,
+compared to 535 stores or 40% of total stores as of the end of fiscal 2001. This
+initiative is still in its early stages as approximately half of our stores
+implemented the Pro initiative in fiscal 2002. We expect to add the Pro
+initiative to an additional 204 stores by the end of fiscal 2003. As the Pro
+initiative matures within the stores in which it has been implemented, we expect
+to generate improvements in operating performance.
+
+         We continued to implement the Appliance initiative which was started in
+the third quarter of fiscal 2001. The Appliance initiative offers customers an
+assortment of in-stock name brand appliances, including General Electric(R) and
+Maytag(R), and offers the ability to special order over 2,300 additional related
+products through computer kiosks located in the stores. In the stores which have
+implemented the Appliance initiative, we have enhanced the offering of
+appliances through 1,500 to 2,000 square feet of dedicated appliance selling
+space. Comparable store-for-store sales in the appliance category increased by
+approximately 23% in fiscal 2002. The Appliance initiative was in 743 or 48% of
+our stores as of the end of fiscal 2002, compared to 73 or 5% of our stores as
+of the end of fiscal 2001. We expect to add the Appliance initiative to an
+additional 671 stores by the end of fiscal 2003.
+
+         We also continued to implement our Designplace initiative. This
+initiative offers an enhanced shopping experience to our design and decor
+customers by providing personalized service from specially-trained associates
+and an enhanced merchandise selection in an attractive setting. Although the
+Designplace initiative is in its early stages, stores generally show a positive
+sales trend after implementation. The Designplace initiative was in 873 or 57%
+of our stores as of the end of fiscal 2002, compared to 205 or 15% of our stores
+as of the end of fiscal 2001. We expect to add the Designplace initiative to an
+additional 556 stores by the end of fiscal 2003.
+
+         In addition, we continued to drive our services programs, which focus
+primarily on providing products and services to our do-it-for-me customers.
+These programs are offered through Home Depot and EXPO Design Center stores. We
+also arrange for the provision of flooring installation services to homebuilders
+through HD Builder Solutions Group, Inc. Net service revenues for fiscal 2002
+increased 25% to $2.0 billion from $1.6 billion for fiscal 2001.
+
+         Gross profit as a percent of sales was 31.1% for fiscal 2002 compared
+to 30.2% for fiscal 2001. The rate increase was attributable to a reduction in
+the cost of merchandise sold which resulted from centralized purchasing, as we
+continued rationalizing vendor and sku assortments. Enhanced inventory control,
+resulting in lower shrink levels, and an increase in direct import penetration
+to 8% in fiscal 2002 from 6% in fiscal 2001 also positively impacted the gross
+profit rate.
+
+         Operating expenses as a percent of sales were 21.1% for fiscal 2002
+compared to 20.9% for fiscal 2001. Included in operating expenses are selling
+and store operating expenses which, as a percent of sales, increased to 19.2% in
+fiscal 2002 from 19.0% in fiscal 2001. The increase in selling and store
+
+
+                                      THE HOME DEPOT, INC. 2002 ANNUAL REPORT 23
+
+<PAGE>
+
+
+operating expenses was primarily attributable to higher costs associated with
+merchandise resets and store renovations as we invested in new signage, fixtures
+and general maintenance of our stores, a continued investment in store
+leadership positions in our stores and rising workers' compensation expense due
+in part to medical cost inflation. These increases were partially offset by a
+decrease in store payroll expense which resulted from improvement in labor
+productivity and effective wage rate management.
+
+         Pre-opening expenses as a percent of sales were 0.2% for both fiscal
+2002 and fiscal 2001. We opened 203 new stores in fiscal 2002 as compared to 204
+new stores in fiscal 2001.
+
+         General and administrative expenses as a percent of sales were 1.7% for
+both fiscal 2002 and fiscal 2001.
+
+         Interest and investment income as a percent of sales was 0.1% for both
+fiscal 2002 and 2001. Interest expense as a percent of sales was 0.0% for fiscal
+2002 and 0.1% for fiscal 2001.
+
+         Our combined federal and state effective income tax rate decreased to
+37.6% for fiscal 2002 from 38.6% for fiscal 2001. The decrease in fiscal 2002
+was attributable to higher tax credits and a lower effective state income tax
+rate compared to fiscal 2001.
+
+FISCAL 2001 COMPARED TO FISCAL YEAR ENDED JANUARY 28, 2001 ("FISCAL 2000")
+
+Fiscal 2001 included 53 weeks as compared to 52 weeks in fiscal 2000. Net sales
+for fiscal 2001 increased 17.1% to $53.6 billion from $45.7 billion in fiscal
+2000. This increase was attributable to, among other things, the 204 new stores
+opened during fiscal 2001 and full year sales from the 204 new stores opened
+during fiscal 2000. Approximately $880 million of the increase in sales was
+attributable to the additional week in fiscal 2001. Comparable store-for-store
+sales were flat in fiscal 2001 due to the weak economic environment resulting
+from certain factors including, but not limited to, low consumer confidence and
+high unemployment.
+
+         Gross profit as a percent of sales was 30.2% for fiscal 2001 compared
+to 29.9% for fiscal 2000. The rate increase was primarily attributable to a
+lower cost of merchandise resulting from product line reviews, purchasing
+synergies created by our newly centralized merchandising structure and an
+increase in the number of tool rental centers from 342 at the end of fiscal 2000
+to 466 at the end of fiscal 2001.
+
+         Operating expenses as a percent of sales were 20.9% for fiscal 2001
+compared to 20.7% for fiscal 2000. Included in operating expenses are selling
+and store operating expenses which, as a percent of sales, increased to 19.0% in
+fiscal 2001 from 18.6% in fiscal 2000. The increase was primarily attributable
+to growth in store occupancy costs resulting from higher depreciation and
+property taxes due to our investment in new stores, combined with increased
+energy costs. Also, credit card transaction fees were higher than the prior year
+due to increased penetration of total credit sales. These increases were
+partially offset by a decrease in store payroll expense due to an improvement in
+labor productivity which resulted from initiatives inside the store and new
+systems enhancements.
+
+         Store initiatives included our SPI initiative which was introduced to
+every Home Depot store in fiscal 2001. Under SPI our stores receive and handle
+inventory at night, allowing our associates to spend more time with customers
+during peak selling hours. In addition, our Pro program was in 535 of our Home
+Depot stores at the end of fiscal 2001, providing dedicated store resources to
+serve the specific needs of professional customers.
+
+         Pre-opening expenses as a percent of sales were 0.2% for fiscal 2001
+and 0.3% for fiscal 2000. We opened 204 new stores in both fiscal 2001 and 2000.
+The decrease was primarily due to shorter pre-opening periods as we
+re-engineered our store opening process.
+
+         General and administrative expenses as a percent of sales were 1.7% for
+fiscal 2001 compared to 1.8% for fiscal 2000. This decrease was primarily due to
+cost savings associated with the reorganization of certain components of our
+organizational structure, such as the centralization of our merchandising
+organization and our focus on expense control in areas such as travel.
+
+         Interest and investment income as a percent of sales was 0.1% for both
+fiscal 2001 and 2000. Interest expense as a percent of sales was 0.1% for both
+fiscal 2001 and 2000.
+
+         Our combined federal and state effective income tax rate decreased to
+38.6% for fiscal 2001 from 38.8% for fiscal 2000. The decrease in fiscal 2001
+was attributable to higher tax credits and a lower effective state income tax
+rate compared to fiscal 2000.
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash flow generated from operations provides us with a significant source of
+liquidity. For fiscal 2002, cash provided by operations decreased to $4.8
+billion from $6.0 billion in fiscal 2001. The decrease was primarily due to a
+7.9% increase in average inventory per store resulting from our focus on
+improving our in-stock position in fiscal 2002.
+
+         During fiscal 2002, we experienced a significant growth in days payable
+outstanding to 42 days at the end of fiscal 2002 from 34 days at the end of
+fiscal 2001. The growth in days payable is the result of our efforts to move our
+payment terms to industry averages. We have realized the majority of the benefit
+from our renegotiated payment terms.
+
+
+24 THE HOME DEPOT, INC. 2002 ANNUAL REPORT
+
+<PAGE>
+
+
+         Cash used in investing activities decreased to $2.9 billion in fiscal
+2002 from $3.5 billion in fiscal 2001. Capital expenditures decreased to $2.7
+billion in fiscal 2002 from $3.4 billion in fiscal 2001. This decrease was due
+primarily to a shift in the timing of spending for future store openings. We
+opened 203 new stores in fiscal 2002 compared to 204 new stores in fiscal 2001.
+We own 195 and 188 of the stores opened in fiscal 2002 and fiscal 2001,
+respectively, and lease the remainder.
+
+         We plan to open 206 stores in fiscal 2003, including 6 Home Depot
+Landscape Supply stores, and expect total capital expenditures to be
+approximately $4.0 billion, which includes a higher level of investment in store
+remodeling, technology and other initiatives as compared to fiscal 2002.
+
+         Cash used in financing activities in fiscal 2002 was $2.2 billion
+compared with $173 million in fiscal 2001. This change is primarily due to the
+repurchase of approximately 68.6 million shares of our common stock for $2
+billion, pursuant to the Share Repurchase Program approved by our Board of
+Directors in July 2002.
+
+
+         We have a commercial paper program that allows borrowings for up to a
+maximum of $1 billion. As of February 2, 2003, there were no borrowings
+outstanding under the program. In connection with the program, we have a back-up
+credit facility with a consortium of banks for up to $800 million. The credit
+facility, which expires in September 2004, contains various restrictive
+covenants, none of which are expected to impact our liquidity or capital
+resources.
+
+         We use capital and operating leases, as well as three off-balance sheet
+leases created under structured financing arrangements, to finance about 22% of
+our real estate. The net present value of capital lease obligations is reflected
+in our Consolidated Balance Sheets in Long-Term Debt. The three off-balance
+sheet leases were created to purchase land and fund the construction of certain
+stores, office buildings and distribution centers. Two of these lease agreements
+involve a special purpose entity ("SPE") which meets the criteria for
+non-consolidation established by generally accepted accounting principles and is
+not owned by or affiliated with our Company, management or officers. Operating
+and off-balance sheet leases are not reflected in our Consolidated Balance
+Sheets in accordance with generally accepted accounting principles.
+
+         As of the end of fiscal 2002, our long-term debt-to-equity ratio was
+6.7%. If the estimated net present value of future payments under the operating
+and off-balance sheet leases were capitalized, our long-term debt-to-equity
+ratio would increase to 28.5%.
+
+         The following table summarizes our significant contractual obligations
+and commercial commitments as of February 2, 2003 (amounts in millions):
+
+<TABLE>
+<CAPTION>
+                                                   Payments Due By Fiscal Year
+                                 -----------------------------------------------------------------
+Contractual Obligations(1)        Total            2003       2004-2005    2006-2007    Thereafter
+                                 ------            ----       ---------    ---------    ----------
+<S>                              <C>               <C>        <C>          <C>          <C>
+Long-Term Debt                   $1,051            $  2          $502          $502        $   45
+Capital Lease Obligations           834              44            89            93           608
+Operating Leases                  7,308             541           988           864         4,915
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                            Amount of Commitment Expiration Per Fiscal Year
+                                 -----------------------------------------------------------------
+Commercial Commitments(2)         Total            2003       2004-2005    2006-2007    Thereafter
+                                 ------            ----       ---------    ---------    ----------
+<S>                              <C>               <C>        <C>          <C>          <C>
+Letters of Credit                 $ 930            $921          $  9        $ --        $  --
+Guarantees                          799              --            72         504          223
+</TABLE>
+
+(1)      Contractual obligations include long-term debt comprised primarily of
+         $1 billion of Senior Notes further discussed in "Quantitative and
+         Qualitative Disclosures about Market Risk" and future minimum lease
+         payments under capital and operating leases, which include off-balance
+         sheet leases, used in the normal course of business.
+
+(2)      Commercial commitments include letters of credit for certain business
+         transactions and guarantees provided under the off-balance sheet
+         leases. We issue letters of credit for insurance programs, import
+         purchases and construction contracts. Under the three off-balance sheet
+         leases for certain stores, office buildings and distribution centers,
+         we have provided residual value guarantees. The estimated maximum
+         amount of the residual value guarantees at the end of the leases is
+         $799 million. The leases expire at various dates during fiscal 2005
+         through 2008 with two of the leases having an option to renew through
+         2025. Events or circumstances that would require us to perform under
+         the guarantees include 1) our default on the leases with the assets
+         being sold for less than the initial book value, or 2) we decide not to
+         purchase the assets at the end of the leases and the sale of the assets
+         results in proceeds less than the initial book value of the assets. Our
+         guarantees are limited to 82% of the initial book value of the assets.
+         The expiration dates of the residual value guarantees as disclosed in
+         the table above are based on the expiration of the leases; however, the
+         expiration dates will change if the leases are renewed.
+
+
+                                      THE HOME DEPOT, INC. 2002 ANNUAL REPORT 25
+
+
+<PAGE>
+
+
+         As of February 2, 2003, we had approximately $2.3 billion in cash and
+short-term investments. We believe that our current cash position, cash flow
+generated from operations, funds available from the $1 billion commercial paper
+program and the ability to obtain alternate sources of financing should be
+sufficient to enable us to complete our capital expenditure programs through the
+next several fiscal years.
+
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Our exposure to market risk results primarily from fluctuations in interest
+rates. Although we have international operating entities, our exposure to
+foreign currency rate fluctuations is not significant to our financial condition
+and results of operations. Our objective for holding derivative instruments is
+primarily to decrease the volatility of earnings and cash flow associated with
+fluctuations in interest rates.
+
+         We have financial instruments that are sensitive to changes in interest
+rates. These instruments include primarily fixed rate debt. As of February 2,
+2003, we had $500 million of 5 3/8% Senior Notes and $500 million of 6 1/2%
+Senior Notes outstanding. The market values of the publicly traded 5 3/8% and 6
+1/2% Senior Notes as of February 2, 2003, were approximately $538 million and
+$537 million, respectively. We have an interest rate swap agreement, with the
+notional amount of $300 million, that swaps fixed rate interest on $300 million
+of our $500 million 5 3/8% Senior Notes for a variable interest rate equal to
+LIBOR plus 30 basis points and expires on April 1, 2006.
+
+IMPACT OF INFLATION AND CHANGING PRICES
+
+Although we cannot accurately determine the precise effect of inflation on
+operations, we do not believe inflation has had a material effect on sales or
+results of operations.
+
+
+CRITICAL ACCOUNTING POLICIES
+
+Our significant accounting policies are disclosed in Note 1 to our consolidated
+financial statements. The following discussion addresses our most critical
+accounting policies, which are those that are both important to the portrayal of
+our financial condition and results of operations and that require significant
+judgment or use of complex estimates.
+
+         REVENUE RECOGNITION
+
+         We recognize revenue, net of estimated returns, at the time the
+         customer takes possession of the merchandise or receives services. We
+         estimate the liability for sales returns based on our historical return
+         levels. The methodology used is consistent with other retailers. We
+         believe that our estimate for sales returns is an accurate reflection
+         of future returns. When we receive payment from customers before the
+         customer has taken possession of the merchandise or the service has
+         been performed, the amount received is recorded in Deferred Revenue in
+         the accompanying Consolidated Balance Sheets.
+
+         INVENTORY
+
+         Our inventory is stated at the lower of cost (first-in, first-out) or
+         market, with approximately 93% valued under the retail method and the
+         remainder under the cost method. Retailers with many different types of
+         merchandise at low unit cost with a large number of transactions
+         frequently use the retail method. Under the retail method, inventory is
+         stated at cost which is determined by applying a cost-to-retail ratio
+         to the ending retail value of inventory. As our inventory retail value
+         is adjusted regularly to reflect market conditions, our inventory
+         methodology approximates the lower of cost or market. Accordingly,
+         there were no significant valuation reserves related to our inventory
+         as of February 2, 2003 and February, 2002. In addition, we reduce our
+         ending inventory value for estimated losses related to shrink. This
+         estimate is determined based upon analysis of historical shrink losses
+         and recent shrink trends.
+
+         SELF INSURANCE
+
+         We are self-insured for certain losses related to general liability,
+         product liability, workers' compensation and medical claims. Our
+         liability represents an estimate of the ultimate cost of claims
+         incurred as of the balance sheet date. The estimated liability is not
+         discounted and is established based upon analysis of historical data
+         and actuarial estimates, and is reviewed by management and third party
+         actuaries on a quarterly basis to ensure that the liability is
+         appropriate. While we believe these estimates are reasonable based on
+         the information currently available, if actual trends, including the
+         severity or frequency of claims, medical cost inflation, or
+         fluctuations in premiums, differ from our estimates, our results of
+         operations could be impacted.
+
+CHANGE IN ACCOUNTING FOR STOCK-BASED COMPENSATION
+
+During fiscal 2002 and all fiscal years prior, we elected to account for our
+stock-based compensation plans under Accounting Principles Board Opinion No. 25
+("APB 25"), "Accounting for Stock Issued to Employees," which requires the
+recording of compensation expense for some, but not all, stock-based
+compensation, rather than the alternative accounting permitted by Statement of
+Financial Accounting Standards ("SFAS") No. 123, "Accounting for Stock-Based
+Compensation."
+
+         In December 2002, SFAS No. 148, "Accounting for Stock-Based
+Compensation-Transition and Disclosure," was issued, which provides three
+alternative methods of transition for a voluntary change to the fair value
+method of accounting for stock-based compensation in accordance with SFAS No.
+123.
+
+
+26 THE HOME DEPOT, INC. 2002 ANNUAL REPORT
+
+
+<PAGE>
+
+
+Effective February 3, 2003, we adopted the fair value method of recording
+compensation expense related to all stock options granted after February 2,
+2003, in accordance with SFAS Nos. 123 and 148. Accordingly, the fair value of
+stock options as determined on the date of grant using the Black-Scholes
+option-pricing model will be expensed over the vesting period of the related
+stock options. The estimated negative impact on diluted earnings per share is
+approximately $.02 for fiscal 2003. The actual impact may differ from this
+estimate as the estimate is based upon a number of factors including, but not
+limited to, the number of stock options granted and the fair value of the stock
+options on the date of grant.
+
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+In January 2003, the Financial Accounting Standards Board ("FASB") issued
+Interpretation No. 46, "Consolidation of Variable Interest Entities."
+Interpretation No. 46 requires consolidation of a variable interest entity if a
+company's variable interest absorbs a majority of the entity's losses or
+receives a majority of the entity's expected residual returns, or both. We do
+not have a variable interest in the SPE created as part of our off-balance sheet
+structured financing arrangements and, therefore, we are not required to
+consolidate the SPE. We do not expect Interpretation No. 46 to have any impact
+on our consolidated financial statements.
+
+         In January 2003, the Emerging Issues Task Force issued EITF 02-16,
+"Accounting by a Customer (Including a Reseller) for Certain Consideration
+Received from a Vendor," which states that cash consideration received from a
+vendor is presumed to be a reduction of the prices of the vendor's products or
+services and should, therefore, be characterized as a reduction of Cost of
+Merchandise Sold when recognized in our Consolidated Statements of Earnings.
+That presumption is overcome when the consideration is either a reimbursement of
+specific, incremental, identifiable costs incurred to sell the vendor's
+products, or a payment for assets or services delivered to the vendor. EITF
+02-16 is effective for arrangements entered into after December 31, 2002. We are
+currently assessing the impact of the adoption of EITF 02-16 and do not expect
+the adoption to materially impact net earnings in fiscal 2003. We do, however,
+expect that certain payments received from our vendors that are currently
+reflected as a reduction in advertising expense, which is classified as Selling
+and Store Operating Expense, will be reclassified as a reduction of Cost of
+Merchandise Sold.
+
+         In December 2002, the FASB issued Interpretation No. 45, "Guarantor's
+Accounting and Disclosure Requirements for Guarantees, Including Indirect
+Guarantees of Indebtedness of Others," which provides for additional disclosures
+to be made by a guarantor in its interim and annual financial statements about
+its obligations and requires, under certain circumstances, a guarantor to
+recognize, at the inception of a guarantee, a liability for the fair value of
+the obligation undertaken in issuing the guarantee. We have adopted the
+disclosure requirements for the fiscal year ended February 2, 2003. We do not
+expect the recognition and measurement provisions of Interpretation No. 45 for
+guarantees issued or modified after December 31, 2002, to have a material impact
+on our consolidated financial statements.
+
+
+                                      THE HOME DEPOT, INC. 2002 ANNUAL REPORT 27
+
+
+<PAGE>
+
+
+CONSOLIDATED STATEMENTS OF EARNINGS
+
+THE HOME DEPOT, INC. AND SUBSIDIARIES
+
+
+
+<TABLE>
+<CAPTION>
+                                                                     Fiscal Year Ended(1)
+                                                    -------------------------------------------------
+                                                    February 2,        February 3,       January 28,
+amounts in millions, except per share data             2003               2002               2001
+----------------------------------------------------------------------------------------------------
+<S>                                                 <C>                <C>               <C>
+NET SALES                                             $ 58,247           $ 53,553           $ 45,738
+Cost of Merchandise Sold                                40,139             37,406             32,057
+----------------------------------------------------------------------------------------------------
+  GROSS PROFIT                                          18,108             16,147             13,681
+Operating Expenses:
+  Selling and Store Operating                           11,180             10,163              8,513
+  Pre-Opening                                               96                117                142
+  General and Administrative                             1,002                935                835
+----------------------------------------------------------------------------------------------------
+      Total Operating Expenses                          12,278             11,215              9,490
+----------------------------------------------------------------------------------------------------
+  OPERATING INCOME                                       5,830              4,932              4,191
+Interest Income (Expense):
+  Interest and Investment Income                            79                 53                 47
+  Interest Expense                                         (37)               (28)               (21)
+----------------------------------------------------------------------------------------------------
+    Interest, net                                           42                 25                 26
+----------------------------------------------------------------------------------------------------
+  EARNINGS BEFORE PROVISION FOR INCOME TAXES             5,872              4,957              4,217
+Provision for Income Taxes                               2,208              1,913              1,636
+----------------------------------------------------------------------------------------------------
+  NET EARNINGS                                        $  3,664           $  3,044           $  2,581
+----------------------------------------------------------------------------------------------------
+Weighted Average Common Shares                           2,336              2,335              2,315
+BASIC EARNINGS PER SHARE                              $   1.57           $   1.30           $   1.11
+----------------------------------------------------------------------------------------------------
+Diluted Weighted Average Common Shares                   2,344              2,353              2,352
+DILUTED EARNINGS PER SHARE                            $   1.56           $   1.29           $   1.10
+----------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+(1)      Fiscal years ended February 2, 2003 and January 28, 2001 include 52
+         weeks. Fiscal year ended February 3, 2002 includes 53 weeks.
+
+See accompanying notes to consolidated financial statements.
+
+
+28 THE HOME DEPOT, INC. 2002 ANNUAL REPORT
+
+
+<PAGE>
+
+
+CONSOLIDATED BALANCE SHEETS
+
+THE HOME DEPOT, INC. AND SUBSIDIARIES
+
+
+
+<TABLE>
+<CAPTION>
+                                                                   February 2,       February 3,
+amounts in millions, except per share data                            2003               2002
+------------------------------------------------------------------------------------------------
+<S>                                                                <C>               <C>
+ASSETS
+Current Assets:
+  Cash and Cash Equivalents                                          $  2,188           $  2,477
+  Short-Term Investments, including current maturities
+    of long-term investments                                               65                 69
+  Receivables, net                                                      1,072                920
+  Merchandise Inventories                                               8,338              6,725
+  Other Current Assets                                                    254                170
+------------------------------------------------------------------------------------------------
+    Total Current Assets                                               11,917             10,361
+------------------------------------------------------------------------------------------------
+Property and Equipment, at cost:
+  Land                                                                  5,560              4,972
+  Buildings                                                             9,197              7,698
+  Furniture, Fixtures and Equipment                                     4,074              3,403
+  Leasehold Improvements                                                  872                750
+  Construction in Progress                                                724              1,049
+  Capital Leases                                                          306                257
+------------------------------------------------------------------------------------------------
+                                                                       20,733             18,129
+  Less Accumulated Depreciation and Amortization                        3,565              2,754
+------------------------------------------------------------------------------------------------
+    Net Property and Equipment                                         17,168             15,375
+------------------------------------------------------------------------------------------------
+Notes Receivable                                                          107                 83
+Cost in Excess of the Fair Value of Net Assets Acquired,
+  net of accumulated amortization of $50 at
+  February 2, 2003 and $49 at February 3, 2002                            575                419
+Other Assets                                                              244                156
+------------------------------------------------------------------------------------------------
+                                                                     $ 30,011           $ 26,394
+------------------------------------------------------------------------------------------------
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities:
+  Accounts Payable                                                   $  4,560           $  3,436
+  Accrued Salaries and Related Expenses                                   809                717
+  Sales Taxes Payable                                                     307                348
+  Deferred Revenue                                                        998                851
+  Income Taxes Payable                                                    227                211
+  Other Accrued Expenses                                                1,134                938
+------------------------------------------------------------------------------------------------
+    Total Current Liabilities                                           8,035              6,501
+------------------------------------------------------------------------------------------------
+Long-Term Debt, excluding current installments                          1,321              1,250
+Other Long-Term Liabilities                                               491                372
+Deferred Income Taxes                                                     362                189
+
+STOCKHOLDERS' EQUITY
+  Common Stock, par value $0.05; authorized: 10,000 shares,
+    issued and outstanding 2,362 shares at February 2, 2003
+    and 2,346 shares at February 3, 2002                                  118                117
+  Paid-in Capital                                                       5,858              5,412
+  Retained Earnings                                                    15,971             12,799
+  Accumulated Other Comprehensive Loss                                    (82)              (220)
+  Unearned Compensation                                                   (63)               (26)
+  Treasury Stock, at cost, 69 shares at February 2, 2003               (2,000)                --
+------------------------------------------------------------------------------------------------
+    Total Stockholders' Equity                                         19,802             18,082
+------------------------------------------------------------------------------------------------
+                                                                     $ 30,011           $ 26,394
+------------------------------------------------------------------------------------------------
+</TABLE>
+
+See accompanying notes to consolidated financial statements.
+
+
+                                      THE HOME DEPOT, INC. 2002 ANNUAL REPORT 29
+
+
+<PAGE>
+
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY AND COMPREHENSIVE INCOME
+
+THE HOME DEPOT, INC. AND SUBSIDIARIES
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                             Accumulated
+                                                                                                Other
+                                                     Common Stock    Paid-In    Retained    Comprehensive
+amounts in millions, except per share data        Shares    Amount   Capital    Earnings     Income (Loss)
+------------------------------------------        ------    ------   -------    --------     -------------
+<S>                                               <C>       <C>     <C>         <C>         <C>
+
+BALANCE, JANUARY 30, 2000                          2,304     $115     $4,319     $  7,941      $ (27)
+                                                   =====    =====     ======     ========      =====
+Net Earnings                                          --       --         --        2,581         --
+Shares Issued Under Employee
+ Stock Purchase and Option Plans                      20        1        348           --         --
+Tax Effect of Sale of Option Shares
+ by Employees                                         --       --        137           --         --
+Translation Adjustments                               --       --         --           --        (40)
+Stock Compensation Expense                            --       --          6           --         --
+Cash Dividends ($0.16 per share)                      --       --         --         (371)        --
+Comprehensive Income
+                                                   -----    -----     ------     --------      -----
+BALANCE, JANUARY 28, 2001                          2,324     $116     $4,810     $ 10,151      $ (67)
+                                                   =====    =====     ======     ========      =====
+Net Earnings                                          --       --         --        3,044         --
+Shares Issued Under Employee
+  Stock Purchase and Option Plans                     22        1        448           --         --
+Tax Effect of Sale of Option Shares
+  by Employees                                        --       --        138           --         --
+Translation Adjustments                               --       --         --           --       (124)
+Unrealized Loss on Derivative                         --       --         --           --        (29)
+Stock Compensation Expense                            --       --         16           --         --
+Cash Dividends ($0.17 per share)                      --       --         --         (396)        --
+Comprehensive Income
+                                                   -----    -----     ------     --------      -----
+BALANCE, FEBRUARY 3, 2002                          2,346     $117     $5,412     $ 12,799      $(220)
+                                                   =====    =====     ======     ========      =====
+
+Net Earnings                                          --       --         --        3,664         --
+Shares Issued Under Employee
+  Stock Purchase and Option Plans                     16        1        366           --         --
+Tax Effect of Sale of Option Shares
+  by Employees                                        --       --         68           --         --
+Translation Adjustments                               --       --         --           --        109
+Realized Loss on Derivative                           --       --         --           --         29
+Stock Compensation Expense                            --       --         12           --         --
+Repurchase of Common Stock                            --       --         --           --         --
+Cash Dividends ($0.21 per share)                      --       --         --         (492)        --
+Comprehensive Income
+                                                   -----    -----     ------     --------      -----
+BALANCE, FEBRUARY 2, 2003                          2,362     $118     $5,858     $ 15,971      $ (82)
+                                                   =====    =====     ======     ========      =====
+
+
+<CAPTION>
+                                                                                          Total
+                                                   Treasury Stock        Unearned      Stockholders'     Comprehensive
+                                                 Shares      Amount   Compensation       Equity            Income(1)
+                                                 -------    -------   ------------    -------------     -------------
+<S>                                              <C>        <C>       <C>             <C>               <C>
+BALANCE, JANUARY 30, 2000                           --      $    --      $ (7)          $ 12,341
+                                                 =====      =======     =====           ========
+Net Earnings                                        --           --        --              2,581           $ 2,581
+Shares Issued Under Employee
+ Stock Purchase and Option Plans                    --           --         1                350
+Tax Effect of Sale of Option Shares
+ by Employees                                       --           --        --                137
+Translation Adjustments                             --           --        --                (40)              (40)
+Stock Compensation Expense                          --           --        --                  6
+Cash Dividends ($0.16 per share)                    --           --        --               (371)
+                                                                                                           -------
+Comprehensive Income                                                                                       $ 2,541
+                                                ------      -------      ----           --------           -------
+BALANCE, JANUARY 28, 2001                           --      $    --      $ (6)          $ 15,004
+                                                ======      =======      ====           ========
+Net Earnings                                        --           --        --              3,044           $ 3,044
+Shares Issued Under Employee
+  Stock Purchase and Option Plans                   --           --       (20)               429
+Tax Effect of Sale of Option Shares
+  by Employees                                      --           --        --                138
+Translation Adjustments                             --           --        --               (124)             (124)
+Unrealized Loss on Derivative                       --           --        --                (29)              (18)
+Stock Compensation Expense                          --           --        --                 16
+Cash Dividends ($0.17 per share)                    --           --        --               (396)
+                                                                                                           -------
+Comprehensive Income                                                                                       $ 2,902
+                                                ------      -------      ----           --------           -------
+BALANCE, FEBRUARY 3, 2002                           --      $    --      $(26)          $ 18,082
+                                                ======      =======      ====           ========
+Net Earnings                                        --           --        --              3,664           $ 3,664
+Shares Issued Under Employee
+  Stock Purchase and Option Plans                   --           --       (37)               330
+Tax Effect of Sale of Option Shares
+  by Employees                                      --           --        --                 68
+Translation Adjustments                             --           --        --                109               109
+Realized Loss on Derivative                         --           --        --                 29                18
+Stock Compensation Expense                          --           --        --                 12
+Repurchase of Common Stock                         (69)      (2,000)       --             (2,000)
+Cash Dividends ($0.21 per share)                    --           --        --               (492)
+Comprehensive Income                                                                                       $ 3,791
+                                                ------      -------      ----           --------           -------
+BALANCE, FEBRUARY 2, 2003                          (69)     $(2,000)     $(63)          $ 19,802
+                                                ======      =======      ====           ========
+</TABLE>
+
+(1)      Components of comprehensive income are reported net of related income
+         taxes.
+
+See accompanying notes to consolidated financial statements.
+
+
+
+30 THE HOME DEPOT, INC. 2002 ANNUAL REPORT
+
+
+<PAGE>
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+THE HOME DEPOT, INC. AND SUBSIDIARIES
+
+<TABLE>
+<CAPTION>
+                                                                                       Fiscal Year Ended(1)
+                                                                           ----------------------------------------------
+                                                                           February 2,      February 3,       January 28,
+amounts in millions                                                           2003              2002             2001
+-------------------------------------------------------------------------------------------------------------------------
+<S>                                                                        <C>              <C>               <C>
+CASH FLOWS FROM OPERATIONS:
+Net Earnings                                                                $ 3,664           $ 3,044           $ 2,581
+Reconciliation of Net Earnings to Net Cash Provided by Operations:
+  Depreciation and Amortization                                                 903               764               601
+  Increase in Receivables, net                                                  (38)             (119)             (246)
+  Increase in Merchandise Inventories                                        (1,592)             (166)           (1,075)
+  Increase in Accounts Payable and Accrued Liabilities                        1,394             1,878               268
+  Increase in Deferred Revenue                                                  147               200               486
+  Increase in Income Taxes Payable                                               83               272               151
+  Increase (Decrease) in Deferred Income Taxes                                  173                (6)              108
+  Other                                                                          68                96               (78)
+-------------------------------------------------------------------------------------------------------------------------
+    Net Cash Provided by Operations                                           4,802             5,963             2,796
+-------------------------------------------------------------------------------------------------------------------------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Capital Expenditures, net of $49, $5 and $16 of non-cash
+  capital expenditures in fiscal 2002, 2001 and 2000, respectively           (2,749)           (3,393)           (3,558)
+Payments for Businesses Acquired, net                                          (235)             (190)              (26)
+Proceeds from Sales of Businesses, net                                           22                64                --
+Proceeds from Sales of Property and Equipment                                   105               126                95
+Purchases of Investments                                                       (583)              (85)              (39)
+Proceeds from Maturities of Investments                                         506                25                30
+Other                                                                            --               (13)              (32)
+-------------------------------------------------------------------------------------------------------------------------
+    Net Cash Used in Investing Activities                                    (2,934)           (3,466)           (3,530)
+-------------------------------------------------------------------------------------------------------------------------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+(Repayments) Issuances of Commercial Paper Obligations, net                      --              (754)              754
+Proceeds from Long-Term Debt                                                      1               532                32
+Repayments of Long-Term Debt                                                     --                --               (29)
+Repurchase of Common Stock                                                   (2,000)               --                --
+Proceeds from Sale of Common Stock, net                                         326               445               351
+Cash Dividends Paid to Stockholders                                            (492)             (396)             (371)
+-------------------------------------------------------------------------------------------------------------------------
+    Net Cash (Used in) Provided by Financing Activities                      (2,165)             (173)              737
+-------------------------------------------------------------------------------------------------------------------------
+Effect of Exchange Rate Changes on Cash and Cash Equivalents                      8               (14)               (4)
+-------------------------------------------------------------------------------------------------------------------------
+(Decrease) Increase in Cash and Cash Equivalents                               (289)            2,310                (1)
+Cash and Cash Equivalents at Beginning of Year                                2,477               167               168
+-------------------------------------------------------------------------------------------------------------------------
+Cash and Cash Equivalents at End of Year                                    $ 2,188           $ 2,477           $   167
+=========================================================================================================================
+SUPPLEMENTAL DISCLOSURE OF CASH PAYMENTS MADE FOR:
+  Interest, net of interest capitalized                                     $    50           $    18           $    16
+  Income Taxes                                                              $ 1,951           $ 1,685           $ 1,386
+=========================================================================================================================
+</TABLE>
+
+(1)      Fiscal years ended February 2, 2003, and January 28, 2001, include 52
+         weeks. Fiscal year ended February 3, 2002, includes 53 weeks.
+
+See accompanying notes to consolidated financial statements.
+
+
+                                      THE HOME DEPOT, INC. 2002 ANNUAL REPORT 31
+
+<PAGE>
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+THE HOME DEPOT, INC. AND SUBSIDIARIES
+
+1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+BUSINESS, CONSOLIDATION AND PRESENTATION
+
+The Home Depot, Inc. and subsidiaries (the "Company") operate Home Depot stores,
+which are full-service, warehouse-style stores averaging approximately 108,000
+square feet in size. The stores stock approximately 40,000 to 50,000 different
+kinds of building materials, home improvement supplies and lawn and garden
+products that are sold primarily to do-it-yourselfers, but also to home
+improvement contractors, tradespeople and building maintenance professionals. In
+addition, the Company operates EXPO Design Center stores, which offer products
+and services primarily related to design and renovation projects, Home Depot
+Landscape Supply stores which service landscape professionals and garden
+enthusiasts with lawn, landscape and garden products and Home Depot Supply
+stores serving primarily professional customers. The Company also operates one
+Home Depot Floor Store, a test store that offers only flooring products and
+installation services. At the end of fiscal 2002, the Company was operating
+1,532 stores in total, which included 1,370 Home Depot stores, 52 EXPO Design
+Center stores, 5 Home Depot Supply stores, 3 Home Depot Landscape Supply stores
+and 1 Home Depot Floor Store in the United States ("U.S."); 89 Home Depot stores
+in Canada and 12 Home Depot stores in Mexico. Included in the Company's
+Consolidated Balance Sheet at February 2, 2003, were $1.2 billion of net assets
+of the Canada and Mexico operations.
+
+The consolidated results include several wholly-owned subsidiaries. The Company
+offers facilities maintenance and repair products as well as wallpaper and
+custom window treatments via direct shipment through its subsidiaries,
+Maintenance Warehouse America Corp. and National Blinds and Wallpaper, Inc.
+(doing business as Designplace Direct). Georgia Lighting, Inc. is a specialty
+lighting designer, distributor and retailer to both commercial and retail
+customers. The Company offers plumbing, HVAC and other professional plumbing
+products through wholesale plumbing distributors Apex Supply Company, Inc. and
+Home Depot Your "other" Warehouse, LLC. The Company also arranges for the
+provision of flooring installation services to homebuilders through HD Builder
+Solutions Group, Inc. The consolidated financial statements include the accounts
+of the Company and its wholly-owned subsidiaries. All significant intercompany
+transactions have been eliminated in consolidation.
+
+
+FISCAL YEAR
+
+The Company's fiscal year is a 52 or 53-week period ending on the Sunday nearest
+to January 31. Fiscal years 2002 and 2000, which ended February 2, 2003, and
+January 28, 2001, respectively, include 52 weeks. Fiscal year 2001, which ended
+February 3, 2002, includes 53 weeks.
+
+CASH EQUIVALENTS
+
+The Company considers all highly liquid investments purchased with a maturity of
+three months or less to be cash equivalents. The Company's cash and cash
+equivalents are carried at fair market value and consist primarily of high-grade
+commercial paper, money market funds, U.S. government agency securities and
+tax-exempt notes and bonds.
+
+
+ACCOUNTS RECEIVABLE
+
+The Company has an agreement with a third-party service provider who manages the
+Company's private label credit card program and directly extends credit to
+customers. The Company's valuation reserve related to accounts receivable was
+not material as of February 2, 2003 and February 3, 2002.
+
+
+MERCHANDISE INVENTORIES
+
+The majority of the Company's inventory is stated at the lower of cost
+(first-in, first-out) or market, as determined by the retail inventory method.
+
+         Certain subsidiaries and distribution centers record inventories at
+lower of cost (first-in, first-out) or market, as determined by the cost method.
+These inventories represent approximately 7% of total inventory.
+
+INVESTMENTS
+
+The Company's investments, consisting primarily of high-grade debt securities,
+are recorded at fair value and are classified as available-for-sale.
+
+INCOME TAXES
+
+The Company provides for federal, state and foreign income taxes currently
+payable, as well as for those deferred due to timing differences between
+reporting income and expenses for financial statement purposes versus tax
+purposes. Federal, state and foreign incentive tax credits are recorded as a
+reduction of income taxes. Deferred tax assets and liabilities are recognized
+for the future tax consequences attributable to differences between the
+financial statement carrying amounts of existing assets and liabilities and
+their respective tax bases. Deferred tax assets and liabilities are measured
+using enacted income tax rates expected to apply to taxable income in the years
+in which those temporary differences are expected to be recovered or settled.
+The effect of a change in tax rates is recognized as income or expense in the
+period that includes the enactment date.
+
+
+32 THE HOME DEPOT, INC. 2002 ANNUAL REPORT
+
+<PAGE>
+
+         The Company and its eligible subsidiaries file a consolidated U.S.
+federal income tax return. Non-U.S. subsidiaries, which are consolidated for
+financial reporting purposes, are not eligible to be included in consolidated
+U.S. federal income tax returns. Separate provisions for income taxes have been
+determined for these entities. The Company intends to reinvest the unremitted
+earnings of its non-U.S. subsidiaries and postpone their remittance
+indefinitely. Accordingly, no provision for U.S. income taxes for non-U.S.
+subsidiaries was recorded in the accompanying Consolidated Statements of
+Earnings.
+
+DEPRECIATION AND AMORTIZATION
+
+The Company's buildings, furniture, fixtures and equipment are depreciated using
+the straight-line method over the estimated useful lives of the assets.
+Improvements to leased assets are amortized using the straight-line method
+over the life of the lease or the useful life of the improvement, whichever is
+shorter. The Company's property and equipment is depreciated using the following
+estimated useful lives:
+
+
+<TABLE>
+<CAPTION>
+                                              Life
+---------------------------------------------------
+<S>                                     <C>
+Buildings                               10-45 years
+Furniture, fixtures and equipment        5-20 years
+Leasehold improvements                   5-30 years
+Computer equipment and software           3-5 years
+</TABLE>
+
+
+REVENUES
+
+The Company recognizes revenue, net of estimated returns, at the time the
+customer takes possession of merchandise or receives services. When the Company
+receives payment from customers before the customer has taken possession of the
+merchandise or the service has been performed, the amount received is recorded
+in Deferred Revenue in the accompanying Consolidated Balance Sheets.
+
+SERVICE REVENUES
+
+Total revenues include service revenues generated through a variety of
+installation and home maintenance programs in Home Depot and EXPO stores as well
+as through the Company's subsidiary, HD Builder Solutions Group, Inc. In these
+programs, the customer selects and purchases materials for a project and the
+Company provides or arranges professional installation. When the Company
+subcontracts the installation of a project and the subcontractor provides
+material as part of the installation, both the material and labor are included
+in service revenues. The Company recognizes this revenue when the service for
+the customer is completed. All payments received prior to the completion of
+services are recorded in Deferred Revenue in the accompanying Consolidated
+Balance Sheets. Net service revenues, including the impact of deferred revenue,
+were $2.0 billion, $1.6 billion and $1.3 billion for the fiscal years 2002, 2001
+and 2000, respectively.
+
+SELF INSURANCE
+
+The Company is self-insured for certain losses related to general liability,
+product liability, workers' compensation and medical claims. The expected
+ultimate cost for claims incurred as of the balance sheet date is not discounted
+and is recognized as a liability. The expected ultimate cost of claims is
+estimated based upon analysis of historical data and actuarial estimates.
+
+
+ADVERTISING
+
+Television and radio advertising production costs along with media placement
+costs are expensed when the advertisement first appears. Included in Current
+Assets in the accompanying Consolidated Balance Sheets are $20 million and $15
+million at the end of fiscal years 2002 and 2001, respectively, relating to
+prepayments of production costs for print and broadcast advertising.
+
+     Gross advertising expense is classified as Selling and Store Operating
+Expenses and was $895 million, $817 million and $722 million, in fiscal years
+2002, 2001 and 2000, respectively. Advertising allowances earned from vendors
+fully offset gross advertising expenses. In fiscal 2002, 2001 and 2000,
+advertising allowances exceeded gross advertising expense by $30 million, $31
+million and $62 million, respectively. These excess amounts were recorded as a
+reduction in Cost of Merchandise Sold in the accompanying Consolidated
+Statements of Earnings.
+
+SHIPPING AND HANDLING COSTS
+
+The Company accounts for certain shipping and handling costs related to the
+shipment of product to customers from vendors as Cost of Merchandise Sold.
+However, cost of shipping and handling to customers by the Company is classified
+as Selling and Store Operating Expenses. The cost of shipping and handling,
+including internal costs and payments to third parties, classified as Selling
+and Store Operating Expenses was $341 million, $278 million and $226 million in
+fiscal years 2002, 2001 and 2000, respectively.
+
+COST IN EXCESS OF THE FAIR VALUE OF NET ASSETS ACQUIRED
+
+Goodwill represents the excess of purchase price over fair value of net assets
+acquired. In accordance with Statement of Financial Accounting Standards
+("SFAS") No. 142, "Goodwill and Other Intangible Assets," the Company stopped
+amortizing goodwill effective February 4, 2002. Amortization expense was $8
+million in both fiscal 2001 and fiscal 2000. The Company assesses the
+recoverability of goodwill at least annually by determining whether the fair
+value of each reporting entity supports its carrying value. The Company
+completed its assessment of goodwill for fiscal 2002 and recorded an impairment
+charge of $1.3 million.
+
+
+                                      THE HOME DEPOT, INC. 2002 ANNUAL REPORT 33
+
+<PAGE>
+IMPAIRMENT OF LONG-LIVED ASSETS
+
+The Company reviews long-lived assets for impairment when circumstances indicate
+the carrying amount of an asset may not be recoverable. Impairment is recognized
+to the extent the sum of undiscounted estimated future cash flows expected to
+result from the use of the asset is less than the carrying value. When the
+Company commits to relocate or close a location, a charge is recorded to Selling
+and Store Operating Expenses to write down the related assets to the estimated
+net recoverable value.
+
+     In August 2002, the Company adopted SFAS No. 146, "Accounting for Costs
+Associated with Exit or Disposal Activities." In accordance with SFAS No. 146,
+the Company recognizes Selling and Store Operating Expense for the net present
+value of future lease obligations, less estimated sublease income when the
+location closes. Prior to the adoption of SFAS No. 146, the Company recognized
+this Selling and Store Operating Expense when the Company committed to a plan to
+relocate or close a location.
+
+STOCK-BASED COMPENSATION
+
+During fiscal 2002 and all fiscal years prior, the Company elected to account
+for its stock-based compensation plans under Accounting Principles Board Opinion
+No. 25 ("APB 25"), "Accounting for Stock Issued to Employees," which requires
+the recording of compensation expense for some, but not all, stock-based
+compensation rather than the alternative accounting permitted by SFAS No. 123,
+"Accounting for Stock-Based Compensation."
+
+     The following table illustrates the effect on net earnings and earnings per
+share if the Company had applied the fair value recognition provisions of SFAS
+No. 123 to stock-based compensation (amounts in millions, except per share
+data):
+
+<TABLE>
+<CAPTION>
+                                     Fiscal Year Ended
+                            February 2,  February 3,   January 28,
+                               2003        2002            2001
+------------------------------------------------------------------
+<S>                           <C>         <C>            <C>
+Net Earnings
+  As reported                 $3,664      $3,044         $2,581
+  Pro forma                   $3,414      $2,800         $2,364
+
+Basic Earnings per Share
+  As reported                 $ 1.57      $ 1.30         $ 1.11
+  Pro forma                   $ 1.46      $ 1.20         $ 1.02
+
+Diluted Earnings per Share
+  As reported                 $ 1.56      $ 1.29         $ 1.10
+  Pro forma                   $ 1.46      $ 1.19         $ 1.01
+-----------------------------------------------------------------
+</TABLE>
+
+     In December 2002, SFAS No. 148, "Accounting for Stock-Based
+Compensation--Transition and Disclosure," was issued, which provides three
+alternative methods of transition for a voluntary change to the fair value
+method of accounting for stock-based compensation in accordance with SFAS No.
+123. Effective February 3, 2003, the Company adopted the fair value method of
+recording compensation expense related to all stock options granted after
+February 2, 2003, in accordance with SFAS Nos. 123 and 148. Accordingly, the
+fair value of stock options as determined on the date of grant using the
+Black-Scholes option-pricing model will be expensed over the vesting period of
+the related stock options. The estimated negative impact on diluted earnings per
+share is approximately $.02 for fiscal 2003. The actual impact may differ from
+this estimate as the estimate is based upon a number of factors including, but
+not limited to, the number of stock options granted and the fair value of the
+stock options on the date of grant.
+
+DERIVATIVES
+
+The Company measures derivatives at fair value and recognizes these assets or
+liabilities on the Consolidated Balance Sheets. Recognition of changes in the
+fair value of a derivative in the Consolidated Statements of Earnings or
+Consolidated Statements of Stockholders' Equity and Comprehensive Income depends
+on the intended use of the derivative and its designation. The Company
+designates derivatives based upon criteria established by SFAS Nos. 133 and 138,
+"Accounting for Derivative Instruments and Hedging Activities." The Company's
+primary objective for holding derivative instruments is to decrease the
+volatility of earnings and cash flow associated with fluctuations in interest
+rates.
+
+COMPREHENSIVE INCOME
+
+Comprehensive income includes net earnings adjusted for certain revenues,
+expenses, gains and losses that are excluded from net earnings under generally
+accepted accounting principles. Examples include foreign currency translation
+adjustments and unrealized gains and losses on certain hedge transactions.
+
+FOREIGN CURRENCY TRANSLATION
+
+The assets and liabilities denominated in a foreign currency are translated into
+U.S. dollars at the current rate of exchange on the last day of the reporting
+period. Revenues and expenses are translated at the average monthly exchange
+rates, and equity transactions are translated using the actual rate on the day
+of the transaction.
+
+USE OF ESTIMATES
+
+Management of the Company has made a number of estimates and assumptions
+relating to the reporting of assets and liabilities, the disclosure of
+contingent assets and liabilities, and reported amounts of revenues and expenses
+in preparing these financial statements in conformity with generally accepted
+accounting principles. Actual results could differ from these estimates.
+
+
+
+34 THE HOME DEPOT, INC. 2002 ANNUAL REPORT
+<PAGE>
+
+RECLASSIFICATIONS
+
+Certain amounts in prior fiscal years have been reclassified to conform with the
+presentation adopted in the current fiscal year.
+
+2 LONG-TERM DEBT
+
+The Company's long-term debt at the end of fiscal 2002 and fiscal 2001 consisted
+of the following (amounts in millions):
+
+<TABLE>
+<CAPTION>
+
+                                               February 2,  February 3,
+                                                  2003        2002
+-----------------------------------------------------------------------
+<S>                                           <C>           <C>
+6 1/2% Senior Notes; due September 15,
+   2004; interest payable semi-annually
+   on March 15 and September 15                  $ 500        $ 500
+
+5 3/8% Senior Notes; due April 1, 2006;
+   interest payable semi-annually
+   on April 1 and October 1                        500          500
+
+Capital Lease Obligations;
+   payable in varying installments
+   through May 31, 2027                            277          232
+
+Other                                               51           23
+-----------------------------------------------------------------------
+Total long-term debt                             1,328        1,255
+Less current installments                            7            5
+-----------------------------------------------------------------------
+Long-term debt, excluding current installments  $1,321       $1,250
+=======================================================================
+</TABLE>
+
+     The Company has a commercial paper program with maximum available
+borrowings for up to $1 billion. In connection with the program, the Company
+has a back-up credit facility with a consortium of banks for up to $800 million.
+The credit facility, which expires in September 2004, contains various
+restrictive covenants, none of which are expected to materially impact the
+Company's liquidity or capital resources.
+
+     The Company had $500 million of 6 1/2% Senior Notes and $500 million of
+5 3/8% Senior Notes outstanding as of February 2, 2003, collectively referred to
+as "Senior Notes." The Senior Notes may be redeemed by the Company at any time,
+in whole or in part, at a redemption price plus accrued interest up to the
+redemption date. The redemption price is equal to the greater of (1) 100% of the
+principal amount of the Senior Notes to be redeemed, or (2) the sum of the
+present values of the remaining scheduled payments of principal and interest to
+maturity. The Senior Notes are not subject to sinking fund requirements.
+
+     Interest Expense in the accompanying Consolidated Statements of Earnings is
+net of interest capitalized of $59 million, $84 million and $73 million in
+fiscal years 2002, 2001 and 2000, respectively. Maturities of long-term debt are
+$7 million for fiscal 2003, $507 million for fiscal 2004, $8 million for fiscal
+2005, $509 million for fiscal 2006 and $11 million for fiscal 2007.
+
+     As of February 2, 2003, the market values of the publicly traded 6 1/2% and
+5 3/8% Senior Notes were approximately $537 million and $538 million,
+respectively. The estimated fair value of all other long-term borrowings,
+excluding capital lease obligations, approximated the carrying value of $51
+million. These fair values were estimated using a discounted cash flow analysis
+based on the Company's incremental borrowing rate for similar liabilities.
+
+3 INCOME TAXES
+
+ The provision for income taxes consisted of the following (in millions):
+
+<TABLE>
+<CAPTION>
+
+                                               Fiscal Year Ended
+                                  February 2,       February 3,     January 28,
+                                     2003              2002            2001
+-------------------------------------------------------------------------------
+<S>                                <C>               <C>               <C>
+Current:
+  Federal                          $ 1,679           $ 1,594           $1,267
+  State                                239               265              216
+  Foreign                              117                60               45
+-------------------------------------------------------------------------------
+                                     2,035             1,919            1,528
+===============================================================================
+
+Deferred:
+  Federal                              174               (12)              98
+  State                                  1                (1)               9
+  Foreign                               (2)                7                1
+                                       173                (6)             108
+-------------------------------------------------------------------------------
+Total                              $ 2,208           $ 1,913           $1,636
+===============================================================================
+</TABLE>
+
+     The Company's combined federal, state and foreign effective tax rates for
+fiscal years 2002, 2001 and 2000, net of offsets generated by federal, state and
+foreign tax incentive credits, were approximately 37.6%, 38.6% and 38.8%,
+respectively.
+
+
+                                      THE HOME DEPOT, INC. 2002 ANNUAL REPORT 35
+<PAGE>
+
+     A reconciliation of income tax expense at the federal statutory rate of 35%
+to actual tax expense for the applicable fiscal years is as follows (in
+millions):
+
+<TABLE>
+<CAPTION>
+
+                                            Fiscal Year Ended
+                                 February 2,     February 3,     January 28,
+                                    2003            2002            2001
+---------------------------------------------------------------------------
+<S>                              <C>               <C>             <C>
+Income taxes at federal
+  statutory rate                 $ 2,055           $1,735          $1,476
+State income taxes, net
+ of federal income
+ tax benefit                         156              172             146
+Foreign rate differences              (1)               4               5
+Other, net                            (2)               2               9
+---------------------------------------------------------------------------
+Total                            $ 2,208           $1,913          $1,636
+===========================================================================
+</TABLE>
+
+     The tax effects of temporary differences that give rise to significant
+portions of the deferred tax assets and deferred tax liabilities as of February
+2, 2003, and February 3, 2002, were as follows (in millions):
+
+<TABLE>
+<CAPTION>
+
+                                                 February 2,   February 3,
+                                                   2003           2002
+-------------------------------------------------------------------------
+<S>                                               <C>             <C>
+Deferred Tax Assets:
+  Accrued self-insurance liabilities              $ 305           $ 220
+  Other accrued liabilities                          92             138
+  Net loss on disposition of business                31              31
+-------------------------------------------------------------------------
+    Total gross deferred tax assets                 428             389
+    Valuation allowance                             (31)            (31)
+-------------------------------------------------------------------------
+    Deferred tax assets, net of
+      valuation allowance                           397             358
+-------------------------------------------------------------------------
+Deferred Tax Liabilities:
+  Accelerated depreciation                         (571)           (492)
+  Accelerated inventory deduction                  (149)             --
+  Other                                             (39)            (55)
+-------------------------------------------------------------------------
+    Total gross deferred tax liabilities           (759)           (547)
+-------------------------------------------------------------------------
+Net deferred tax liability                        $(362)          $(189)
+=========================================================================
+</TABLE>
+
+     A valuation allowance existed as of February 2, 2003, and February 3, 2002,
+due to the uncertainty of capital loss utilization. Management believes the
+existing net deductible temporary differences comprising the deferred tax assets
+will reverse during periods in which the Company generates net taxable income.
+
+4 EMPLOYEE STOCK PLANS
+
+The 1997 Omnibus Stock Incentive Plan ("1997 Plan") provides that incentive
+stock options, non-qualified stock options, stock appreciation rights,
+restricted shares, performance shares, performance units and deferred shares may
+be issued to selected associates, officers and directors of the Company. The
+maximum number of shares of the Company's common stock authorized for issuance
+under the 1997 Plan includes the number of shares carried over from prior plans
+and the number of shares authorized but unissued in the prior year, plus
+one-half percent of the total number of outstanding shares as of the first day
+of each fiscal year. As of February 2, 2003, there were 108 million shares
+available for future grants under the 1997 Plan.
+
+     Under the 1997 Plan, as of February 2, 2003, the Company had granted
+incentive and non-qualified stock options for 167 million shares, net of
+cancellations (of which 86 million had been exercised). Incentive stock options
+and non-qualified options typically vest at the rate of 25% per year commencing
+on the first anniversary date of the grant and expire on the tenth anniversary
+date of the grant.
+
+     Under the 1997 Plan, as of February 2, 2003, 2 million shares of
+restricted stock had been issued net of cancellations (the restrictions on 4,600
+shares have lapsed). Generally, the restrictions on 25% of the restricted shares
+lapse upon the third and sixth year anniversaries of the date of issuance with
+the remaining 50% of the restricted shares lapsing upon the associate's
+attainment of age 62. The fair value of the restricted shares is expensed over
+the period during which the restrictions lapse. The Company recorded
+compensation expense related to restricted stock of $3 million in both fiscal
+2002 and 2001 and $455,000 in fiscal 2000.
+
+     As of February 2, 2003, there were 2.5 million non-qualified stock options
+and 1.4 million deferred stock units outstanding under non-qualified stock
+option and deferred stock unit plans that are not part of the 1997 Plan. The 2.5
+million non-qualified stock options have an exercise price of $40.75 per share
+and were granted in fiscal 2000. During fiscal years 2002, 2001 and 2000, the
+Company granted 0, 629,000 and 750,000 deferred stock units, respectively, to
+several key officers vesting at various dates. Each deferred stock unit entitles
+the officer to one share of common stock to be received up to five years after
+the vesting date of the deferred stock unit, subject to certain deferral rights
+of the officer. The fair value of the deferred stock units on the grant dates
+was $27 million and $31 million for deferred units granted in fiscal 2001 and
+2000, respectively. These amounts are being amortized over the vesting periods.
+
+
+36 THE HOME DEPOT, INC. 2002 ANNUAL REPORT
+<PAGE>
+The Company recorded stock compensation expense related to deferred stock units
+of $12 million, $16 million and $6 million in fiscal 2002, 2001 and 2000,
+respectively.
+
+     The per share weighted average fair value of stock options granted during
+fiscal years 2002, 2001 and 2000 was $17.34, $20.51 and $31.96, respectively.
+The fair value of these options was determined at the date of grant using the
+Black-Scholes option-pricing model with the following assumptions:
+
+<TABLE>
+<CAPTION>
+
+                                              Fiscal Year Ended
+                                  February 2,     February 3,      January 28,
+                                     2003            2002             2001
+--------------------------------------------------------------------------------
+<S>                                <C>             <C>             <C>
+Risk-free interest rate                4.0%            5.1%            6.4%
+Assumed volatility                    44.3%           48.1%           54.6%
+Assumed dividend yield                 0.5%            0.4%            0.3%
+Assumed lives of options            5 years         6 years         7 years
+================================================================================
+</TABLE>
+
+     The Company applies APB 25 in accounting for its stock-based compensation
+plans and, accordingly, no compensation expense has been recognized in the
+Company's financial statements for incentive or non-qualified stock options
+granted. If, under SFAS No. 123, the Company determined compensation expense
+based on the fair value at the grant date for its stock options, as computed and
+disclosed above, net earnings and earnings per share would have been reduced to
+the pro forma amounts below (in millions, except per share data):
+
+<TABLE>
+<CAPTION>
+
+                                                Fiscal Year Ended
+                                    February 2,    February 3,    January 28,
+                                       2003           2002           2001
+------------------------------------------------------------------------------
+<S>                                 <C>            <C>             <C>
+Net earnings,
+  as reported                       $   3,664      $   3,044       $   2,581
+
+Add: Stock-based
+  compensation expense
+  included in reported net
+  earnings, net of related
+  tax effects                              10             13               4
+
+Deduct: Total stock-based
+  compensation expense
+  determined under
+  fair value based method
+  for all awards, net of
+  related tax effects                    (260)          (257)           (221)
+------------------------------------------------------------------------------
+Pro forma net earnings              $   3,414      $   2,800       $   2,364
+==============================================================================
+Earnings per share:
+  Basic-- as reported               $    1.57      $    1.30       $    1.11
+  Basic-- pro forma                 $    1.46      $    1.20       $    1.02
+
+  Diluted--as reported              $    1.56      $    1.29       $    1.10
+  Diluted--pro forma                $    1.46      $    1.19       $    1.01
+==============================================================================
+</TABLE>
+
+The following table summarizes stock options outstanding at February 2, 2003,
+February 3, 2002 and January 28, 2001, and changes during the fiscal years ended
+on these dates (shares in thousands):
+
+<TABLE>
+<CAPTION>
+
+                                                               Weighted
+                                            Number             Average
+                                           of Shares         Option Price
+--------------------------------------------------------------------------
+<S>                                        <C>               <C>
+Outstanding at January 30, 2000              68,419           $    18.79
+==========================================================================
+  Granted                                    14,869                49.78
+  Exercised                                 (14,689)               13.15
+  Canceled                                   (2,798)               30.51
+--------------------------------------------------------------------------
+Outstanding at January 28, 2001              65,801           $    26.46
+==========================================================================
+  Granted                                    25,330                40.33
+  Exercised                                 (16,614)               15.03
+  Canceled                                   (5,069)               39.20
+--------------------------------------------------------------------------
+Outstanding at February 3, 2002              69,448           $    33.33
+==========================================================================
+  Granted                                    31,656                40.86
+  Exercised                                  (9,908)               18.27
+  Canceled                                   (8,030)               42.74
+--------------------------------------------------------------------------
+Outstanding at February 2, 2003              83,166           $    37.09
+==========================================================================
+Exercisable                                  29,431           $    29.48
+==========================================================================
+</TABLE>
+
+The following table summarizes information regarding stock options outstanding
+at February 2, 2003 (shares in thousands):
+
+<TABLE>
+<CAPTION>
+
+                                       Weighted      Weighted                       Weighted
+                                        Average      Average                         Average
+     Range of            Options      Remaining    Outstanding         Options     Exercisable
+ Exercise Prices       Outstanding    Life(Yrs)    Option Price      Exercisable   Option Price
+ ----------------------------------------------------------------------------------------------
+
+<S>                    <C>             <C>         <C>               <C>            <C>
+$ 6.00 to 12.00           7,090           3.5         $10.24            7,090          $10.24
+
+ 12.01 to 20.00           1,191           4.7          17.21            1,191           17.21
+
+ 20.01 to 30.00           7,438           5.6          22.19            6,090           21.78
+
+ 30.01 to 42.00          41,745           8.4          37.67           11,161           39.12
+
+ 42.01 to 54.00          25,702           8.5          48.80            3,899           52.48
+------------------------------------------------------------------------------------------------
+                         83,166           7.7         $37.09           29,431          $29.48
+================================================================================================
+</TABLE>
+
+     The Company maintains two employee stock purchase plans (U.S. and non-U.S.
+plans). The plan for U.S. associates is a tax-qualified plan under Section 423
+of the Internal Revenue Code. The non-U.S. plan is not a Section 423 plan. The
+Company had 43 million shares available for issuance under the Employee Stock
+Purchase Plans ("ESPPs") at February 2, 2003. The ESPPs allow associates to
+purchase up to 152 million shares of common stock, of which 109 million shares
+have been purchased from inception of the plan, at a price equal to the lower of
+85% of the stock's fair market value on the first day or the last day of the
+purchase period. These shares were included in the pro forma calculation of
+stock-based compensation expense.
+
+     During fiscal 2002, 5.2 million shares were purchased under the ESPPs at an
+average price of $30.89 per share. At February 2, 2003, there were 2.3 million
+shares outstanding, net of cancellations, at an average price of $34.09 per
+share.
+
+
+                                      THE HOME DEPOT, INC. 2002 ANNUAL REPORT 37
+
+
+<PAGE>
+
+
+5 LEASES
+
+
+The Company leases certain retail locations, office space, warehouse and
+distribution space, equipment and vehicles. While the majority of the leases are
+operating leases, certain retail locations are leased under capital leases. As
+leases expire, it can be expected that, in the normal course of business,
+certain leases will be renewed or replaced.
+
+     The Company has two off-balance sheet lease agreements under which the
+Company leases assets totaling $882 million comprised of an initial lease
+agreement of $600 million and a subsequent agreement of $282 million. These two
+leases were created under structured financing arrangements and involve a
+special purpose entity which meets the criteria for non-consolidation
+established by generally accepted accounting principles and is not owned by or
+affiliated with the Company, its management or officers. The Company financed a
+portion of its new stores opened in fiscal years 1997 through 2002, as well as a
+distribution center and office buildings, under these lease agreements. Under
+both agreements, the lessor purchases the properties, pays for the construction
+costs and subsequently leases the facilities to the Company. The lease term for
+the $600 million agreement expires in fiscal 2006 and has three two-year renewal
+options. The lease term for the $282 million agreement expires in 2008 with no
+renewal option. Both lease agreements provide for substantial residual value
+guarantees and include purchase options at original cost of each property.
+Events or circumstances that would require the Company to perform under the
+guarantees include 1) initial default on the leases with the assets sold for
+less than book value, or 2) the Company's decision not to purchase the assets at
+the end of the leases and the sale of the assets results in proceeds less than
+the initial book value of the assets. The Company's guarantees are limited to
+82% of the initial book value of the assets.
+
+     The Company also leases an import distribution facility, including its
+related equipment, under an off-balance sheet lease created as part of a
+structured financing arrangement totaling $85 million. The lease for the import
+distribution facility expires in fiscal 2005 and has four 5-year renewal
+options. The lease agreement provides for substantial residual value guarantees
+and includes purchase options at the higher of the cost or fair market value of
+the assets.
+
+     The maximum amount of the residual value guarantees relative to the assets
+under the three off-balance sheet lease agreements described above is estimated
+to be $799 million. As the leased assets are placed into service, the Company
+estimates its liability under the residual value guarantees and records
+additional rent expense on a straight-line basis over the remaining lease terms.
+
+     Total rent expense, net of minor sublease income for the fiscal years ended
+February 2, 2003, February 3, 2002 and January 28, 2001, was $533 million, $522
+million and $479 million, respectively. Real estate taxes, insurance,
+maintenance and operating expenses applicable to the leased property are
+obligations of the Company under the lease agreements. Certain store leases
+provide for contingent rent payments based on percentages of sales in excess of
+specified minimums. Contingent rent expense for the fiscal years ended February
+2, 2003, February 3, 2002 and January 28, 2001, was approximately $8 million,
+$10 million and $9 million, respectively.
+
+     The approximate future minimum lease payments under capital and all other
+leases, including off-balance sheet leases, at February 2, 2003, were as follows
+(in millions):
+
+<TABLE>
+<CAPTION>
+                                                Capital        Operating
+Fiscal Year                                      Leases         Leases
+-----------------------------------------------------------------------
+<S>                                             <C>             <C>
+2003                                             $   44          $  541
+2004                                                 45             512
+2005                                                 44             476
+2006                                                 46             440
+2007                                                 47             424
+Thereafter through 2033                             608           4,915
+-----------------------------------------------------------------------
+                                                    834          $7,308
+                                                                 ======
+Less imputed interest                               557
+-----------------------------------------------------------------------
+   Net present value of
+     capital lease obligations                      277
+Less current installments                             5
+-----------------------------------------------------------------------
+   Long-term capital lease obligations,
+     excluding current installments              $  272
+=======================================================================
+</TABLE>
+
+     Short-term and long-term obligations for capital leases are included in the
+accompanying Consolidated Balance Sheets in Other Accrued Expenses and Long-Term
+Debt, respectively. The assets under capital leases recorded in Property and
+Equipment, net of amortization, totaled $235 million and $199 million at
+February 2, 2003 and February 3, 2002, respectively.
+
+
+38 THE HOME DEPOT, INC. 2002 ANNUAL REPORT
+
+
+<PAGE>
+
+6 EMPLOYEE BENEFIT PLANS
+
+The Company maintains three active defined contribution retirement plans (the
+"Plans"). All associates satisfying certain service requirements are eligible to
+participate in the Plans. The Company makes cash contributions each payroll
+period to purchase shares of the Company's common stock, up to specified
+percentages of associates' contributions as approved by the Board of Directors.
+
+     The Company's contributions to the Plans were $99 million, $97 million and
+$84 million for fiscal years 2002, 2001 and 2000, respectively. At February 2,
+2003, the Plans held a total of 33 million shares of the Company's common stock
+in trust for plan participants.
+
+     The Company also maintains a restoration plan to provide certain associates
+deferred compensation that they would have received under the Plans as a
+matching contribution if not for the maximum compensation limits under the
+Internal Revenue Code. The Company funds the restoration plan through
+contributions made to a grantor trust, which are then used to purchase shares
+of the Company's common stock in the open market. Compensation expense related
+to this plan for fiscal years 2002, 2001 and 2000 was not material.
+
+7 BASIC AND DILUTED WEIGHTED AVERAGE COMMON SHARES
+
+The reconciliation of basic to diluted weighted average common shares for fiscal
+years 2002, 2001 and 2000 was as follows (amounts in millions):
+
+<TABLE>
+<CAPTION>
+
+                                             Fiscal Year Ended
+                                    February 2,    February 3,   January 28,
+                                       2003          2002          2001
+---------------------------------------------------------------------------
+<S>                                <C>           <C>           <C>
+Weighted average
+   common shares                       2,336         2,335         2,315
+Effect of potentially
+   dilutive securities:
+   Stock Plans                             8            18            37
+---------------------------------------------------------------------------
+Diluted weighted average
+   common shares                       2,344         2,353         2,352
+===========================================================================
+</TABLE>
+
+     Stock plans include shares granted under the Company's employee stock
+purchase plans and stock incentive plans, as well as shares issued for deferred
+compensation stock plans. Options to purchase 72.1 million, 11.2 million and
+10.9 million shares of common stock at February 2, 2003, February 3, 2002 and
+January 28, 2001, respectively, were excluded from the computation of diluted
+earnings per share because their effect would have been anti-dilutive.
+
+8 COMMITMENTS AND CONTINGENCIES
+
+At February 2, 2003, the Company was contingently liable for approximately $930
+million under outstanding letters of credit issued for certain business
+transactions, including insurance programs, import inventory purchases and
+construction contracts. The Company's letters of credit are primarily
+performance-based and are not based on changes in variable components, a
+liability or an equity security of the other party.
+
+     The Company is involved in litigation arising from the normal course of
+business. In management's opinion, this litigation is not expected to materially
+impact the Company's consolidated results of operations or financial condition.
+
+9 ACQUISITIONS AND DISPOSITIONS
+
+In October 2002, the Company acquired substantially all of the assets of
+FloorWorks, Inc. and Arvada Hardwood Floor Company, and common stock of Floors,
+Inc., three flooring installation companies primarily servicing the new home
+builder industry. These acquisitions were accounted for under the purchase
+method of accounting.
+
+     In June 2002, the Company acquired the assets of Madereria Del Norte, S.A.
+de C.V, a four-store chain of home improvement stores in Juarez, Mexico. The
+acquisition was accounted for under the purchase method of accounting.
+
+     In fiscal 2001, the Company acquired Your "other" Warehouse and Soluciones
+Para Las Casas de Mexico, S. de R.L. de C.V. These acquisitions were accounted
+for under the purchase method of accounting.
+
+     Pro forma results of operations for fiscal years 2002, 2001 and 2000 would
+not be materially different as a result of the acquisitions discussed above and
+therefore are not presented.
+
+     In February 2002, the Company sold all of the assets of The Home Depot
+Argentina S.R.L. In connection with the sale, the Company received proceeds
+comprised of cash and notes. An impairment charge of $45 million was recorded in
+Selling and Store Operating Expenses in the accompanying Consolidated Statements
+of Earnings in fiscal 2001 to write down the net assets of The Home Depot
+Argentina S.R.L. to fair value.
+
+     In October 2001, the Company sold all of the assets of The Home Depot Chile
+S.A., resulting in a gain of $31 million included in Selling and Store Operating
+Expenses in the accompanying Consolidated Statements of Earnings.
+
+
+                                      THE HOME DEPOT, INC. 2002 ANNUAL REPORT 39
+
+
+<PAGE>
+
+10 QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+The following is a summary of the quarterly consolidated results of operations
+for the fiscal years ended February 2, 2003 and February 3, 2002 (dollars in
+millions, except per share data):
+
+<TABLE>
+<CAPTION>
+
+                                                                Increase
+                                                               (Decrease)                                Basic         Diluted
+                                                              In Comparable    Gross        Net         Earnings      Earnings
+                                                Net Sales     Store Sales      Profit     Earnings     Per Share      Per Share
+--------------------------------------------------------------------------------------------------------------------------------
+Fiscal year ended February 2, 2003:(1)
+
+<S>                                             <C>           <C>            <C>          <C>          <C>            <C>
+   First quarter                                $ 14,282             5 %      $  4,360     $    856     $   0.36       $   0.36
+   Second quarter                                 16,277             1 %         4,946        1,182         0.50           0.50
+   Third quarter                                  14,475            (2)%         4,580          940         0.40           0.40
+   Fourth quarter                                 13,213            (6)%         4,222          686         0.30           0.30
+--------------------------------------------------------------------------------------------------------------------------------
+     Fiscal year                                $ 58,247             0 %      $ 18,108     $  3,664     $   1.57       $   1.56
+--------------------------------------------------------------------------------------------------------------------------------
+Fiscal year ended February 3, 2002:(1)
+
+   First quarter                                $ 12,200            (3)%      $  3,655     $    632     $   0.27       $   0.27
+   Second quarter                                 14,576             1 %         4,326          924         0.40           0.39
+   Third quarter                                  13,289             0 %         4,010          778         0.33           0.33
+   Fourth quarter                                 13,488             5 %         4,156          710         0.30           0.30
+--------------------------------------------------------------------------------------------------------------------------------
+     Fiscal year                                $ 53,553             0 %      $ 16,147     $  3,044     $   1.30       $   1.29
+</TABLE>
+
+(1) Fiscal year ended February 2, 2003 includes 52 weeks and fiscal year ended
+    February 3, 2002 includes 53 weeks.
+
+    Note: The quarterly data may not sum to fiscal year totals due to rounding.
+
+40 THE HOME DEPOT, INC. 2002 ANNUAL REPORT
+
+<PAGE>
+
+MANAGEMENT'S RESPONSIBILITY FOR FINANCIAL STATEMENTS
+
+The financial statements presented in this Annual Report have been prepared with
+integrity and objectivity and are the responsibility of the management of The
+Home Depot, Inc. These financial statements have been prepared in conformity
+with accounting principles generally accepted in the United States of America
+and properly reflect certain estimates and judgments based upon the best
+available information.
+
+     The Company maintains a system of internal accounting controls, which is
+supported by an internal audit program and is designed to provide reasonable
+assurance, at an appropriate cost, that the Company's assets are safeguarded and
+transactions are properly recorded. This system is continually reviewed and
+modified in response to changing business conditions and operations and as a
+result of recommendations by the external and internal auditors. In addition,
+the Company has distributed to associates its policies for conducting business
+affairs in a lawful and ethical manner.
+
+     The financial statements of the Company have been audited by KPMG LLP,
+independent auditors. Their accompanying report is based upon an audit conducted
+in accordance with auditing standards generally accepted in the United States of
+America, including the related review of internal accounting controls and
+financial reporting matters.
+
+     The Audit Committee of the Board of Directors, consisting solely of outside
+directors, meets five times a year with the independent auditors, the internal
+auditors and representatives of management to discuss auditing and financial
+reporting matters. In addition, a telephonic meeting is held prior to each
+quarterly earnings release. The Audit Committee retains the independent auditors
+and regularly reviews the internal accounting controls, the activities of the
+outside auditors and internal auditors and the financial condition of the
+Company. Both the Company's independent auditors and the internal auditors have
+free access to the Audit Committee.
+
+/s/ CAROL B. TOME
+Carol B. Tome
+Executive Vice President and
+Chief Financial Officer
+
+
+INDEPENDENT AUDITORS' REPORT
+
+The Board of Directors and Stockholders
+The Home Depot, Inc.:
+
+We have audited the accompanying consolidated balance sheets of The Home Depot,
+Inc. and subsidiaries as of February 2, 2003 and February 3, 2002 and the
+related consolidated statements of earnings, stockholders' equity and
+comprehensive income, and cash flows for each of the years in the three-year
+period ended February 2, 2003. These consolidated financial statements are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these consolidated financial statements based on our audits.
+
+     We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+     In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of The Home
+Depot, Inc. and subsidiaries as of February 2, 2003 and February 3, 2002, and
+the results of their operations and their cash flows for each of the years in
+the three-year period ended February 2, 2003, in conformity with accounting
+principles generally accepted in the United States of America.
+
+/s/ KPMG LLP
+Atlanta, Georgia
+February 24, 2003
+
+
+                                      THE HOME DEPOT, INC. 2002 ANNUAL REPORT 41
+<PAGE>
+
+10-YEAR SUMMARY OF FINANCIAL AND OPERATING RESULTS
+
+THE HOME DEPOT, INC. AND SUBSIDIARIES
+
+
+<TABLE>
+<CAPTION>
+
+                                                                     5-Year          10-Year
+                                                                 Compound Annual  Compound Annual
+amounts in millions, except where noted                            Growth Rate      Growth Rate        2002              2001(1)
+---------------------------------------------------------------------------------------------------------------------------------
+<S>                                                              <C>               <C>             <C>               <C>
+STATEMENT OF EARNINGS DATA
+Net sales                                                              19.2%            23.3%       $    58,247       $    53,553
+Net sales increase(%)                                                    --               --                8.8              17.1
+Earnings before provision for income taxes                             25.3             26.1              5,872             4,957
+Net earnings                                                           25.9             26.0              3,664             3,044
+Net earnings increase(%)                                                 --               --               20.4              17.9
+Diluted earnings per share($)(2)                                       24.6             24.1               1.56              1.29
+Diluted earnings per share increase(%)                                   --               --               20.9              17.3
+Diluted weighted average number of common shares                        0.5              1.1              2,344             2,353
+Gross margin - % of sales                                                --               --               31.1              30.2
+Selling and store operating expense - % of sales                         --               --               19.2              19.0
+Pre-opening expense - % of sales                                         --               --                0.2               0.2
+General and administrative expense - % of sales                          --               --                1.7               1.7
+Net interest income (expense) - % of sales                               --               --                0.1                --
+Earnings before provision for income taxes - % of sales                  --               --               10.1               9.3
+Net earnings - % of sales                                                --               --                6.3               5.7
+=================================================================================================================================
+BALANCE SHEET DATA AND FINANCIAL RATIOS
+Total assets                                                           21.7%            22.5%          $ 30,011       $    26,394
+Working capital                                                        14.1             17.0              3,882             3,860
+Merchandise inventories                                                18.3             24.4              8,338             6,725
+Net property and equipment                                             21.4             26.7             17,168            15,375
+Long-term debt                                                          0.3              4.6              1,321             1,250
+Stockholders' equity                                                   22.8             24.0             19,802            18,082
+Book value per share ($)                                               21.0             22.0               8.38              7.71
+Long-term debt-to-equity (%)                                             --               --                6.7               6.9
+Current ratio                                                            --               --             1.48:1            1.59:1
+Inventory turnover                                                       --               --               5.3x              5.4x
+Return on invested capital (%)                                           --               --               18.8              18.3
+=================================================================================================================================
+STATEMENT OF CASH FLOWS DATA
+Depreciation and amortization                                          26.1%            29.1%       $       903       $       764
+Capital expenditures(3)                                                13.4             20.2              2,749             3,398
+Cash dividends per share ($)                                           28.5             26.5               0.21              0.17
+=================================================================================================================================
+STORE DATA (4)
+Number of stores                                                       19.7%            21.8%             1,532             1,333
+Square footage at fiscal year-end                                      20.3             23.0                166               146
+Increase in square footage (%)                                           --               --               14.1              18.5
+Average square footage per store (in thousands)                         0.4              1.0                108               109
+=================================================================================================================================
+STORE SALES AND OTHER DATA
+Comparable store sales increase (%)(5)                                   --               --                 --                --
+Weighted average weekly sales per operating store (in
+  thousands)(4)                                                        (1.4)%            0.6%       $       772       $       812
+Weighted average sales per square foot ($)(4,5)                        (1.8)            (0.4)               370               388
+Number of customer transactions(4)                                     16.1             19.9              1,161             1,091
+Average sale per transaction ($)(4)                                     2.5              2.7              49.43             48.64
+Number of associates at fiscal year-end                                17.7             21.9            280,900           256,300
+---------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+(1) Fiscal years 2001 and 1996 include 53 weeks; all other fiscal years reported
+    include 52 weeks.
+
+(2) Diluted earnings per share for fiscal 1997, excluding a $104 million
+    non-recurring charge, were $0.55.
+
+(3) Excludes payments for businesses acquired (net, in millions) for fiscal
+    years 2002 ($235), 2001 ($190), 2000 ($26), 1999 ($101), 1998 ($6) and 1997
+    ($61).
+
+
+42 THE HOME DEPOT, INC. 2002 ANNUAL REPORT
+
+
+
+<PAGE>
+
+
+
+<TABLE>
+<CAPTION>
+
+
+                                                    2000       1999       1998     1997     1996(1)     1995      1994       1993
+===================================================================================================================================
+<S>                                                <C>       <C>        <C>      <C>       <C>        <C>       <C>       <C>
+STATEMENT OF EARNINGS DATA
+Net sales                                          $ 45,738  $ 38,434   $ 30,219 $ 24,156  $ 19,535   $ 15,470  $ 12,477  $  9,239
+Net sales increase(%)                                  19.0      27.2       25.1     23.7      26.3       24.0      35.0      29.2
+Earnings before provision for income taxes            4,217     3,804      2,654    1,898     1,535      1,195       980       737
+Net earnings                                          2,581     2,320      1,614    1,160       938        732       605       457
+Net earnings increase(%)                               11.3      43.7       31.9     23.7      28.2       21.0      32.2      26.1
+Diluted earnings per share($)(2)                       1.10      1.00       0.71     0.52      0.43       0.34      0.29      0.22
+Diluted earnings per share increase(%)                 10.0      40.8       29.1     20.9      26.5       17.2      31.8      22.2
+Diluted weighted average number of common shares      2,352     2,342      2,320    2,287     2,195      2,151     2,142     2,132
+Gross margin - % of sales                              29.9      29.7       28.5     28.1      27.8       27.7      27.9      27.7
+Selling and store operating expense - % of sales       18.6      17.8       17.7     17.8      18.0       18.0      17.8      17.6
+Pre-opening expense - % of sales                        0.3       0.3        0.3      0.3       0.3        0.4       0.4       0.4
+General and administrative expense - % of sales         1.8       1.7        1.7      1.7       1.7        1.7       1.8       2.0
+Net interest income (expense) - % of sales               --        --         --       --       0.1        0.1      (0.1)      0.3
+Earnings before provision for income taxes
+- % of sales                                            9.2       9.9        8.8      7.9       7.9        7.7       7.8       8.0
+Net earnings - % of sales                               5.6       6.0        5.3      4.8       4.8        4.7       4.8       5.0
+===================================================================================================================================
+BALANCE SHEET DATA AND FINANCIAL RATIOS
+Total assets                                       $ 21,385  $ 17,081   $ 13,465 $ 11,229  $  9,342   $  7,354  $  5,778  $  4,701
+Working capital                                       3,392     2,734      2,076    2,004     1,867      1,255       919       994
+Merchandise inventories                               6,556     5,489      4,293    3,602     2,708      2,180     1,749     1,293
+Net property and equipment                           13,068    10,227      8,160    6,509     5,437      4,461     3,397     2,371
+Long-term debt                                        1,545       750      1,566    1,303     1,247        720       983       874
+Stockholders' equity                                 15,004    12,341      8,740    7,098     5,955      4,988     3,442     2,814
+Book value per share ($)                               6.46      5.36       3.95     3.23      2.75       2.32      1.69      1.39
+Long-term debt-to-equity (%)                           10.3       6.1       17.9     18.4      20.9       14.4      28.6      31.1
+Current ratio                                        1.77:1    1.75:1     1.73:1   1.82:1    2.01:1     1.89:1    1.76:1    2.02:1
+Inventory turnover                                     5.1x      5.4x       5.4x     5.4x      5.6x       5.5x      5.7x      5.9x
+Return on invested capital (%)                         19.6      22.5       19.3     16.1      16.3       16.3      16.5      13.9
+===================================================================================================================================
+STATEMENT OF CASH FLOWS DATA
+Depreciation and amortization                      $    601  $    463   $    373 $    283  $    232   $    181  $    130  $     90
+Capital expenditures(3)                               3,574     2,618      2,094    1,464     1,248      1,308     1,220       900
+Cash dividends per share ($)                           0.16      0.11       0.08     0.06      0.05       0.04      0.03      0.02
+===================================================================================================================================
+STORE DATA(4)
+Number of stores                                      1,134       930        761      624       512        423       340       264
+Square footage at fiscal year-end                       123       100         81       66        54         44        35        26
+Increase in square footage (%)                         22.6      23.5       22.8     23.1      21.6       26.3      33.2      26.3
+Average square footage per store (in thousands)         108       108        107      106       105        105       103       100
+===================================================================================================================================
+STORE SALES AND OTHER DATA
+Comparable store sales increase (%)(5)                    4        10          7        7         7          3         8         7
+Weighted average weekly sales per operating
+  store (in thousands)(4)                          $    864  $    876   $    844 $    829  $    803   $    787  $    802  $    764
+Weighted average sales per square foot ($)(4,5)         415       423        410      406       398        390       404       398
+Number of customer transactions(4)                      937       797        665      550       464        370       302       236
+Average sale per transaction ($)(4)                   48.65     47.87      45.05    43.63     42.09      41.78     41.29     39.13
+Number of associates at fiscal year-end             227,300   201,400    156,700  124,400    98,100     80,800    67,300    50,600
+-----------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+(4) Includes all retail locations in excess of 50,000 square feet and therefore
+    excludes Apex Supply Company, Georgia Lighting, Maintenance Warehouse, Your
+    "other" Warehouse, Designplace Direct (formerly National Blinds and
+    Wallpaper) and HD Builder Solutions Group locations.
+
+(5) Adjusted to reflect the first 52 weeks of the 53-week fiscal years in 2001
+    and 1996.
+
+
+                                      THE HOME DEPOT, INC. 2002 ANNUAL REPORT 43
+
+<PAGE>
+
+CORPORATE AND STOCKHOLDER INFORMATION
+
+THE HOME DEPOT, INC. AND SUBSIDIARIES
+
+STORE SUPPORT CENTER
+The Home Depot, Inc.
+2455 Paces Ferry Road, NW
+Atlanta, GA 30339-4024
+Telephone: (770) 433-8211
+
+
+THE HOME DEPOT WEB SITE
+www.homedepot.com
+
+TRANSFER AGENT AND REGISTRAR
+EquiServe Trust Company, N.A.
+P.O. Box 43016
+Providence, RI 02940-3010
+Telephone: (800) 577-0177
+Internet address: www.equiserve.com
+
+INDEPENDENT AUDITORS
+KPMG LLP
+Suite 2000
+303 Peachtree Street, NE
+Atlanta, GA 30308
+
+STOCK EXCHANGE LISTING
+New York Stock Exchange
+Trading symbol - HD
+
+ANNUAL MEETING
+The Annual Meeting of Stockholders will be held at 10:00 a.m., Central Time, on
+May 30, 2003, at The Field Museum of Natural History, James Simpson Theatre,
+1400 South Lake Shore Drive, Chicago, IL 60605.
+
+NUMBER OF STOCKHOLDERS
+As of March 24, 2003, there were approximately 207,516 stockholders of record
+and approximately 2,273,112 individual stockholders holding stock under
+nominee security position listings.
+
+DIVIDENDS DECLARED PER COMMON SHARE
+
+
+<TABLE>
+<CAPTION>
+
+
+                  First      Second          Third         Fourth
+                 Quarter     Quarter        Quarter       Quarter
+-------------------------------------------------------------------
+<S>              <C>         <C>            <C>           <C>
+Fiscal 2002       $0.05       $0.05          $0.06         $0.06
+Fiscal 2001       $0.04       $0.04          $0.05         $0.05
+===================================================================
+
+</TABLE>
+
+DIRECT STOCK PURCHASE/DIVIDEND REINVESTMENT PLAN
+New investors may make an initial investment, and stockholders of record may
+acquire additional shares of The Home Depot, Inc.'s common stock through the
+Company's direct stock purchase and dividend reinvestment plan. Subject to
+certain requirements, initial cash investments, cash dividends and/or additional
+optional cash purchases may be invested through this plan.
+
+     To obtain enrollment materials, including the prospectus, access The Home
+Depot web site, or call 1-877-HD-SHARE. For all other communications regarding
+these services, contact the Transfer Agent and Registrar.
+
+FINANCIAL AND OTHER COMPANY INFORMATION
+To request a copy of the Company's Annual Report on Form 10-K for the fiscal
+year ended February 2, 2003 (without exhibits), to be mailed to you at no cost,
+please contact:
+
+The Home Depot, Inc.
+Investor Relations
+2455 Paces Ferry Road, NW
+Atlanta, GA 30339-4024
+Telephone: (770) 384-4388
+
+     In addition, financial reports, recent filings with the Securities and
+Exchange Commission (including Form 10-K), store locations, news releases and
+other Company information are available on The Home Depot web site.
+
+QUARTERLY STOCK PRICE RANGE
+
+<TABLE>
+<CAPTION>
+
+                 First      Second        Third     Fourth
+                Quarter     Quarter      Quarter   Quarter
+----------------------------------------------------------
+<S>              <C>         <C>         <C>        <C>
+Fiscal 2002
+High             $52.28      $49.25      $34.82     $29.18
+Low              $45.17      $27.15      $23.13     $20.10
+
+Fiscal 2001
+High             $49.00      $53.73      $50.90     $52.04
+Low              $38.11      $44.60      $30.30     $37.15
+----------------------------------------------------------
+</TABLE>
+
+ABOUT THIS REPORT:
+
+Consistent with The Home Depot's commitment to the environment, portions of this
+report are printed on paper that is certified in accordance with the Principles
+and Criteria of the Forest Stewardship Council (FSC). This certification ensures
+that the fiber from which the paper is manufactured comes partially from
+certified forests that are managed in a way that is socially beneficial,
+environmentally responsible and economically viable. The paper used in the cover
+consists of at least 24.1% FSC fiber and at least 21.6% post consumer fiber
+while the financial section of this report consists of at least 32% FSC fiber
+and at least 11.7% post consumer fiber.
+
+Design: Corporate Reports Inc./Atlanta, GA
+Principal Photography: Mike Hemberger
+Other Photography: Phillip Vullo
+Printer: Wallace/Hillside Printing
+
+
+44 THE HOME DEPOT, INC. 2002 ANNUAL REPORT
+
+<PAGE>
+                         HOME DEPOT BOARD OF DIRECTORS
+                              AND LEADERSHIP TEAM
+
+                                    [PHOTO]
+
+
+
+<Table>
+<Caption>
+DIRECTORS
+<S>                             <C>                                 <C>                                <C>
+Gregory D. Brenneman 1,2        William S. Davila 1,2               Bonnie G. Hill 1,4*                Board of Directors
+Chairman and                    President Emeritus                  President                          Committee Membership:
+Chief Executive Officer         The Vons Companies, Inc.            B. Hill Enterprises, LLC           1 Audit
+TurnWorks, Inc.                                                                                        2 Compensation
+                                Claudio X. Gonzalez 1,2*            Kenneth G. Langone 3,4,5*          3 Executive
+Richard H. Brown 4,5            Chairman and                        Lead Director; Chairman of the     4 Human Resources
+Former Chairman and             Chief Executive Officer             Board, Chief Executive Officer,    5 Nominating and Corporate
+Chief Executive Officer         Kimberly-Clark de Mexico,           and President                        Governance
+Electronic Data Systems         S.A. de C.V.                        Invemed Associates, Inc.           6 IT Advisory Council
+Corporation                                                                                            * Chair
+                                Richard A. Grasso, 2,5,6            Robert L. Nardelli 3*
+John L. Clendenin 1*,3,5        Chairman and                        Chairman, President, and
+Retired Chairman, President,    Chief Executive Officer             Chief Executive Officer
+and Chief Executive Officer     New York Stock Exchange             The Home Depot, Inc.
+BellSouth Corporation
+                                Milledge A. Hart, III 3,4,5,6*      Roger S. Penske 4,5,6
+Berry R. Cox 2,3,6              Chairman of the Board               Chairman of the Board
+Chairman                        Hart Group, Inc.                    Penske Corporation
+Berry R. Cox, Inc.
+
+LEADERSHIP TEAM
+
+Robert L. Nardelli              Dennis M. Donovan                   Wayne Gibson                       James A. Stoddart
+Chairman, President, and        Executive Vice President,           Senior Vice President,             Division President, HD Supply
+Chief Executive Officer         Human Resources                     Global Logistics
+                                                                                                       Thomas V. Taylor, Jr.
+Francis S. Blake                Jerry W. Edwards                    Bruce A. Merino                    Division President, Eastern
+Executive Vice President,       Executive Vice President,           Division President, Western
+Business Development            Merchandising                                                          Annette M. Verschuren
+and Corporate Operations                                            William E. Patterson               Division President, Canada
+                                Frank L. Fernandez                  Division President, Central
+John H. Costello                Executive Vice President,                                              Robert J. Wittman
+Executive Vice President,       Secretary, and General Counsel      Eric V. Peterson                   Division President,
+Chief Marketing Officer                                             Division President, Northwest      EXPO Design Center
+                                Carol B. Tome
+Robert P. DeRodes               Executive Vice President,           Troy A. Rice
+Executive Vice President,       Chief Financial Officer             Senior Vice President,
+Chief Information Officer                                           Operations
+</Table>
+
+
+
+
+                         The Home Depot, Inc. and Subsidiaries
+                         at March 24, 2003
+
+</TEXT>
+</DOCUMENT>

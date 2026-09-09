@@ -1,0 +1,492 @@
+SOURCE: JNJ_2007_10-K.htm
+
+Found 31 HTML tables.
+
+----- context @ 25576 -----
+">
+ 
+ 
+ 6. 
+ 
+ 
+ 
+&nbsp;
+ 
+ 
+ Selected Financial Data 
+ 
+ 
+&nbsp;
+ 
+ 
+&nbsp;
+ 
+ 
+ 8
+ 
+ 
+&nbsp;
+ 
+ 
+ 
+ 
+ 
+ 7. 
+ 
+ 
+ 
+&nbsp;
+ 
+ 
+ Management&#146;s Discussion and Analysis of
+ Financial Condition and Results of Operation 
+ 
+ 
+&nbsp;
+ 
+ 
+&nbsp;
+ 
+ 
+ 8
+ 
+ 
+&nbsp;
+ 
+ 
+ 
+ 
+ 
+ 7A. 
+ 
+ 
+ 
+&nbsp;
+ 
+ 
+ Quantitative and Qualitative Disclosures About
+ Market Risk 
+ 
+ 
+&nbsp;
+ 
+ 
+&nbsp;
+ 
+ 
+ 8
+ 
+ 
+&nbsp;
+ 
+ 
+ 
+ 
+ 
+ 8. 
+ 
+ 
+ 
+&nbsp;
+ 
+ 
+ Financial Statements and Supplementary Data 
+ 
+ 
+&nbsp;
+ 
+ 
+&nbsp;
+ 
+ 
+ 8
+ 
+ 
+&nbsp;
+ 
+ 
+ 
+ 
+ 
+ 9. 
+ 
+ 
+ 
+&nbsp;
+ 
+ 
+ Changes in and Disagreements With Accountants on
+ Accounting and Financial Disclosure 
+ 
+ 
+&nbsp;
+ 
+ 
+&nbsp;
+ 
+ 
+ 9
+ 
+ 
+&nbsp;
+ 
+ 
+ 
+ 
+ 
+ 9A. 
+ 
+ 
+ 
+&nbsp;
+ 
+ 
+ Controls and Procedures 
+ 
+ 
+&nbsp;
+ 
+ 
+&nbsp;
+ 
+ 
+ 9
+ 
+ 
+&nbsp;
+ 
+ 
+ 
+ 
+ 
+ 9B. 
+ 
+ 
+ 
+&nbsp;
+ 
+ 
+ Other Information 
+ 
+ 
+&nbsp;
+ 
+ 
+&nbsp;
+ 
+ 
+ 9
+ 
+ 
+&nbsp;
+ 
+ 
+ 
+ 
+&nbsp;
+ 
+ 
+ 
+ 
+ 
+ PART&#160;III 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10. 
+ 
+ 
+ 
+&nbsp;
+ 
+ 
+ Directors, Executive Officers and Corporate
+ Governance 
+ 
+ 
+&nbsp;
+ 
+ 
+&nbsp;
+ 
+ 
+ 10
+ 
+ 
+&nbsp;
+ 
+ 
+ 
+ 
+ 
+ 11. 
+ 
+ 
+ 
+&nbsp;
+ 
+ 
+ Executive Compensation 
+ 
+ 
+&nbsp;
+ 
+ 
+&nbsp;
+ 
+ 
+ 10
+ 
+ 
+&nbsp;
+ 
+ 
+ 
+ 
+ 
+ 12. 
+ 
+ 
+ 
+&nbsp;
+ 
+ 
+ Security Ownership of Certain Beneficial Owners
+ and Management and Related Stockholder Matters 
+ 
+ 
+&nbsp;
+ 
+ 
+&nbsp;
+ 
+ 
+ 10
+ 
+ 
+&nbsp;
+ 
+ 
+ 
+ 
+ 
+ 13. 
+ 
+ 
+ 
+&nbsp;
+ 
+ 
+ Certain Relationships and Related Transactions,
+ and Director Independence 
+ 
+ 
+&nbsp;
+ 
+ 
+&nbsp;
+ 
+ 
+ 11
+ 
+ 
+&nbsp;
+ 
+ 
+ 
+ 
+ 
+ 14. 
+ 
+ 
+ 
+&nbsp;
+ 
+ 
+ Principal Accounting Fees and Services 
+ 
+ 
+&nbsp;
+ 
+ 
+&nbsp;
+ 
+ 
+ 11
+ 
+ 
+&nbsp;
+ 
+ 
+ 
+ 
+&nbsp;
+ 
+ 
+ 
+ 
+ 
+ PART&#160;IV 
+ 
+ 
+ 
+ 
+<TD nowrap align="left"
+
+----- context @ 118052 -----
+in-left: 0%; margin-right: 0%; font-size: 10pt; font-family: Arial, Helvetica; color: #000000; background: #FFFFFF">
+
+ Item
+ 6.&#160;&#160;SELECTED FINANCIAL DATA 
+ 
+ 
+ &nbsp; 
+
+ 
+ The information called for by this item is incorporated herein
+ by reference to the material under the caption &#147;Summary of
+ Operations and Statistical Data 1997-2007&#148; on page&#160;76
+ of the Annual Report, filed as Exhibit&#160;13 to this Report on
+ Form&#160;10-K. 
+ 
+
+ &nbsp; 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Item
+ 7.&#160;&#160; 
+ 
+ 
+ MANAGEMENT&#146;S
+ DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+ OPERATION 
+ 
+ 
+
+ 
+
+ &nbsp; 
+
+ 
+ The information called for by this item is incorporated herein
+ by reference to the narrative and tabular (but not the graphic)
+ material under the caption &#147;Management&#146;s Discussion
+ and Analysis of Results of Operations and Financial
+ Condition&#148; on pages&#160;36 through 47 of the Annual
+ Report, filed as Exhibit&#160;13 to this Report on
+ Form&#160;10-K. 
+ 
+ 
+ &nbsp; 
+
+ 
+
+ Item&#160;7A.&#160;&#160;QUANTITATIVE
+ AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 
+ 
+ &nbsp; 
+
+ 
+ The information called for by this item is incorporated herein
+ by reference to the material under the caption
+ &#147;Management&#146;s Discussion and Analysis of Results of
+ Operations and Financial Condition&#160;&#151; Liquidity and
+ Capital Resources&#160;&#151; Financing and Market Risk&#148; on
+ page&#160;43 and Note&#160;1 &#147;Summary of Significant
+ Accounting Policies&#160;&#151; Financial Instruments&#148;
+ under &#147;Notes to Consolidated Financial Statements&#148; on
+ pages&#160;53 and 54 of the Annual Report, filed as
+ Exhibit&#160;13 to this Report on
+ Form&#160;10-K. 
+ 
+ 
+ &nbsp; 
+
+ 
+
+ Item
+ 8.&#160;&#160;FINANCIAL STATEMENTS AND SUPPLEMENTARY
+ DATA 
+ 
+ 
+ &nbsp; 
+
+ 
+ The information called for by this item is incorporated herein
+ by reference to the Audited Consolidated Financial Statements
+ and Notes thereto and the material under the caption
+ &#147;Report of Independent Registered Public Accounting
+ Firm&#148; on pages&#160;48 through 75 of the Annual Report,
+ filed as Exhibit&#160;13 to this Report on
+ Form&#160;10-K. 
+ 
+
+ 
+ 
+ 8
+ 
+ 
+ 
+ Table of Contents 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Item
+ 9.&#160;&#160; 
+ 
+ 
+ CHANGES
+ IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+ FINANCIAL DISCLOSURE 
+ 
+ 
+
+ 
+
+ &nbsp; 
+
+ 
+ Not applicable.
+ 
+
+ &nbsp; 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Item&#160;9A.&#160;&#160; 
+ 
+ 
+ &#160;&#160;CONTROLS
+ AND PROCEDURES 
+ 
+ 
+
+</TAB

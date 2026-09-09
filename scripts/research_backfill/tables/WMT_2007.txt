@@ -1,0 +1,47 @@
+SOURCE: WMT_2007_10-K.htm
+
+Found 74 HTML tables.
+
+----- context @ 211518 -----
+">
+ 
+ ITEM&nbsp;6. 
+ SELECTED FINANCIAL DATA The information
+required by this item is incorporated by reference to all information under the caption &#147;Eleven-Year Financial Summary&#148; included in our Annual Report to Shareholders. Such information is included in an exhibit to this Annual Report on Form
+10-K. &nbsp; 
+ 
+ 
+ ITEM&nbsp;7. 
+ MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS The information required by this item is incorporated by reference to all information under the caption &#147;Management&#146;s Discussion and Analysis of
+Financial Condition and Results of Operations&#148; included in the Annual Report to Shareholders. Such information is included in an exhibit to this Annual Report on Form 10-K. &nbsp; 
+ 
+ 
+ ITEM&nbsp;7A. 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK The information required by this item is incorporated by reference to all information under the sub-caption &#147;Market Risk&#148; of the caption &#147;Management&#146;s Discussion and Analysis of Financial Condition
+and Results of Operations&#148; included in the Annual Report to Shareholders. Such information is included in an exhibit to this Annual Report on Form 10-K. &nbsp; 
+ 
+ 
+ ITEM&nbsp;8. 
+ FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA The information required by this item is incorporated by reference to all information under the captions &#147;Consolidated Statements of Income,&#148; &#147;Consolidated Balance Sheets,&#148; &#147;Consolidated Statements of
+Shareholders&#146; Equity,&#148; &#147;Consolidated Statements of Cash Flows,&#148; &#147;Notes to Consolidated Financial Statements&#148; and &#147;Report of Independent Auditors&#148; included in the Annual Report to Shareholders. Such information
+is included in an exhibit to this Annual Report on Form 10-K. &nbsp; 
+ 
+ 
+ ITEM&nbsp;9. 
+ CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE None. &nbsp; 
+ 20 
+
+
+ 
+ 
+
+
+ 
+ 
+ ITEM&nbsp;9A. 
+ CONTROLS AND PROCEDURES Evaluation of Disclosure
+Controls and Procedures We maintain a system of disclosure controls and procedures that are designed to provide reasonable assurance
+that information, which is required to be timely disclosed, is accumulated and communicated to management in a timely fashion. In designing and evaluating such controls and procedures, we recognize that any controls and procedures, no matter how
+well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. Our management is necessarily required to use judgment in evaluating controls and procedures. Also, we may have investments in certain
+unconsolidated entities. Since we do not control or manage those entities, our controls and procedures with respect to those entities are substantially more limited than those we maintain with respect to our consolidated subsidiaries. In the ordinary course of business, we review our system of internal control over financial reporting and make changes to our systems and processes to
+i

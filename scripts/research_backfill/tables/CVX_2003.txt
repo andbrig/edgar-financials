@@ -1,0 +1,834 @@
+SOURCE: CVX_2003_10-K.htm
+
+Found 196 HTML tables.
+
+----- context @ 26417 -----
+ align="right" valign="top"> &nbsp; 6. 
+ &nbsp; 
+ 
+ &nbsp; Selected Financial Data 
+ 
+ &nbsp; 
+ &nbsp; 
+ 26 
+ &nbsp; 
+ 
+
+ 
+ &nbsp; 7. 
+ &nbsp; 
+ 
+ &nbsp; Management&#146;s Discussion
+ and Analysis of Financial Condition and Results of Operations 
+ 
+ &nbsp; 
+ &nbsp; 
+ 26 
+ &nbsp; 
+ 
+
+ 
+ &nbsp; 7A. 
+ &nbsp; 
+ 
+ &nbsp; Quantitative and Qualitative
+ Disclosures About Market Risk 
+ 
+ &nbsp; 
+ &nbsp; 
+ 27 
+ &nbsp; 
+ 
+
+ 
+ &nbsp; 8. 
+ &nbsp; 
+ 
+ &nbsp; Financial Statements and
+ Supplementary Data 
+ 
+ &nbsp; 
+ &nbsp; 
+ 27 
+ &nbsp; 
+ 
+
+ 
+ &nbsp; 9. 
+ &nbsp; 
+ 
+ &nbsp; Changes in and Disagreements
+ with Auditors on Accounting and Financial Disclosure 
+ 
+ &nbsp; 
+ &nbsp; 
+ 27 
+ &nbsp; 
+ 
+
+ 
+ &nbsp; 9A. 
+ &nbsp; 
+ 
+ &nbsp; Controls and Procedures 
+ 
+ &nbsp; 
+ &nbsp; 
+ 27 
+ &nbsp; 
+ 
+
+ 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ 
+ &nbsp; PART III 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ 
+
+ 
+ &nbsp; 10. 
+ &nbsp; 
+ 
+ &nbsp; Directors and Executive
+ Officers of the Registrant 
+ 
+ &nbsp; 
+ &nbsp; 
+ 28 
+ &nbsp; 
+ 
+
+ 
+ &nbsp; 11. 
+ &nbsp; 
+ 
+ &nbsp; Executive Compensation 
+ 
+ &nbsp; 
+ &nbsp; 
+ 28 
+ &nbsp; 
+ 
+
+ 
+ &nbsp; 12. 
+ &nbsp; 
+ 
+ &nbsp; Security Ownership of
+ Certain Beneficial Owners and Management 
+ 
+ &nbsp; 
+ &nbsp; 
+ 28 
+ &nbsp; 
+ 
+
+ 
+ &nbsp; 13. 
+ &nbsp; 
+ 
+ &nbsp; Certain Relationships and
+ Related Transactions 
+ 
+ &nbsp; 
+ &nbsp; 
+ 28 
+ &nbsp; 
+ 
+
+ 
+ &nbsp; 14. 
+ &nbsp; 
+ 
+ &nbsp; Principal Auditor Fees and
+ Services 
+ 
+ &nbsp; 
+ &nbsp; 
+ 29 
+ &nbsp; 
+</TR
+
+----- context @ 388641 -----
+contained in the Quarterly Results and Stock Market Data
+tabulations, on page FS-51 of this Annual Report on
+Form&nbsp;10-K.
+ 
+
+ 
+ 
+ 
+
+ 
+
+ &nbsp; 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ Item&nbsp;6. 
+ 
+ Selected Financial Data 
+ 
+
+ 
+
+ 
+ The selected financial data for years 1999
+through 2003 are presented on page FS-52 of this Annual Report
+on Form&nbsp;10-K.
+ 
+
+ 
+ 
+ 
+
+ 
+
+ &nbsp; 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ Item&nbsp;7. 
+ 
+ Management&#146;s Discussion and Analysis of
+ Financial Condition and Results of Operations 
+ 
+
+ 
+
+ 
+ The index to Management&#146;s Discussion and
+Analysis, Consolidated Financial Statements and Supplementary
+Data is presented on page FS-1 of this Annual Report on
+Form&nbsp;10-K.
+ 
+
+ 26
+ 
+ 
+ 
+ Table of Contents 
+
+ 
+ 
+ 
+
+ 
+
+ &nbsp; 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ Item&nbsp;7A. 
+ 
+ Quantitative and Qualitative Disclosures About
+ Market Risk 
+ 
+
+ 
+
+ 
+ The company&#146;s discussion of interest rate,
+foreign currency and commodity price market risk is contained in
+Management&#146;s Discussion and Analysis of Financial Condition
+and Results of Operations&nbsp;&#151; &#147;Financial and
+Derivative Instruments,&#148; beginning on page FS-15 and
+Note&nbsp;8 to the Consolidated Financial Statements,
+&#147;Financial and Derivative Instruments,&#148; beginning on
+page FS-33.
+ 
+
+ 
+ 
+ 
+
+ 
+
+ &nbsp; 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ Item&nbsp;8. 
+ 
+ Financial Statements and Supplementary
+ Data 
+ 
+
+ 
+
+ 
+ The index to Management&#146;s Discussion and
+Analysis, Consolidated Financial Statements and Supplementary
+Data is presented on page FS-1 of this Annual Report on
+Form&nbsp;10-K.
+ 
+
+ 
+ 
+ 
+
+ 
+
+ &nbsp; 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ Item&nbsp;9. 
+ 
+ Changes in and Disagreements with Auditors on
+ Accounting and Financial Disclosure 
+ 
+
+ 
+
+ 
+ None.
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ Item&nbsp;9A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Controls
+and Procedures 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ (a)&nbsp; Evaluation of Disclosure Controls and
+Procedures 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ &nbsp; 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ The company maintains &#147;disclosure controls
+ and procedures,&#148; as such term is defined in
+ Rule&nbsp;13a-15(e) and Rule&nbsp;15d-15(e) under the Securities
+ Exchange Act of 1934 (the &#147;Exchange Act&#148;), that are
+ designed to ensure that information required to be disclosed in
+ reports the company files or submits under the Exchange Act is
+ recorded, processed, summarized and reported within the time
+ periods specified in Securities and Exchange Commission rules
+ and forms, and that such information is accumulated and
+ communicated to management, including the company&#146;s Chief
+ Executive Officer and Chief Financial Officer, as appropriate,
+ to allow timely decisions regarding required disclosure. In
+ designing and evaluating its disclosure controls and procedures,
+ management recognized that no matter how well conceived and
+ operated, disclosure controls and procedures can provide only
+ reasonable, not absolute, assurance that the objectives of the
+ disclosure controls and procedures are met. The company&#146;s
+ disclosure controls and procedures have been designed to meet,
+ and management believes that they meet, reasonable assurance
+ standards. Based on their evaluation as of the end of the period
+ covered by this Annual Report on Form&nbsp;10-K, the Chief
+ Executive Officer and Chief Financial Officer have concluded
+ that, subject to the limitations noted above, the company&#146;s
+ disclosure controls and procedures were effective to ensure that
+ material information relating to the company, including its
+ consolidated subsidiaries, is made known to them by others
+ within those entities.
+ 
+ 
+
+ 
+
+ &nbsp;&nbsp;&nb
+
+----- context @ 388922 -----
+ellpadding="0" cellspacing="0">
+
+ 
+ 
+ 
+ 
+
+ 
+ Item&nbsp;6. 
+ 
+ Selected Financial Data 
+ 
+
+ 
+
+ 
+ The selected financial data for years 1999
+through 2003 are presented on page FS-52 of this Annual Report
+on Form&nbsp;10-K.
+ 
+
+ 
+ 
+ 
+
+ 
+
+ &nbsp; 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ Item&nbsp;7. 
+ 
+ Management&#146;s Discussion and Analysis of
+ Financial Condition and Results of Operations 
+ 
+
+ 
+
+ 
+ The index to Management&#146;s Discussion and
+Analysis, Consolidated Financial Statements and Supplementary
+Data is presented on page FS-1 of this Annual Report on
+Form&nbsp;10-K.
+ 
+
+ 26
+ 
+ 
+ 
+ Table of Contents 
+
+ 
+ 
+ 
+
+ 
+
+ &nbsp; 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ Item&nbsp;7A. 
+ 
+ Quantitative and Qualitative Disclosures About
+ Market Risk 
+ 
+
+ 
+
+ 
+ The company&#146;s discussion of interest rate,
+foreign currency and commodity price market risk is contained in
+Management&#146;s Discussion and Analysis of Financial Condition
+and Results of Operations&nbsp;&#151; &#147;Financial and
+Derivative Instruments,&#148; beginning on page FS-15 and
+Note&nbsp;8 to the Consolidated Financial Statements,
+&#147;Financial and Derivative Instruments,&#148; beginning on
+page FS-33.
+ 
+
+ 
+ 
+ 
+
+ 
+
+ &nbsp; 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ Item&nbsp;8. 
+ 
+ Financial Statements and Supplementary
+ Data 
+ 
+
+ 
+
+ 
+ The index to Management&#146;s Discussion and
+Analysis, Consolidated Financial Statements and Supplementary
+Data is presented on page FS-1 of this Annual Report on
+Form&nbsp;10-K.
+ 
+
+ 
+ 
+ 
+
+ 
+
+ &nbsp; 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ Item&nbsp;9. 
+ 
+ Changes in and Disagreements with Auditors on
+ Accounting and Financial Disclosure 
+ 
+
+ 
+
+ 
+ None.
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ Item&nbsp;9A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Controls
+and Procedures 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ (a)&nbsp; Evaluation of Disclosure Controls and
+Procedures 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ &nbsp; 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ The company maintains &#147;disclosure controls
+ and procedures,&#148; as such term is defined in
+ Rule&nbsp;13a-15(e) and Rule&nbsp;15d-15(e) under the Securities
+ Exchange Act of 1934 (the &#147;Exchange Act&#148;), that are
+ designed to ensure that information required to be disclosed in
+ reports the company files or submits under the Exchange Act is
+ recorded, processed, summarized and reported within the time
+ periods specified in Securities and Exchange Commission rules
+ and forms, and that such information is accumulated and
+ communicated to management, including the company&#146;s Chief
+ Executive Officer and Chief Financial Officer, as appropriate,
+ to allow timely decisions regarding required disclosure. In
+ designing and evaluating its disclosure controls and procedures,
+ management recognized that no matter how well conceived and
+ operated, disclosure controls and procedures can provide only
+ reasonable, not absolute, assurance that the objectives of the
+ disclosure controls and procedures are met. The company&#146;s
+ disclosure controls and procedures have been designed to meet,
+ and management believes that they meet, reasonable assurance
+ standards. Based on their evaluation as of the end of the period
+ covered by this Annual Report on Form&nbsp;10-K, the Chief
+ Executive Officer and Chief Financial Officer have concluded
+ that, subject to the limitations noted above, the company&#146;s
+ disclosure controls and procedures were effective to ensure that
+ material information relating to the company, including its
+ consolidated subsidiaries, is made known to them by others
+ within those entities.
+ 
+ 
+
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ (b)&nbsp; Changes in Internal Control Over
+Financial Reporting 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ &nbsp; 
+ 
+
+----- context @ 389015 -----
+>
+
+ 
+ Item&nbsp;6. 
+ 
+ Selected Financial Data 
+ 
+
+ 
+
+ 
+ The selected financial data for years 1999
+through 2003 are presented on page FS-52 of this Annual Report
+on Form&nbsp;10-K.
+ 
+
+ 
+ 
+ 
+
+ 
+
+ &nbsp; 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ Item&nbsp;7. 
+ 
+ Management&#146;s Discussion and Analysis of
+ Financial Condition and Results of Operations 
+ 
+
+ 
+
+ 
+ The index to Management&#146;s Discussion and
+Analysis, Consolidated Financial Statements and Supplementary
+Data is presented on page FS-1 of this Annual Report on
+Form&nbsp;10-K.
+ 
+
+ 26
+ 
+ 
+ 
+ Table of Contents 
+
+ 
+ 
+ 
+
+ 
+
+ &nbsp; 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ Item&nbsp;7A. 
+ 
+ Quantitative and Qualitative Disclosures About
+ Market Risk 
+ 
+
+ 
+
+ 
+ The company&#146;s discussion of interest rate,
+foreign currency and commodity price market risk is contained in
+Management&#146;s Discussion and Analysis of Financial Condition
+and Results of Operations&nbsp;&#151; &#147;Financial and
+Derivative Instruments,&#148; beginning on page FS-15 and
+Note&nbsp;8 to the Consolidated Financial Statements,
+&#147;Financial and Derivative Instruments,&#148; beginning on
+page FS-33.
+ 
+
+ 
+ 
+ 
+
+ 
+
+ &nbsp; 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ Item&nbsp;8. 
+ 
+ Financial Statements and Supplementary
+ Data 
+ 
+
+ 
+
+ 
+ The index to Management&#146;s Discussion and
+Analysis, Consolidated Financial Statements and Supplementary
+Data is presented on page FS-1 of this Annual Report on
+Form&nbsp;10-K.
+ 
+
+ 
+ 
+ 
+
+ 
+
+ &nbsp; 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ Item&nbsp;9. 
+ 
+ Changes in and Disagreements with Auditors on
+ Accounting and Financial Disclosure 
+ 
+
+ 
+
+ 
+ None.
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ Item&nbsp;9A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Controls
+and Procedures 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ (a)&nbsp; Evaluation of Disclosure Controls and
+Procedures 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ &nbsp; 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ The company maintains &#147;disclosure controls
+ and procedures,&#148; as such term is defined in
+ Rule&nbsp;13a-15(e) and Rule&nbsp;15d-15(e) under the Securities
+ Exchange Act of 1934 (the &#147;Exchange Act&#148;), that are
+ designed to ensure that information required to be disclosed in
+ reports the company files or submits under the Exchange Act is
+ recorded, processed, summarized and reported within the time
+ periods specified in Securities and Exchange Commission rules
+ and forms, and that such information is accumulated and
+ communicated to management, including the company&#146;s Chief
+ Executive Officer and Chief Financial Officer, as appropriate,
+ to allow timely decisions regarding required disclosure. In
+ designing and evaluating its disclosure controls and procedures,
+ management recognized that no matter how well conceived and
+ operated, disclosure controls and procedures can provide only
+ reasonable, not absolute, assurance that the objectives of the
+ disclosure controls and procedures are met. The company&#146;s
+ disclosure controls and procedures have been designed to meet,
+ and management believes that they meet, reasonable assurance
+ standards. Based on their evaluation as of the end of the period
+ covered by this Annual Report on Form&nbsp;10-K, the Chief
+ Executive Officer and Chief Financial Officer have concluded
+ that, subject to the limitations noted above, the company&#146;s
+ disclosure controls and procedures were effective to ensure that
+ material information relating to the company, including its
+ consolidated subsidiaries, is made known to them by others
+ within those entities.
+ 
+ 
+
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ (b)&nbsp; Changes in Internal Control Over
+Financial Reporting 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ &nbsp; 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ As of the last quarter, 

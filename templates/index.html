@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block body %}
+<div class="card">
+  <h2>Search companies</h2>
+  <form class="search" method="get" action="/">
+    <input name="q" value="{{ q }}" placeholder="Ticker, name, or CIK — e.g. AAPL" autofocus>
+    <button type="submit">Search</button>
+  </form>
+  {% if q %}
+    <p class="mut">{{ results|length }} result{{ 's' if results|length != 1 }}</p>
+    <table>
+      <thead><tr><th>Ticker</th><th>Company</th><th>CIK</th></tr></thead>
+      <tbody>
+      {% for r in results %}
+        <tr><td><a href="/c/{{ r.cik }}">{{ r.ticker }}</a></td><td>{{ r.name }}</td><td>{{ r.cik }}</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  {% endif %}
+</div>
+
+<div class="card">
+  <h2>Coverage</h2>
+  <div class="stat-grid">
+    <div class="stat"><div class="v">{{ gap.total_companies }}</div><div class="l">companies tracked</div></div>
+    <div class="stat"><div class="v">{{ gap.with_xbrl }}</div><div class="l">with XBRL financials</div></div>
+    <div class="stat"><div class="v">{{ gap.without_xbrl }}</div><div class="l">filers, no XBRL data</div></div>
+  </div>
+  <p class="mut" style="margin-top:12px">XBRL financials generally begin around 2009 (SEC phase-in).
+     Earlier periods are flagged as gaps and backfilled by research where available.</p>
+  <div class="scrollx"><table>
+    <thead><tr><th>Metric</th><th>Companies</th><th>First year</th><th>Last year</th></tr></thead>
+    <tbody>
+    {% for c in coverage %}
+      <tr><td>{{ c.metric }}</td><td>{{ c.companies }}</td><td>{{ c.first_year }}</td><td>{{ c.last_year }}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table></div>
+</div>
+{% endblock %}

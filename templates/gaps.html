@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block body %}
+<div class="card">
+  <h2>Data gaps</h2>
+  <div class="stat-grid">
+    <div class="stat"><div class="v">{{ summary.total_companies }}</div><div class="l">companies tracked</div></div>
+    <div class="stat"><div class="v">{{ summary.with_xbrl }}</div><div class="l">with XBRL financials</div></div>
+    <div class="stat"><div class="v">{{ summary.without_xbrl }}</div><div class="l">filers without XBRL data</div></div>
+  </div>
+  <h3 style="margin-top:20px">Earliest XBRL year by metric</h3>
+  <table>
+    <thead><tr><th>Metric</th><th>Earliest year</th></tr></thead>
+    <tbody>
+    {% for e in summary.earliest_xbrl_years %}
+      <tr><td>{{ e.metric }}</td><td>{{ e.y }}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  <p class="mut">The SEC's XBRL mandate phased in from 2009, so machine-readable
+  financials before ~2009 are the systematic gap. Verified figures for earlier
+  periods are added as research overrides and marked as such.</p>
+  {% if summary.sample_without_xbrl %}
+  <h3>Sample filers with no XBRL facts</h3>
+  <ul class="mut">
+    {% for c in summary.sample_without_xbrl %}
+    <li>{{ c.ticker }} — {{ c.name }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div>
+{% endblock %}

@@ -1,0 +1,188 @@
+SOURCE: MSFT_2003_10-K.htm
+
+Found 117 HTML tables.
+
+----- context @ 13406 -----
+%"> Item 6. 
+ &nbsp; 
+ 
+ Selected Financial Data 
+ &nbsp;&nbsp; 
+ 9 
+ 
+ Item 7. 
+ &nbsp; 
+ 
+ Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations 
+ &nbsp;&nbsp; 
+ 9 
+ 
+ Item&nbsp;7A. 
+ &nbsp; 
+ 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ &nbsp;&nbsp; 
+ 18 
+ 
+ Item 8. 
+ &nbsp; 
+ 
+ Financial Statements and Supplementary Data 
+ &nbsp;&nbsp; 
+ 19 
+ 
+ Item 9. 
+ &nbsp; 
+ 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosures 
+ &nbsp;&nbsp; 
+ 41 
+ 
+ Item&nbsp;9A. 
+ &nbsp; 
+ 
+ Control and Procedures 
+ &nbsp;&nbsp; 
+ 41 
+ 
+ 
+ 
+ 
+ 
+ PART III 
+ &nbsp; 
+ &nbsp; 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ 
+ Item 10. 
+ &nbsp; 
+ 
+ Directors and Executive Officers of the Registrant 
+ &nbsp;&nbsp; 
+ 41 
+ 
+ Item 11. 
+ &nbsp; 
+ 
+ Executive Compensation 
+ &nbsp;&nbsp; 
+ 41 
+ 
+ Item 12. 
+ &nbsp; 
+ 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ &nbsp;&nbsp; 
+ 41 
+ 
+ Item 13. 
+ &nbsp; 
+ 
+ Certain Relationships and Related Transactions 
+ &nbsp;&nbsp; 
+ 41 
+ 
+ Item 14. 
+ &nbsp; 
+ 
+ Principal Accounting Fees and Services 
+ &nbsp;&nbsp; 
+ 41 
+ 
+ 
+ 
+ 
+ 
+ PART&nbsp;IV 
+ &nbsp; 
+ &nbsp; 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ 
+ Item 15. 
+ &nbsp; 
+ <FONT FACE="ARIAL" SIZE="1"
+
+----- context @ 117969 -----
+LE="margin-top:0px;margin-bottom:0px"> &nbsp; ITEM 6.&nbsp;&nbsp;&nbsp;&nbsp;
+ Selected Financial Data &nbsp; Financial Highlights &nbsp; 
+ 
+
+ 
+ (In millions, except earnings per share) 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ 
+ 
+ 
+ Year Ended June 30 
+ &nbsp;&nbsp; 
+ 1999 
+ &nbsp;&nbsp; 
+ 2000 
+ &nbsp;&nbsp; 
+ 2001 (2) 
+ &nbsp;&nbsp; 
+ 2002 (3) 
+ &nbsp;&nbsp; 
+ 2003 (4) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenue 
+ &nbsp;&nbsp; 
+ $ 
+ 19,747 
+ &nbsp;&nbsp; 
+ $ 
+ 22,956 
+ &nbsp;&nbsp; 
+ $ 
+ 25,296 
+ &nbsp;&nbsp; 
+ $ 
+ 28,365 
+ &nbsp;&nbsp; 
+ $ 
+ 32,187 
+ 
+ Operating income 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ 10,010 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ 11,006 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ 11,720 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ 11,910 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ 13,217 
+ 
+ Income before accounting change 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ 7,785 
+ &nbsp;&nbsp; 
+ &nbsp; 
+ 9,421 
+ &nbsp;&nbsp; 
+<TD VALIGN="bottom

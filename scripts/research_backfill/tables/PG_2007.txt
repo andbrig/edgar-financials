@@ -1,0 +1,328 @@
+SOURCE: PG_2007_10-K.htm
+
+Found 29 HTML tables.
+
+===== TABLE 5 (year-hits=9) =====
+                   0   1       2       3     4   5       6       7     8   9       10      11    12
+0                 NaN NaN     NaN     NaN   NaN NaN     NaN     NaN   NaN NaN     NaN     NaN   NaN
+1                 NaN NaN  2007.0  2007.0  2007 NaN  2006.0  2006.0  2006 NaN  2005.0  2005.0  2005
+2       North America NaN     NaN    46.0     % NaN     NaN    47.0     % NaN     NaN    48.0     %
+3      Western Europe NaN     NaN    23.0     % NaN     NaN    23.0     % NaN     NaN    24.0     %
+4      Northeast Asia NaN     NaN     4.0     % NaN     NaN     4.0     % NaN     NaN     5.0     %
+5  Developing Markets NaN     NaN    27.0     % NaN     NaN    26.0     % NaN     NaN    23.0     %
+
+----- context @ 10671 -----
+">Item&nbsp;5. Market for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ Item&nbsp;6. Selected Financial Data 
+ Item&nbsp;7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations 
+ Item&nbsp;7A. Quantitative and Qualitative Disclosures About Market Risk 
+ Item&nbsp;8. Financial Statements and Supplementary Data 
+ Item&nbsp;9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ Item&nbsp;9A. Controls and Procedures 
+ Item&nbsp;9B. Other Information 
+ PART III 
+ Item&nbsp;10. Directors and Executive Officers of the Registrant 
+ Item&nbsp;11. Executive Compensation 
+ Item&nbsp;12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ Item&nbsp;13. Certain Relationships and Related Transactions 
+ Item&nbsp;14. Principal Accounting Fees and Services 
+ PART IV 
+ Item&nbsp;15. Exhibits and Financial Statement Schedules 
+ SIGNATURES 
+ EXHIBIT INDEX 
+ EX-10.1 
+ EX-10.10 
+ EX-10.13 
+ EX-10.29 
+ EX-11 
+ EX-12 
+ EX-13 
+ EX-21 
+ EX-23 
+ EX-31 
+ EX-32 
+ EX-99.1 
+ 
+ 
+ 
+ 
+ Table of Contents 
+
+
+
+
+
+
+
+
+ 
+ 
+
+ PART I 
+ 
+
+ 
+ 
+
+ Item&nbsp;1. Business .
+ 
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additional information required by this item is incorporated herein by reference to
+Management&#146;s Discussion and Analysis, which appears on pages 31-48; Note 1, Summary of Significant
+Accounting Policies, which appears on pages 54-56; Note 2, Acquisitions, which appears on pages
+56-57; and Note 12, Segment Information, which appears on pages 67-68 of the Annual Report to
+Shareholders for the fiscal year ended June&nbsp;30, 2007. Unless the context indicates otherwise, the
+terms the &#147;Company,&#148; &#147;P&#038;G,&#148; &#147;we,&#148; &#147;our&#148; or &#147;us&#148; as used herein refers to The Procter &#038; Gamble
+Company (the registrant) and its subsidiaries.
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Procter &#038; Gamble Company is focused on providing branded consumer goods products of
+superior quality and value to improve the lives of the world&#146;s consumers. The Company was
+incorporated in Ohio in 1905, having been built from a business founded in 1837 by William Procter
+and James Gamble. Today, we market our products in more than 180 countries.
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Throughout this Form 10-K, we incorporate by reference information from other documents filed
+with the Securities and Exchange Commission (SEC).
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#146;s annual report on Form 10-K, quarterly reports on Form 10-Q and current reports
+on Form 8-K are filed electronically with the SEC. The SEC maintains an internet site that
+contains these reports at: http://www.sec.gov. You can also access these reports through links
+from our website at: www.pg.com/investors/sectionmain.jhtml.
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copies of these reports are also available, without charge, by contacting The Procter &#038; Gamble
+Company, Shareholder Services Department, P.O. Box 5572, Cincinnati, Ohio 45201-5572.
+ 
+
+ Financial Information About Segments 
+ 
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In fiscal year 2007, the Company was organized into three Global Business Units: Beauty and
+Health; Household Care; and Gillette GBU. We had seven reportable segments under U.S. GAAP:
+Beauty; Health Care; Fabric Care and Home Care; Snacks, Coffee and Pet Care; Baby Care and Family
+Care; Blades and Razors; and Duracell and Braun. Many of the factors necessary for an
+understanding of these businesses are similar. Operating margins of the individual businesses vary
+slightly due to the nature of materi
+
+----- context @ 85848 -----
+rmation, which appears on page 72 of the Annual Report to Shareholders for the fiscal year
+ended June&nbsp;30, 2007, and Part&nbsp;III, Item&nbsp;12 of this Form 10-K.
+ 
+ 
+ 
+
+ Item&nbsp;6. Selected Financial Data. 
+ 
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this item is incorporated by reference to Note 1, Summary of
+Significant Accounting Policies, which appears on pages 54-56; Note 12, Segment Information, which
+appears on pages 67-68; and Financial Summary, which appears on page 73 of the Annual Report to
+Shareholders for the fiscal year ended June&nbsp;30, 2007.
+ 
+ 
+ 
+
+ Item&nbsp;7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this item is incorporated by reference to Management&#146;s Discussion
+and Analysis, which appears on pages 31-48; Note 1, Summary of Significant Accounting Policies,
+which appears on pages 54-56; Note 2, Acquisitions, which appears on pages 56-57; Note 11,
+Commitments and Contingencies, which appears on pages 66-67; and Note
+12, Segment Information, which appears on pages 67-68
+ 
+
+ 11 
+ 
+
+ 
+ 
+ Table of Contents 
+
+ 
+
+
+
+ of the Annual Report to Shareholders for
+the fiscal year ended June&nbsp;30, 2007.
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company has made certain forward-looking statements in the Annual Report to Shareholders
+for the fiscal year ended June&nbsp;30, 2007 and in other contexts relating to volume and net sales
+growth, increases in market shares, financial goals and cost reduction, among others.
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These forward-looking statements are based on assumptions and estimates regarding competitive
+activity, pricing, product introductions, economic conditions, customer and consumer trends,
+technological innovation, currency movements, governmental action and the development of certain
+markets available at the time the statements are made. There are a number of key factors that
+could cause our actual results to materially differ from the forward-looking statements made herein
+and in other contexts. Please see Item&nbsp;1A &#147;Risk Factors&#148; of this Form 10-K for a discussion of
+these important factors.
+ 
+ 
+ 
+
+ Item&nbsp;7A. Quantitative and Qualitative Disclosures About Market Risk. 
+ 
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this item is incorporated by reference to the section entitled
+Other Information, which appears on pages 47-48, and Note 6, Risk Management Activities, which
+appears on pages 59-60 of the Annual Report to Shareholders for the fiscal year ended June&nbsp;30,
+2007.
+ 
+ 
+ 
+
+ Item&nbsp;8. Financial Statements and Supplementary Data. 
+ 
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The financial statements and supplementary data are incorporated by reference to pages 49-69 and 72-73
+of the Annual Report to Shareholders for the fiscal year ended June&nbsp;30, 2007, but excluding the section entitled Shareholder Return Performance Graphs on page 73.
+ 
+ 
+ 
+
+ Item&nbsp;9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+ 
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not applicable.
+ 
+ 
+ 
+
+ Item&nbsp;9A. Controls and Procedures. 
+ 
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evaluation of Disclosure Controls and Procedures. 
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#146;s Chairman of the Board and Chief Executive Officer, A. G. Lafley, and the
+Company&#146;s Chief Financial Officer, Clayton C. Daley, Jr., performed an evaluation of the Company&#146;s
+disclosure controls and procedures (as defined in Rules&nbsp;13a-15(e) and 15d-15(e) of the Securities
+Exchange Act of 1934 (&#147;Exchange Act&#148;)) as of the end of the period covered by this Annual Report on
+Form 10-K.
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Messrs.&nbsp;Lafley and Daley have concluded that the Company&#146;s disclosure controls and procedures
+were effective to ensure that information required to be disclosed in reports we file or 
+
+----- context @ 85997 -----
+of this Form 10-K.
+ 
+ 
+ 
+
+ Item&nbsp;6. Selected Financial Data. 
+ 
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this item is incorporated by reference to Note 1, Summary of
+Significant Accounting Policies, which appears on pages 54-56; Note 12, Segment Information, which
+appears on pages 67-68; and Financial Summary, which appears on page 73 of the Annual Report to
+Shareholders for the fiscal year ended June&nbsp;30, 2007.
+ 
+ 
+ 
+
+ Item&nbsp;7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this item is incorporated by reference to Management&#146;s Discussion
+and Analysis, which appears on pages 31-48; Note 1, Summary of Significant Accounting Policies,
+which appears on pages 54-56; Note 2, Acquisitions, which appears on pages 56-57; Note 11,
+Commitments and Contingencies, which appears on pages 66-67; and Note
+12, Segment Information, which appears on pages 67-68
+ 
+
+ 11 
+ 
+
+ 
+ 
+ Table of Contents 
+
+ 
+
+
+
+ of the Annual Report to Shareholders for
+the fiscal year ended June&nbsp;30, 2007.
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company has made certain forward-looking statements in the Annual Report to Shareholders
+for the fiscal year ended June&nbsp;30, 2007 and in other contexts relating to volume and net sales
+growth, increases in market shares, financial goals and cost reduction, among others.
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These forward-looking statements are based on assumptions and estimates regarding competitive
+activity, pricing, product introductions, economic conditions, customer and consumer trends,
+technological innovation, currency movements, governmental action and the development of certain
+markets available at the time the statements are made. There are a number of key factors that
+could cause our actual results to materially differ from the forward-looking statements made herein
+and in other contexts. Please see Item&nbsp;1A &#147;Risk Factors&#148; of this Form 10-K for a discussion of
+these important factors.
+ 
+ 
+ 
+
+ Item&nbsp;7A. Quantitative and Qualitative Disclosures About Market Risk. 
+ 
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this item is incorporated by reference to the section entitled
+Other Information, which appears on pages 47-48, and Note 6, Risk Management Activities, which
+appears on pages 59-60 of the Annual Report to Shareholders for the fiscal year ended June&nbsp;30,
+2007.
+ 
+ 
+ 
+
+ Item&nbsp;8. Financial Statements and Supplementary Data. 
+ 
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The financial statements and supplementary data are incorporated by reference to pages 49-69 and 72-73
+of the Annual Report to Shareholders for the fiscal year ended June&nbsp;30, 2007, but excluding the section entitled Shareholder Return Performance Graphs on page 73.
+ 
+ 
+ 
+
+ Item&nbsp;9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+ 
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not applicable.
+ 
+ 
+ 
+
+ Item&nbsp;9A. Controls and Procedures. 
+ 
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evaluation of Disclosure Controls and Procedures. 
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#146;s Chairman of the Board and Chief Executive Officer, A. G. Lafley, and the
+Company&#146;s Chief Financial Officer, Clayton C. Daley, Jr., performed an evaluation of the Company&#146;s
+disclosure controls and procedures (as defined in Rules&nbsp;13a-15(e) and 15d-15(e) of the Securities
+Exchange Act of 1934 (&#147;Exchange Act&#148;)) as of the end of the period covered by this Annual Report on
+Form 10-K.
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Messrs.&nbsp;Lafley and Daley have concluded that the Company&#146;s disclosure controls and procedures
+were effective to ensure that information required to be disclosed in reports we file or submit
+under the Exchange Act is (1)&nbsp;recorded, processed, summarized and reported within the time periods
+specified in Securities and Exchange C

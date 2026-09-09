@@ -1,0 +1,158 @@
+SOURCE: WMT_2003_10-K.htm
+
+Found 28 HTML tables.
+
+===== TABLE 18 (year-hits=40) =====
+                          0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    1                            2    3
+0                      Name                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Business Experience  Current Position Held Since  Age
+1          S. Robson Walton                                                                                                                                                                                                                                                                                                                                                                                                                                                               Chairman of the Board.                         1992   58
+2            David D. Glass                                                                                                                                                                                                                                                                                                                                              Chairman, Executive  Committee of the Board. Prior to January 2000, he served as President and Chief Executive  Officer of the Company.                         2000   67
+3        H. Lee Scott,  Jr.                                                                                                             President and  Chief Executive Officer. From January 1999 to January 2000, he served as Vice Chairman and  Chief Operating Officer of the Company. From January 1998 to January 1999, he served as  President and Chief Executive Officer of our Wal-Mart Stores Division. Prior to January  1998, he served as Executive Vice President - Merchandising of the Company.                         2000   54
+4       Thomas M.  Coughlin  Executive Vice  President and Chief Executive Officer Wal-Mart Stores and SAM’s CLUB USA. From  January 1999 to August 2002, he served as Executive Vice President and President and Chief  Executive Officer of Wal-Mart Stores Division. From January 1998 to January 1999, he  served as Executive Vice President and Chief Operating Officer of our Wal-Mart Stores  Division. Prior to January 1998, he served as Executive Vice President - Store Operations  of the Company.                         1999   53
+5           Michael T. Duke                                                                                                                                                                                              Executive Vice  President, Administration. From March 2000 to July 2000, he served as Executive Vice  President of Logistics. From March 1996 to March 2000, he served as Senior Vice President  of Logistics. Prior to March 1996, he served as Senior Vice President of Distribution.                         2000   53
+6           B. Kevin Turner                                                                                                       Executive Vice  President and President and Chief Executive Officer of SAM’s CLUB. From September  2001 to August 2002, he served as Executive Vice President and Chief Information Officer  of the Information Systems Division. From February 2000 to September 2001, he served as  Senior Vice President and Chief Information Officer of the Information Systems Division.                         2002   37
+7            Thomas D. Hyde                                                                                                                                                                                                                                                                                                                  Executive Vice  President, Legal and Corporate Affairs. Prior to July 2001, he served as Senior Vice  President and General Counsel of Raytheon Company since 1992.                         2001   54
+8            John B. Menzer                                                                                                                                                                                                                                                                  Executive Vice  President and President and Chief Executive Officer of our Wal-Mart International  Division. Prior to June 1999, he served as Executive Vice President and Chief Financial  Officer of the Company.                         1999   52
+9        Thomas M.  Schoewe                                                                                                                                                            Executive Vice  President and Chief Financial Officer of the Company. From February 1997 to January 2000,  he served as Senior Vice President and Chief Financial Officer of Black & Decker  Corporation. Prior to February 1997, he served as Vice President and Chief Financial  Officer of Black & Decker Corporation.                         2000   50
+10  Charles M.  Holley, Jr.                                                                                                                                    
+
+===== TABLE 20 (year-hits=37) =====
+                                                             0                                                           1                                                                  2                                                                  3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           4
+0                                                           3.                                                          3.                                                           Exhibits                                                           Exhibits                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Exhibits
+1                                                          NaN                                                         NaN                                                                NaN                                                                NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NaN
+2                                                          NaN                                                         NaN  The following  documents are filed as exhibits to this Form 10-K:  The following  documents are filed as exhibits to this Form 10-K:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           The following  documents are filed as exhibits to this Form 10-K:
+3                                                          NaN                                                         NaN                                                                NaN                                                                NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NaN
+4                                                          NaN                                                         NaN                                                               3(a)                                                               3(a)  Restated Certificate of  Incorporation of the Company is incorporated herein by reference to Exhibit 3(a) from the  Annual Report on Form 10-K of the Company for the year ended January 31, 1989, the  Certificate of Amendment to the Restated Certificate of Incorporation is incorporated  herein by reference to Registration Statement on Form S-8 (File Number 33-43315) and the  Certificate of Amendment to the Restated Certificate of Incorporation is incorporated  hereby by reference to the Current Report on Form 8-K dated June 27, 1999.
+5                                                          NaN                                                         NaN                                                                NaN                                                                NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NaN
+6                                                          NaN                                                         NaN                                                                NaN                                                                NaN                                                                                                                                                                     
+
+===== TABLE 21 (year-hits=10) =====
+                                                 0                                                                                                                  1                                                                                                                  2                                               3
+0                                              NaN                                                                                                                NaN                                                                                                                NaN            Annual Report to Shareholders (page)
+1       Covered by Report of Independent Auditors:                                                                         Covered by Report of Independent Auditors:                                                                         Covered by Report of Independent Auditors:      Covered by Report of Independent Auditors:
+2                                              NaN                Consolidated Statements of Income  for each of the three years in the period ended January 31, 2003                Consolidated Statements of Income  for each of the three years in the period ended January 31, 2003                                              30
+3                                              NaN                                                                                                                NaN                                                                                                                NaN                                             NaN
+4                                              NaN                                                          Consolidated Balance Sheets at  January 31, 2003 and 2002                                                          Consolidated Balance Sheets at  January 31, 2003 and 2002                                              31
+5                                              NaN                                                                                                                NaN                                                                                                                NaN                                             NaN
+6                                              NaN  Consolidated Statements of  Shareholders’ Equity for each of the three years in the period ended January 31, 2003  Consolidated Statements of  Shareholders’ Equity for each of the three years in the period ended January 31, 2003                                              32
+7                                              NaN                                                                                                                NaN                                                                                                                NaN                                             NaN
+8                                              NaN            Consolidated Statements of Cash  Flows for each of the three years in the period ended January 31, 2003            Consolidated Statements of Cash  Flows for each of the three years in the period ended January 31, 2003                                              33
+9                                              NaN                                                                                                                NaN                                                                                                                NaN                                             NaN
+10                                             NaN                                                        Notes to Consolidated Financial  Statements, except Note 12                                                        Notes to Consolidated Financial  Statements, except Note 12                                              34
+11                                             NaN                                                                                                                NaN                                                                                                                NaN                                             NaN
+12  Not Covered by Report of Independent Auditors:                                                                     Not Covered by Report of Independent Auditors:                                                                     Not Covered by Report of Independent Auditors:  Not Covered by Report of Independent Auditors:
+13                                             NaN                                                                    Note 12 - Quarterly Financial Data  (Unaudited)                                                                    Note 12 - Quarterly Financial Data  (Unaudited)                                              50
+
+----- context @ 127797 -----
+to be held on Friday, June 6, 2003, which proxy statement is being filed
+contemporaneously with this Annual Report (the &quot;Proxy Statement&quot;). 
+ 
+
+ ITEM 6.&nbsp;&nbsp;SELECTED FINANCIAL DATA 
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this item is
+incorporated by reference to all information under the caption &quot;11-Year Financial
+Summary&quot; on pages 16 and 17 of the Annual Report to Shareholders for the year ended
+January 31, 2003. Such information is included in an exhibit to this annual report. 
+
+ ITEM 7.&nbsp;&nbsp;MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this item is
+furnished by incorporation by reference to all information under the caption
+&quot;Management&#146;s Discussion and Analysis&quot; on pages 18 through 29 of the Annual
+Report to Shareholders for the year ended January 31, 2003. Such information is included
+in an exhibit to this annual report. 
+ 
+
+ ITEM 7a.&nbsp;&nbsp;QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT
+MARKET RISK 
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this item is
+furnished by incorporation by reference to all information under the sub-caption
+&quot;Market Risk&quot; of the caption &quot;Management&#146;s Discussion and
+Analysis&quot; on pages 25 through 28 of the Annual Report to Shareholders for the year
+ended January 31, 2003. Such information is included in an exhibit to this annual report. 
+ 
+
+ ITEM 8.&nbsp;&nbsp;FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required by this item is
+furnished by incorporation by reference to all information under the captions
+&quot;Consolidated Statements of Income,&quot; &quot;Consolidated Balance Sheets,&quot;
+&quot;Consolidated Statements of Shareholders&#146; Equity,&quot; &quot;Consolidated
+Statements of Cash Flows,&quot; &quot;Notes to Consolidated Financial Statements&quot; and
+&quot;Report of Independent Auditors&quot; on pages 30 through 51 of the Annual Report to
+Shareholders for the year ended January 31, 2003. Such information is included in an
+exhibit to this annual report. 
+ 
+
+ ITEM 9.&nbsp;&nbsp;CHANGES IN AND DISAGREEMENTS
+WITH ACCOUNTANTS ON ACCOUNTING AND 
+FINANCIAL DISCLOSURE 
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None. 
+ 
+
+ PART III 
+
+ ITEM 10.&nbsp;&nbsp;DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT 
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information required by this item with
+respect to the Company&#146;s directors and compliance by the Company&#146;s directors,
+executive officers and certain beneficial owners of the Company&#146;s Common Stock with
+Section 16(a) of the Securities Exchange Act of 1934 is furnished by incorporation by
+reference to all information under the captions entitled &quot;Nominees for
+Directors&quot; on pages 2 and 3 and &quot;Section 16(a) Beneficial Ownership Reporting
+Compliance&quot; on page 13 of the Proxy Statement. 
+ 
+
+ Page 16 of 26 
+
+ &nbsp; 
+
+ EXECUTIVE OFFICERS OF THE REGISTRANT 
+ 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following chart names each of the
+executive officers of the Company, each of whom is elected by and serves at the pleasure
+of the Board of Directors. The business experience shown for each officer has been his
+principal occupation for at least the past five years. 
+ 
+
+ 
+ 
+ Name 
+ Business Experience 
+ Current 
+ Position 
+ Held Since 
+ Age 
+ 
+ 
+ S. Robson Walton 
+ Chairman of the Board. 
+ 1992 
+ 58 
+ 
+ 
+ David D. Glass 
+ Chairman, Executive
+ Committee of the Board. Prior to January 2000, he served as President and Chief Executive
+ Officer of the Company. 
+ 2000 
+ 67 
+ 
+ 
+ H. Lee Scott,
+ Jr. 
+ President and
+ Chief Executive Officer. From January 1999 to January 2000, he served as Vice Chairman and
+ Chief Operating Officer of the Company. From January 1998 to January 1999, he served as
+ President and Chief Executive Officer of our Wal-Mart Stores Division. Prior to January
+ 1998, he serv

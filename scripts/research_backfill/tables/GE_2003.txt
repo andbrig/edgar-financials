@@ -1,0 +1,312 @@
+SOURCE: GE_2003_10-K.htm
+
+Found 10 HTML tables.
+
+===== TABLE 1 (year-hits=4) =====
+                                                                                            0                                                                                          1
+0                                                                                  (Mark One)                                                                                 (Mark One)
+1                                                                                           þ      Annual Report Pursuant to Section 13 or 15(d) of the  Securities Exchange Act of 1934
+2                                                                                         NaN                                                                                        NaN
+3                                                 For the fiscal year ended December 31, 2003                                                For the fiscal year ended December 31, 2003
+4                                                                                          or                                                                                         or
+5                                                                                           ¨  Transition Report pursuant to Section 13 or 15(d) of the  Securities Exchange Act of 1934
+6                                                                                         NaN                                                                                        NaN
+7                                    For the transition period from ___________to ___________                                   For the transition period from ___________to ___________
+8                                                                                         NaN                                                                                        NaN
+9   _____________________________  Commission file number 1-35  _____________________________  _____________________________  Commission file number 1-35  _____________________________
+10                                                                                        NaN                                                                                        NaN
+11               General Electric Company  (Exact name of registrant as specified in charter)               General Electric Company  (Exact name of registrant as specified in charter)
+
+===== TABLE 4 (year-hits=12) =====
+                                        0                           1                           2                           3                           4                           5                           6   7                 8                 9                 10                11                12                13
+0                                      NaN  % of Consolidated Revenues  % of Consolidated Revenues  % of Consolidated Revenues  % of Consolidated Revenues  % of Consolidated Revenues  % of Consolidated Revenues NaN  % of GE Revenues  % of GE Revenues  % of GE Revenues  % of GE Revenues  % of GE Revenues  % of GE Revenues
+1                                      NaN                         NaN                         NaN                         NaN                         NaN                         NaN                         NaN NaN               NaN               NaN               NaN               NaN               NaN               NaN
+2                                      NaN                        2003                        2003                        2002                        2002                        2001                        2001 NaN              2003              2003              2002              2002              2001              2001
+3                                      NaN                         NaN                         NaN                         NaN                         NaN                         NaN                         NaN NaN               NaN               NaN               NaN               NaN               NaN               NaN
+4  Total sales to U.S. Government Agencies                           2                           %                           2                           %                           2                           % NaN                 4                 %                 4                 %                 4                 %
+5   Aircraft Engines defense-related sales                           2                         NaN                           2                         NaN                           2                         NaN NaN                 3               NaN                 3               NaN                 3               NaN
+
+----- context @ 11170 -----
+ 
+ Item 6. 
+ 
+ Selected Financial Data&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ 
+ 19 
+ 
+ 
+ 
+ Item 7. 
+ 
+ Management's Discussion and Analysis of Financial Condition
+ and Results of Operations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ 
+ 19 
+ 
+ 
+ 
+ Item 7A. 
+ 
+ Quantitative and Qualitative Disclosures About Market
+ Risk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ 
+ 19 
+ 
+ 
+ 
+ Item 8. 
+ 
+ Financial Statements and Supplementary Data&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ 
+ 19 
+ 
+ 
+ 
+ Item 9. 
+ 
+ Changes in and Disagreements with Accountants on Accounting
+ and Financial Disclosure&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ 
+ 20 
+ 
+ 
+ 
+ Item 9A. 
+ 
+ Controls and Procedures&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ 
+ 20 
+ 
+ 
+ &nbsp; 
+ &nbsp; 
+ 
+ 
+ 
+ Part III 
+ &nbsp; 
+ 
+ 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ 
+ 
+ 
+ Item 10. 
+ 
+ Directors and Executive Officers of the Registrant&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ 
+ 21 
+ 
+ 
+ 
+ Item 11. 
+ 
+ Executive Compensation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ 
+ 22 
+ 
+ 
+ 
+ Item 12. 
+ 
+ Security Ownership of Certain Beneficial Owners and
+ Management&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ 
+ 22 
+ 
+ 
+ 
+ Item 13. 
+ 
+ Certain Relationships and Related Transactions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ 
+ 22 
+ 
+ 
+ 
+ Item 14. 
+ 
+ Principal Accountant Fees and Services&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ 
+ 22 
+ 
+ 
+ &nbsp; 
+ &nbsp; 
+ 
+ 
+ 
+ Part IV 
+ &nbsp; 
+ 
+ 
+ &nbsp; 
+ &nbsp; 
+ &nbsp; 
+ 
+ 
+ 
+ Item 15. 
+ 
+ Exhibits, Financial Statement Schedules, and Reports on Form
+ 8-K&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ 
+ 23 
+ 
+ 
+ &nbsp; 
+ 
+ Signatures &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ 
+ 29 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ Table of Contents &nbsp; 
+ 
+ Part I 
+ 
+ Item 1
+
+----- context @ 94435 -----
+Issuance under Equity Compensation Plans&quot; is
+reported in note 25 on pages 99-100 of the Annual Report to Shareowners for the
+fiscal year ended December 31, 2003. 
+ 
+ Item 6. Selected Financial Data 
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reported as data for revenues; net earnings; net earnings
+per share (basic and diluted); dividends declared; dividends declared per share;
+long-term borrowings; and total assets appearing on page 66 of the 2003 Annual
+Report to Shareowners for the fiscal year ended December 31, 2003. 
+ 
+ Item 7. Management's Discussion and Analysis of Financial
+Condition and Results of Operations 
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reported on pages 44-47 and 49-69 (and graphs on pages 44,
+45, 47, 55, 56 and 61) of the Annual Report to Shareowners for the fiscal year
+ended December 31, 2003. 
+ 
+ Item 7A. Quantitative and Qualitative Disclosures About Market
+Risk 
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reported on page 60 of the Annual Report to Shareowners for
+the fiscal year ended December 31, 2003. 
+ 
+ Item 8. Financial Statements and Supplementary Data 
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See index under item 15. 
+ (19) 
+ 
+ Table of Contents &nbsp; 
+ 
+ Item 9. Changes in and Disagreements with Accountants on
+Accounting and Financial Disclosure 
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not applicable. 
+ 
+ Item 9A. Controls and Procedures 
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under the direction of our Chief Executive Officer and
+Chief Financial Officer, we evaluated our disclosure controls and procedures and
+internal control over financial reporting and concluded that (i) our disclosure
+controls and procedures were effective as of December 31, 2003 and (ii) no
+change in internal control over financial reporting occurred during the quarter
+ended December 31, 2003 that has materially affected, or is reasonably likely to
+materially affect, such internal control over financial reporting. 
+ (20) 
+ 
+ Table of Contents &nbsp; 
+ 
+ Part III 
+ 
+ Item 10. Directors and Executive Officers of the Registrant 
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Executive Officers of the Registrant (As of March 1, 2004) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Name 
+ 
+ &nbsp;&nbsp;&nbsp; 
+ 
+ Position 
+ 
+ &nbsp;&nbsp;&nbsp; 
+ 
+ Age 
+ 
+ &nbsp;&nbsp;&nbsp; 
+ 
+ Date assumed 
+ Executive 
+ Officer Position 
+ 
+ 
+ 
+ 
+ &nbsp; 
+ 
+ 
+ &nbsp; 
+ 
+ 
+ &nbsp; 
+ 
+ 
+ 
+ 
+ 
+ Jeffrey R. Immelt 
+ &nbsp; 
+ 
+ Chairman of the Board and Chief Executive Officer 
+ &nbsp; 
+ 
+ 48 
+ &nbsp; 
+ 
+ January 1997 
+ 
+ 
+ 
+ Philip D. Ameen 
+ &nbsp; 
+ 
+ Vice President and Comptroller 
+ &nbsp; 
+ 
+ 55 
+ &nbsp; 
+ 
+ April 1994 
+ 
+ 
+ 
+ Ferdinando Beccalli 
+ &nbsp; 
+ 
+ President and Chief Executive Officer, GE Europe 
+ &nbsp; 
+ 
+ 54 
+ &nbsp; 
+ 
+ September 2003 
+ 
+ 
+ 
+ Charlene T. Begley 
+ &nbsp; 
+ 
+ Vice President, GE Transportation Sy
